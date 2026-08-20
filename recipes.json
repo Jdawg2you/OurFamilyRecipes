@@ -557,7 +557,9 @@
     "cook": "about 20 min, plus mixing",
     "total": "plus at least 6 hr freezing",
     "oven": null,
-    "course": [],
+    "course": [
+      "Frozen Desserts"
+    ],
     "main": [
       "Chocolate"
     ],
@@ -2193,7 +2195,7 @@
     "total": null,
     "oven": "425°F",
     "course": [
-      "Cakes"
+      "Cakes & Pies"
     ],
     "main": [
       "Fruit"
@@ -2263,7 +2265,7 @@
     "total": null,
     "oven": null,
     "course": [
-      "Cakes"
+      "Cakes & Pies"
     ],
     "main": [
       "Vegetarian"
@@ -2415,7 +2417,7 @@
     "total": null,
     "oven": "350°F",
     "course": [
-      "Cakes"
+      "Cakes & Pies"
     ],
     "main": [
       "Chocolate"
@@ -2502,7 +2504,7 @@
     "total": null,
     "oven": "350°F",
     "course": [
-      "Cakes"
+      "Cakes & Pies"
     ],
     "main": [
       "Cream Cheese"
@@ -2587,7 +2589,8 @@
       "For icing, beat butter and cream cheese until smooth. Beat in powdered sugar and vanilla; frost cooled cake."
     ],
     "notes": [
-      "Icing ingredients are marked \"(icing)\" — the schema has no ingredient groups yet."
+      "Icing ingredients are marked \"(icing)\" — the schema has no ingredient groups yet.",
+      "A second copy of this recipe existed on another card with two small differences: 1/2 tsp salt instead of 1 tsp, and walnuts as an optional garnish rather than a listed ingredient. Merged here so the variant is not lost."
     ]
   },
   {
@@ -2603,7 +2606,7 @@
     "total": null,
     "oven": "400°F",
     "course": [
-      "Cakes"
+      "Cakes & Pies"
     ],
     "main": [
       "Fruit"
@@ -3285,7 +3288,7 @@
     "total": "1 hr 10 min",
     "oven": "350°F",
     "course": [
-      "Cakes"
+      "Cakes & Pies"
     ],
     "main": [
       "Rice"
@@ -3492,7 +3495,7 @@
     "total": null,
     "oven": "350°F",
     "course": [
-      "Cakes"
+      "Cakes & Pies"
     ],
     "main": [
       "Chocolate"
@@ -3593,18 +3596,20 @@
     "notes": []
   },
   {
-    "id": "perfectly-chocolate-hot-cocoa",
-    "title": "\"Perfectly Chocolate\" Hot Cocoa",
+    "id": "perfectly-chocolate-hot-cocoa-single",
+    "title": "\"Perfectly Chocolate\" Hot Cocoa (Single Serving)",
     "collection": "collected",
     "source": "Hershey's — \"Perfectly Chocolate\" Hot Cocoa",
-    "yield": "1 serving (microwave) or 6 servings (stovetop)",
-    "yieldNum": null,
-    "yieldUnit": null,
+    "yield": "1 serving",
+    "yieldNum": 1,
+    "yieldUnit": "serving",
     "prep": null,
     "cook": null,
     "total": null,
     "oven": null,
-    "course": [],
+    "course": [
+      "Beverages"
+    ],
     "main": [
       "Chocolate"
     ],
@@ -3619,67 +3624,103 @@
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "sugar (single serving)"
+        "n": "sugar"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "Hershey's Cocoa (single serving)"
+        "n": "Hershey's Cocoa"
       },
       {
         "q": null,
         "u": null,
-        "n": "Dash of salt (single serving)"
+        "n": "Dash of salt"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "milk (single serving)"
+        "n": "milk"
       },
       {
         "q": "1/4",
         "u": "tsp",
-        "n": "vanilla extract (single serving)"
-      },
+        "n": "vanilla extract"
+      }
+    ],
+    "steps": [
+      "Mix the sugar, cocoa, and salt in a large mug.",
+      "Heat the milk on HIGH about 1 1/2 minutes, or until hot.",
+      "Gradually stir the hot milk into the cocoa mixture, then stir in the vanilla."
+    ],
+    "notes": [
+      "The microwave version, sized for one mug. The stovetop version is a separate recipe."
+    ]
+  },
+  {
+    "id": "perfectly-chocolate-hot-cocoa-stovetop",
+    "title": "\"Perfectly Chocolate\" Hot Cocoa (Stovetop, 6 Servings)",
+    "collection": "collected",
+    "source": "Hershey's — \"Perfectly Chocolate\" Hot Cocoa",
+    "yield": "6 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Beverages"
+    ],
+    "main": [
+      "Chocolate"
+    ],
+    "season": [
+      "Winter"
+    ],
+    "method": [
+      "No-bake"
+    ],
+    "isBaked": false,
+    "ingredients": [
       {
         "q": "1/2",
         "u": "cup",
-        "n": "sugar (6 servings)"
+        "n": "sugar"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "Hershey's Cocoa (6 servings)"
+        "n": "Hershey's Cocoa"
       },
       {
         "q": null,
         "u": null,
-        "n": "Dash of salt (6 servings)"
+        "n": "Dash of salt"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "hot water (6 servings)"
+        "n": "hot water"
       },
       {
         "q": "4",
         "u": "cups",
-        "n": "milk (6 servings)"
+        "n": "milk"
       },
       {
         "q": "3/4",
         "u": "tsp",
-        "n": "vanilla extract (6 servings)"
+        "n": "vanilla extract"
       }
     ],
     "steps": [
-      "Microwave single serving: Mix sugar, cocoa, and salt in a large mug. Heat milk on HIGH about 1 1/2 minutes or until hot. Gradually stir hot milk into cocoa mixture; stir in vanilla.",
-      "Stovetop 6 servings: Mix sugar, cocoa, and salt in a saucepan; stir in hot water. Cook over medium heat until mixture boils, then boil and stir 2 minutes.",
-      "Stir in milk and heat through without boiling. Remove from heat and stir in vanilla."
+      "Mix the sugar, cocoa, and salt in a saucepan and stir in the hot water.",
+      "Cook over medium heat until the mixture boils, then boil and stir 2 minutes.",
+      "Stir in the milk and heat through without boiling.",
+      "Remove from heat and stir in the vanilla."
     ],
     "notes": [
-      "This record holds TWO complete ingredient sets — a 1-serving version and a 6-serving version. Scaling it will produce nonsense. Recommend splitting into two recipes.",
-      "No course tag — the taxonomy has no beverage category."
+      "The stovetop version, sized for six. The single-mug microwave version is a separate recipe."
     ]
   },
   {
@@ -5062,7 +5103,7 @@
     "total": null,
     "oven": "325°F",
     "course": [
-      "Cakes"
+      "Cakes & Pies"
     ],
     "main": [
       "Chocolate"
@@ -5125,100 +5166,6 @@
     ],
     "notes": [
       "Course tagged \"Cakes\" for now — the taxonomy has no pie category."
-    ]
-  },
-  {
-    "id": "carrot-cake",
-    "title": "Carrot Cake",
-    "collection": "family",
-    "source": null,
-    "yield": null,
-    "yieldNum": null,
-    "yieldUnit": null,
-    "prep": null,
-    "cook": "45–50 min",
-    "total": null,
-    "oven": "350°F",
-    "course": [
-      "Cakes"
-    ],
-    "main": [
-      "Cream Cheese"
-    ],
-    "season": [
-      "Easter"
-    ],
-    "method": [],
-    "isBaked": true,
-    "ingredients": [
-      {
-        "q": "2",
-        "u": "cups",
-        "n": "flour"
-      },
-      {
-        "q": "2",
-        "u": "cups",
-        "n": "sugar"
-      },
-      {
-        "q": "2",
-        "u": "tsp",
-        "n": "cinnamon"
-      },
-      {
-        "q": "2",
-        "u": "tsp",
-        "n": "baking soda"
-      },
-      {
-        "q": "1/2",
-        "u": "tsp",
-        "n": "salt"
-      },
-      {
-        "q": "1 1/2",
-        "u": "cups",
-        "n": "cooking oil"
-      },
-      {
-        "q": "4",
-        "u": null,
-        "n": "eggs"
-      },
-      {
-        "q": "3",
-        "u": "cups",
-        "n": "shredded raw carrots (about 4 carrots)"
-      },
-      {
-        "q": "1/2",
-        "u": "cup",
-        "n": "butter or margarine (icing) (1 stick)"
-      },
-      {
-        "q": "1",
-        "u": "(8 oz) package",
-        "n": "cream cheese (icing)"
-      },
-      {
-        "q": "1",
-        "u": "lb",
-        "n": "powdered sugar (icing)"
-      },
-      {
-        "q": "2 1/2",
-        "u": "tsp",
-        "n": "vanilla (icing)"
-      }
-    ],
-    "steps": [
-      "Mix dry cake ingredients with oil. Add eggs one at a time; blend in carrots.",
-      "Pour batter into a greased and floured 9 x 13-inch pan. Bake at 350°F for 45–50 minutes, or until a toothpick tests clean. Cool and frost. Sprinkle with chopped nuts if desired.",
-      "For icing, combine butter, cream cheese, powdered sugar, and vanilla in a small mixer bowl. Beat until creamy."
-    ],
-    "notes": [
-      "NEAR-DUPLICATE of Mom's Carrot Cake. Differences: 1/2 tsp salt here vs 1 tsp there; walnuts are a listed ingredient there but only an optional garnish here. Likely the same family recipe recorded twice."
     ]
   },
   {
@@ -5316,7 +5263,7 @@
     "total": null,
     "oven": "350°F",
     "course": [
-      "Cakes"
+      "Cakes & Pies"
     ],
     "main": [
       "Fruit"
@@ -5526,6 +5473,3768 @@
     ],
     "notes": [
       "Very close to Italian Amaretti Cookies (collected) — same four core ingredients, different ratios and a lower oven. Kept separate deliberately."
+    ]
+  },
+  {
+    "id": "restaurant-style-salsa",
+    "title": "Restaurant-Style Salsa",
+    "collection": "collected",
+    "source": "The Pioneer Woman — Restaurant-Style Salsa",
+    "yield": "12 servings",
+    "yieldNum": 12,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": null,
+    "total": "10 min plus chilling",
+    "oven": null,
+    "course": [
+      "Appetizers & Dips",
+      "Sauces & Marinades"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [
+      "Game Day"
+    ],
+    "method": [
+      "No-bake",
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "(28 oz) can",
+        "n": "whole tomatoes, including juice"
+      },
+      {
+        "q": "2",
+        "u": "(10 oz) cans",
+        "n": "diced tomatoes with green chilies, such as Rotel"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "chopped onion"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "jalapeño, quartered and thinly sliced"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "garlic clove, minced"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "sugar"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "ground cumin"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Juice of 1/2 lime"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "fresh cilantro, plus more to taste"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Tortilla chips, for serving"
+      }
+    ],
+    "steps": [
+      "Add the whole tomatoes and their juice, diced tomatoes with green chilies, onion, jalapeño, garlic, sugar, salt, cumin, lime juice, and cilantro to a food processor.",
+      "Pulse until the salsa reaches your preferred consistency; about 10–15 pulses gives a smooth restaurant-style texture.",
+      "Taste with a tortilla chip and adjust seasoning, cilantro, or lime juice as desired.",
+      "Transfer to a covered container and refrigerate at least 1 hour before serving.",
+      "Serve chilled with tortilla chips or alongside Mexican dishes."
+    ],
+    "notes": [
+      "For milder salsa, remove the jalapeño seeds and membrane. For more heat, leave them in or add more jalapeño.",
+      "The salsa tends to get spicier as it sits.",
+      "Keeps refrigerated in a covered container up to 7 days."
+    ]
+  },
+  {
+    "id": "best-classic-shepherds-pie",
+    "title": "Best Classic Shepherd's Pie",
+    "collection": "collected",
+    "source": "The Wholesome Dish — The Best Classic Shepherd's Pie",
+    "yield": "6 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "50 min",
+    "total": "1 hr 10 min",
+    "oven": "400°F",
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Beef",
+      "Potato"
+    ],
+    "season": [
+      "Winter"
+    ],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "chopped yellow onion"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "90% lean ground beef or ground lamb"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "dried parsley"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "dried rosemary"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "dried thyme"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "ground black pepper"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "Worcestershire sauce"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "garlic cloves, minced"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "tomato paste"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "beef broth"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "frozen mixed peas and carrots"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "frozen corn"
+      },
+      {
+        "q": "1 1/2–2",
+        "u": "lb",
+        "n": "russet potatoes, peeled and cut into 1-inch cubes (topping)"
+      },
+      {
+        "q": "8",
+        "u": "Tbsp",
+        "n": "unsalted butter (topping)"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "half-and-half (topping)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "garlic powder (topping)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt (topping)"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "black pepper (topping)"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "Parmesan cheese (topping)"
+      }
+    ],
+    "steps": [
+      "Heat the olive oil in a large skillet over medium-high heat. Add the onion and cook about 5 minutes.",
+      "Add the beef or lamb and season with parsley, rosemary, thyme, salt, and pepper. Cook 6–8 minutes, breaking up the meat as it browns.",
+      "Stir in the Worcestershire sauce and garlic; cook 1 minute.",
+      "Add the flour and tomato paste and stir until fully incorporated.",
+      "Add the beef broth, peas and carrots, and corn. Bring to a boil, then reduce heat and simmer 5 minutes.",
+      "Preheat oven to 400°F.",
+      "Boil the potatoes 10–15 minutes until fork-tender. Drain and return to the hot pot for 1 minute to dry.",
+      "Add the butter, half-and-half, garlic powder, salt, and pepper and mash smooth. Stir in the Parmesan.",
+      "Spread the meat mixture in a 9x9-inch or 7x11-inch baking dish and top evenly with the mashed potatoes.",
+      "Bake uncovered 25–30 minutes. Rest 15 minutes before serving."
+    ],
+    "notes": [
+      "Ground lamb makes traditional Shepherd's Pie; ground beef makes Cottage Pie.",
+      "Can be assembled ahead and refrigerated up to 3 days before baking."
+    ]
+  },
+  {
+    "id": "easy-breakfast-casserole",
+    "title": "Easy Breakfast Casserole",
+    "collection": "collected",
+    "source": "All Things Mamma — Easy Breakfast Casserole",
+    "yield": "12 servings",
+    "yieldNum": 12,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "1 hr",
+    "total": "1 hr 10 min",
+    "oven": "350°F",
+    "course": [
+      "Breakfast",
+      "Main Dishes"
+    ],
+    "main": [
+      "Pork",
+      "Cheese",
+      "Potato"
+    ],
+    "season": [
+      "Christmas"
+    ],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "breakfast sausage"
+      },
+      {
+        "q": "6",
+        "u": null,
+        "n": "eggs"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "milk"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": "15",
+        "u": "oz",
+        "n": "frozen hash browns"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "shredded cheddar cheese"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F.",
+      "Brown and crumble the sausage in a skillet.",
+      "Whisk the eggs and milk together, then stir in the salt and pepper.",
+      "Coat a 9x13-inch baking dish with cooking spray.",
+      "Add the hash browns, sausage, and cheese to the dish and stir together.",
+      "Pour the egg mixture evenly over the top.",
+      "Cover with foil and bake 45 minutes.",
+      "Remove the foil and bake 10–15 minutes more, until the center is set."
+    ],
+    "notes": [
+      "Can be assembled the night before and refrigerated; allow extra baking time if going in cold.",
+      "Bacon, ham, turkey sausage, vegetables, or other melting cheeses all substitute well."
+    ]
+  },
+  {
+    "id": "granola-bar-bites",
+    "title": "Granola Bar Bites",
+    "collection": "collected",
+    "source": "Real Life Dinner — Granola Bar Bites",
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": "15 min",
+    "cook": null,
+    "total": "15 min plus chilling",
+    "oven": null,
+    "course": [
+      "Cookies & Bars"
+    ],
+    "main": [
+      "Peanut Butter"
+    ],
+    "season": [],
+    "method": [
+      "No-bake",
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "crispy rice cereal"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "quick oats"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "mini marshmallows"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "chopped walnuts or other nuts"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "raisins"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "mini M&M's"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "ground flaxseed (optional)"
+      },
+      {
+        "q": "1",
+        "u": "heaping Tbsp",
+        "n": "chia seeds"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "coconut oil (optional)"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "peanut butter"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "honey"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "agave nectar"
+      }
+    ],
+    "steps": [
+      "Combine the cereal, oats, nuts, raisins, flaxseed, chia seeds, coconut oil, and vanilla in a large bowl.",
+      "Microwave the honey and agave for 1 minute 30 seconds.",
+      "Stir the marshmallows into the hot mixture until melted, microwaving another 10–15 seconds if needed.",
+      "Stir in the peanut butter until smooth.",
+      "Pour over the dry ingredients and stir until everything is coated.",
+      "Cool 2–3 minutes, then gently mix in the mini M&M's.",
+      "Portion with a cookie scoop and form into balls.",
+      "Refrigerate or freeze a couple of hours before serving."
+    ],
+    "notes": [
+      "A plastic bag over your hand helps when shaping the sticky mixture.",
+      "The coconut oil, chia, and flaxseed are all optional.",
+      "Keep refrigerated or frozen."
+    ]
+  },
+  {
+    "id": "creamy-cilantro-verde-enchiladas",
+    "title": "Creamy Cilantro Verde Enchiladas",
+    "collection": "collected",
+    "source": "Real Life Dinner — Creamy Cilantro Verde Enchiladas",
+    "yield": "10 servings",
+    "yieldNum": 10,
+    "yieldUnit": "servings",
+    "prep": "25 min",
+    "cook": "55 min",
+    "total": "1 hr 20 min",
+    "oven": "350°F",
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Chicken",
+      "Cream Cheese"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "cooked chicken breast, cubed or shredded"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "salsa verde"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "small white or yellow onion, chopped"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "cloves garlic"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "jalapeño, seeded"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "fresh cilantro, loosely packed"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": "(8 oz) package",
+        "n": "full-fat cream cheese, softened"
+      },
+      {
+        "q": "10",
+        "u": null,
+        "n": "flour tortillas"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "shredded Monterey Jack cheese"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F.",
+      "Blend the salsa verde, onion, garlic, jalapeño, cilantro, and salt.",
+      "Add the cream cheese and blend until smooth.",
+      "Mix the cooked chicken with about two-thirds of the sauce.",
+      "Spread a little of the remaining sauce in a 9x13-inch baking dish.",
+      "Fill each tortilla with about 1/2 cup of the chicken mixture, roll, and arrange in the dish.",
+      "Spread the remaining sauce over the enchiladas.",
+      "Cover with foil and bake 45 minutes.",
+      "Uncover, top with the Monterey Jack, and bake 10–15 minutes more."
+    ],
+    "notes": [
+      "Rotisserie chicken works well here.",
+      "Use full-fat cream cheese for the intended texture.",
+      "Can be assembled ahead and frozen."
+    ]
+  },
+  {
+    "id": "savannah-strawberry-tall-cake",
+    "title": "Savannah Strawberry Tall Cake",
+    "collection": "collected",
+    "source": "Paula Deen — Savannah Strawberry Tall Cake",
+    "yield": "20 servings",
+    "yieldNum": 20,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "20 min",
+    "total": "40 min plus cooling",
+    "oven": null,
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Fruit",
+      "Cream Cheese"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "box",
+        "n": "white cake mix, prepared and baked in three 8-inch round pans"
+      },
+      {
+        "q": "3",
+        "u": "quarts",
+        "n": "fresh strawberries, stemmed and halved"
+      },
+      {
+        "q": "1 1/3",
+        "u": "cups",
+        "n": "granulated sugar, divided (1/3 cup for the berries, 1 cup for the cream)"
+      },
+      {
+        "q": "16",
+        "u": "oz",
+        "n": "cream cheese, room temperature"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "heavy cream"
+      }
+    ],
+    "steps": [
+      "Combine the strawberries with 1/3 cup of the sugar and refrigerate.",
+      "Prepare the cake mix and bake in three 8-inch round pans until done, about 15–20 minutes. Cool completely.",
+      "Beat the cream cheese, remaining 1 cup sugar, and vanilla until light and fluffy.",
+      "With the mixer on low, slowly add the heavy cream, then increase speed and whip to stiff peaks.",
+      "Layer cake, strawberries, and the whipped cream mixture, repeating for all three layers.",
+      "Decorate the top with the remaining strawberries and serve with extra cream mixture alongside."
+    ],
+    "notes": [
+      "Cool the cake layers completely before assembly.",
+      "Macerating the strawberries creates a sweet syrup.",
+      "The cream cheese should be at room temperature."
+    ]
+  },
+  {
+    "id": "bread-machine-cinnamon-rolls",
+    "title": "Bread Machine Cinnamon Rolls",
+    "collection": "collected",
+    "source": "Thriving Home — Bread Machine Cinnamon Rolls",
+    "yield": "25–30 small rolls",
+    "yieldNum": 25,
+    "yieldUnit": "rolls",
+    "prep": "2 hr",
+    "cook": "17–20 min",
+    "total": "about 3 hr 17 min",
+    "oven": "350°F",
+    "course": [
+      "Breads & Rolls",
+      "Breakfast"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [
+      "Christmas"
+    ],
+    "method": [
+      "Bread machine",
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1 1/3",
+        "u": "cups",
+        "n": "lukewarm water (110–115°F)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "butter, softened and cut into chunks"
+      },
+      {
+        "q": "5",
+        "u": "Tbsp",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "1",
+        "u": "large",
+        "n": "egg"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "4 1/2",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "quick-rise yeast"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "brown sugar (filling)"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "ground cinnamon (filling)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "butter, melted (filling)"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "powdered sugar (glaze)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "vanilla extract (glaze)"
+      },
+      {
+        "q": "4",
+        "u": "Tbsp",
+        "n": "milk, plus more as needed (glaze)"
+      }
+    ],
+    "steps": [
+      "Add the dough ingredients to the bread machine in the order listed and run the dough cycle.",
+      "Combine the brown sugar and cinnamon.",
+      "Divide the finished dough in half. Roll one half into about an 18x12-inch rectangle.",
+      "Brush with half the melted butter and sprinkle with half the cinnamon sugar.",
+      "Roll up from a long edge into a log and slice into about 1-inch rolls.",
+      "Repeat with the remaining dough. Arrange on a greased baking sheet.",
+      "Cover and rise 25–30 minutes.",
+      "Preheat oven to 350°F and bake 17–20 minutes.",
+      "Whisk the powdered sugar, vanilla, and milk and drizzle over the warm rolls."
+    ],
+    "notes": [
+      "A metal baking sheet helps caramelize the bottoms.",
+      "For a stand mixer instead, knead 7–8 minutes and let rise 1–1 1/2 hours.",
+      "Unbaked rolls can be frozen up to 3 months."
+    ]
+  },
+  {
+    "id": "instant-pot-macaroni-and-cheese",
+    "title": "The Best Instant Pot Macaroni and Cheese",
+    "collection": "collected",
+    "source": "Real Life Dinner — The Best Instant Pot Macaroni and Cheese",
+    "yield": "8 servings",
+    "yieldNum": 8,
+    "yieldUnit": "servings",
+    "prep": "5 min",
+    "cook": "5 min",
+    "total": "10 min",
+    "oven": null,
+    "course": [
+      "Main Dishes",
+      "Sides"
+    ],
+    "main": [
+      "Pasta",
+      "Cheese"
+    ],
+    "season": [],
+    "method": [
+      "Instant Pot"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "(16 oz) box",
+        "n": "medium shell pasta"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "hot sauce"
+      },
+      {
+        "q": "3/4",
+        "u": "tsp",
+        "n": "garlic salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "onion powder"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "butter"
+      },
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "chicken broth"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "milk"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "shredded cheddar cheese"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "shredded mozzarella cheese"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "shredded Parmesan cheese"
+      }
+    ],
+    "steps": [
+      "Add the pasta, hot sauce, seasonings, butter, and broth to a 6- or 8-quart Instant Pot.",
+      "Stir and gently press the pasta down into the broth.",
+      "Cook on High Pressure for 5 minutes.",
+      "Quick-release the pressure carefully.",
+      "Stir in the milk first, then the cheeses, until smooth and melted.",
+      "Add a little more milk if needed and serve immediately."
+    ],
+    "notes": [
+      "Medium shells are especially good at holding the sauce.",
+      "Freshly shredded cheese melts most smoothly.",
+      "Leftovers keep refrigerated up to 5 days."
+    ]
+  },
+  {
+    "id": "easy-one-hour-dinner-rolls",
+    "title": "Easy One-Hour Dinner Rolls",
+    "collection": "collected",
+    "source": "Cooking Classy — Easy One-Hour Dinner Rolls",
+    "yield": "15 rolls",
+    "yieldNum": 15,
+    "yieldUnit": "rolls",
+    "prep": "20 min",
+    "cook": "15 min",
+    "total": "1 hr",
+    "oven": "375°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [
+      "Thanksgiving"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "3 1/2–4",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "rapid-rise yeast"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "cool water"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "milk"
+      },
+      {
+        "q": "4",
+        "u": "Tbsp",
+        "n": "unsalted butter, cut into pieces, plus more for the tops"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "lemon juice"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 180°F.",
+      "Whisk 3 1/2 cups of the flour, the sugar, yeast, and salt in a stand mixer bowl.",
+      "Heat the water, milk, and butter to about 120°F.",
+      "Add the warm liquid and lemon juice to the dry ingredients.",
+      "Knead with the dough hook about 3 minutes, adding flour only as needed.",
+      "Cover and rest 5 minutes. Butter a 9x13-inch dish.",
+      "Divide the dough into 15 rolls and arrange in the dish.",
+      "Place in the 180°F oven, turn the oven off immediately, and rise 20 minutes without opening the door.",
+      "Remove the rolls and preheat the oven to 375°F.",
+      "Bake 14–16 minutes until golden. Butter the tops immediately."
+    ],
+    "notes": [
+      "Rapid-rise yeast is what makes the one-hour timeline work.",
+      "Do not overheat the milk mixture or over-knead the dough.",
+      "Baked rolls freeze up to 3 months."
+    ]
+  },
+  {
+    "id": "chef-johns-italian-meatballs",
+    "title": "Chef John's Italian Meatballs",
+    "collection": "collected",
+    "source": "Allrecipes — Chef John's Italian Meatballs",
+    "yield": "8 servings",
+    "yieldNum": 8,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "35 min",
+    "total": "2 hr 15 min",
+    "oven": "425°F",
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Beef",
+      "Pork"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "plain breadcrumbs"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "milk or beef broth"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "onion, diced"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "ground beef"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "ground pork"
+      },
+      {
+        "q": "2",
+        "u": "large",
+        "n": "eggs"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "grated Parmesan"
+      },
+      {
+        "q": "1/4",
+        "u": "bunch",
+        "n": "fresh parsley, chopped"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "cloves garlic, crushed"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "dried Italian seasoning"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "red pepper flakes"
+      }
+    ],
+    "steps": [
+      "Line a baking sheet with foil and grease it lightly.",
+      "Soak the breadcrumbs in the milk or broth for 20 minutes.",
+      "Cook the onion in the olive oil 5 minutes over medium heat, then about 15 minutes over low heat until tender.",
+      "Gently combine the beef, pork, onion, soaked breadcrumbs, eggs, Parmesan, parsley, garlic, and seasonings.",
+      "Cover and refrigerate 1 hour.",
+      "Preheat oven to 425°F.",
+      "Form 1 1/2-inch meatballs and arrange on the baking sheet.",
+      "Bake 15–20 minutes until browned and cooked through.",
+      "Serve with tomato sauce, or simmer in the sauce 1–2 hours."
+    ],
+    "notes": [
+      "An 80/20 ground beef blend keeps the meatballs juicy.",
+      "Avoid overmixing.",
+      "Cooked meatballs freeze well up to 3 months."
+    ]
+  },
+  {
+    "id": "homemade-pasta",
+    "title": "Homemade Pasta",
+    "collection": "collected",
+    "source": "Love & Lemons — Homemade Pasta",
+    "yield": "3–4 servings",
+    "yieldNum": 3,
+    "yieldUnit": "servings",
+    "prep": "30 min",
+    "cook": "2 min",
+    "total": "1 hr 2 min",
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Pasta"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "3",
+        "u": "large",
+        "n": "eggs"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "sea salt"
+      },
+      {
+        "q": "1/2",
+        "u": "Tbsp",
+        "n": "extra-virgin olive oil"
+      }
+    ],
+    "steps": [
+      "Mound the flour on a clean surface and make a well in the center.",
+      "Add the eggs, olive oil, and salt, gradually incorporating the flour with a fork.",
+      "Bring the dough together and knead 8–10 minutes until smooth.",
+      "Wrap tightly and rest at room temperature 30 minutes.",
+      "Divide into 4 pieces and roll progressively thinner through a pasta roller.",
+      "Cut into the shape you want, such as fettuccine.",
+      "Boil in well-salted water 1–2 minutes.",
+      "Drain and serve immediately."
+    ],
+    "notes": [
+      "All-purpose flour works well; 00 flour is not required.",
+      "If the dough is dry, lightly wet your fingers while kneading; if sticky, dust with flour.",
+      "Fresh pasta cooks very quickly — watch it closely."
+    ]
+  },
+  {
+    "id": "japchae-korean-noodles",
+    "title": "Japchae (Korean Noodles)",
+    "collection": "collected",
+    "source": "RecipeTin Eats — Japchae",
+    "yield": "5 servings",
+    "yieldNum": 5,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "15 min",
+    "total": "35 min",
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Beef"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "10",
+        "u": "oz",
+        "n": "boneless beef short ribs or ribeye, thinly sliced"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "soy sauce (beef marinade)"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "sugar (beef marinade)"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "minced garlic (beef marinade)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper (beef marinade)"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "soy sauce (noodle dressing)"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "sugar (noodle dressing)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "minced garlic (noodle dressing)"
+      },
+      {
+        "q": "1 1/2",
+        "u": "Tbsp",
+        "n": "toasted sesame oil (noodle dressing)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "kosher salt (noodle dressing)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper (noodle dressing)"
+      },
+      {
+        "q": "8",
+        "u": "oz",
+        "n": "dried sweet potato noodles (dangmyeon)"
+      },
+      {
+        "q": "4",
+        "u": "Tbsp",
+        "n": "vegetable oil, divided"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "onion, sliced"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "green onions, cut into 2-inch lengths"
+      },
+      {
+        "q": "7",
+        "u": "oz",
+        "n": "shiitake mushrooms, sliced"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "carrots, cut into matchsticks"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "red bell pepper, sliced"
+      },
+      {
+        "q": "4 1/2",
+        "u": "cups",
+        "n": "baby spinach"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "white sesame seeds"
+      }
+    ],
+    "steps": [
+      "Marinate the sliced beef with the soy sauce, sugar, garlic, and pepper for 15–20 minutes.",
+      "Combine the noodle dressing ingredients in a very large bowl.",
+      "Cook the sweet potato noodles per package directions; drain, rinse briefly, and add to the dressing bowl.",
+      "Stir-fry the onion, green onion whites, and mushrooms; transfer to the bowl.",
+      "Stir-fry the carrots and bell pepper, then add the spinach and green onion greens; transfer to the bowl.",
+      "Stir-fry the marinated beef until just cooked; transfer to the bowl.",
+      "Add the sesame seeds and toss everything thoroughly.",
+      "Serve warm or at room temperature."
+    ],
+    "notes": [
+      "Dangmyeon are Korean sweet potato starch noodles.",
+      "Use light or all-purpose soy sauce, not dark soy sauce.",
+      "Refrigerate leftovers up to 3 days."
+    ]
+  },
+  {
+    "id": "fried-scones-utah-scones",
+    "title": "Fried Scones (Utah Scones)",
+    "collection": "collected",
+    "source": "Creme de la Crumb — Fried Scones",
+    "yield": "24 scones",
+    "yieldNum": 24,
+    "yieldUnit": "scones",
+    "prep": "45 min",
+    "cook": "15 min",
+    "total": "1 hr",
+    "oven": null,
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "hot water"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "active dry yeast"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "oil"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "3 1/2",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "egg, beaten"
+      },
+      {
+        "q": "2",
+        "u": "quarts",
+        "n": "oil, for frying"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Honey, powdered sugar, butter, or syrup, for serving"
+      }
+    ],
+    "steps": [
+      "Combine the yeast with 3 Tbsp warm water and a pinch of sugar; let stand 10 minutes until foamy.",
+      "Combine the hot water, oil, salt, and sugar in a large bowl.",
+      "Stir the beaten egg into the yeast mixture, then add to the oil mixture.",
+      "Gradually add the flour and knead about 5 minutes until elastic and smooth.",
+      "Place in a greased bowl and rise about 30 minutes, until doubled.",
+      "Heat 2 inches of frying oil to 350–375°F.",
+      "Punch down the dough and divide into 12 balls. Roll or stretch each to about 1/4 inch thick.",
+      "Fry 2–3 at a time, 1–2 minutes per side, until golden.",
+      "Drain on paper towels and serve warm."
+    ],
+    "notes": [
+      "Honey and powdered sugar is the classic topping.",
+      "Keep the oil between 350–375°F.",
+      "Prepared dough can be refrigerated up to 3 days."
+    ]
+  },
+  {
+    "id": "cilantro-jalapeno-sauce",
+    "title": "Cilantro Jalapeño Sauce",
+    "collection": "collected",
+    "source": "Fifteen Spatulas — Cilantro Jalapeno Sauce",
+    "yield": "about 1 cup (6 servings)",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": null,
+    "total": "10 min",
+    "oven": null,
+    "course": [
+      "Sauces & Marinades"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [],
+    "method": [
+      "No-bake",
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "3",
+        "u": null,
+        "n": "jalapeños"
+      },
+      {
+        "q": "1",
+        "u": "bunch (about 2 oz)",
+        "n": "fresh cilantro"
+      },
+      {
+        "q": "5",
+        "u": "medium",
+        "n": "garlic cloves"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "mayonnaise"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "fresh lime juice"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "avocado oil"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "sea salt"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "black pepper"
+      }
+    ],
+    "steps": [
+      "Remove the jalapeño seeds and ribs for a milder sauce, or leave them in for more heat.",
+      "Roughly chop the jalapeños.",
+      "Blend the jalapeños, cilantro, garlic, mayonnaise, lime juice, oil, salt, and pepper on high for at least 30 seconds, until smooth.",
+      "Taste and adjust the seasoning or lime.",
+      "For the best flavor, refrigerate a few hours before serving."
+    ],
+    "notes": [
+      "Cilantro stems can go in too.",
+      "Olive oil can replace the avocado oil.",
+      "Refrigerate airtight up to 1 week; freezing is not recommended."
+    ]
+  },
+  {
+    "id": "easy-teriyaki-chicken-marinade",
+    "title": "Easy Teriyaki Chicken Marinade",
+    "collection": "collected",
+    "source": "Real Food Whole Life — Teriyaki Chicken Marinade",
+    "yield": "8 servings",
+    "yieldNum": 8,
+    "yieldUnit": "servings",
+    "prep": "5 min",
+    "cook": "10–25 min",
+    "total": "about 45 min",
+    "oven": "425°F",
+    "course": [
+      "Main Dishes",
+      "Sauces & Marinades"
+    ],
+    "main": [
+      "Chicken"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "reduced-sodium soy sauce"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "rice vinegar"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "packed brown sugar"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "garlic cloves, minced"
+      },
+      {
+        "q": "2",
+        "u": "lb",
+        "n": "boneless skinless chicken thighs or breasts"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "water (for the grilling method)"
+      }
+    ],
+    "steps": [
+      "Whisk the soy sauce, rice vinegar, brown sugar, and garlic until the sugar dissolves. Reserve half for serving.",
+      "To grill: marinate the chicken in the remaining half plus 2 Tbsp water for 30–60 minutes. Grill over medium-high heat until thighs reach 170°F or breasts reach 165°F. Rest 5 minutes, slice, and drizzle with the reserved marinade.",
+      "To bake: preheat oven to 425°F. Bake the chicken with half the marinade 20–25 minutes, to a safe temperature. Broil 2–3 minutes for caramelization if you like. Rest, slice, and drizzle with the reserved marinade."
+    ],
+    "notes": [
+      "Use reduced-sodium soy sauce — regular makes this too salty.",
+      "Mirin can replace the rice vinegar.",
+      "Raw marinated chicken can be frozen up to 3 months."
+    ]
+  },
+  {
+    "id": "best-fudgy-brownies",
+    "title": "The Best Fudgy Brownies",
+    "collection": "collected",
+    "source": "Inspired Taste — The Best Fudgy Brownies",
+    "yield": "16 brownies",
+    "yieldNum": 16,
+    "yieldUnit": "brownies",
+    "prep": "15 min",
+    "cook": "20–30 min",
+    "total": "45 min",
+    "oven": "325°F",
+    "course": [
+      "Cookies & Bars"
+    ],
+    "main": [
+      "Chocolate"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "10",
+        "u": "Tbsp",
+        "n": "unsalted butter"
+      },
+      {
+        "q": "1 1/4",
+        "u": "cups",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "3/4 cup + 2 Tbsp",
+        "u": null,
+        "n": "unsweetened cocoa powder"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "fine sea salt"
+      },
+      {
+        "q": "2",
+        "u": "large cold",
+        "n": "eggs"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "2/3",
+        "u": "cup",
+        "n": "chopped nuts or chocolate chips (optional)"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 325°F. Line an 8x8-inch pan with parchment or foil.",
+      "Melt the butter over medium-low heat and remove from heat before it browns.",
+      "Stir in the sugar, cocoa, vanilla, and salt. Cool 5–10 minutes.",
+      "Add the eggs one at a time, stirring vigorously after each.",
+      "Add the flour and beat 40–50 strokes, until thick and glossy.",
+      "Fold in the nuts or chips if using.",
+      "Spread in the pan and bake 20–30 minutes; the center should still look slightly underdone.",
+      "Cool completely before slicing."
+    ],
+    "notes": [
+      "Do not overbake — this is the whole trick to the fudgy texture.",
+      "A metal pan is recommended.",
+      "Freezes up to 3 months."
+    ]
+  },
+  {
+    "id": "ham-and-potato-soup",
+    "title": "Delicious Ham and Potato Soup",
+    "collection": "collected",
+    "source": "Allrecipes — Delicious Ham and Potato Soup",
+    "yield": "8 servings",
+    "yieldNum": 8,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "20 min",
+    "total": "40 min",
+    "oven": null,
+    "course": [
+      "Soups & Stews"
+    ],
+    "main": [
+      "Pork",
+      "Potato"
+    ],
+    "season": [
+      "Winter"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "3 1/2",
+        "u": "cups",
+        "n": "potatoes, peeled and diced"
+      },
+      {
+        "q": "3 1/4",
+        "u": "cups",
+        "n": "water"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "cooked ham, diced"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "celery, diced"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "onion, finely chopped"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "chicken bouillon granules"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "white or black pepper"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "5",
+        "u": "Tbsp",
+        "n": "butter"
+      },
+      {
+        "q": "5",
+        "u": "Tbsp",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "milk"
+      }
+    ],
+    "steps": [
+      "Combine the potatoes, water, ham, celery, and onion in a stockpot.",
+      "Bring to a boil, reduce heat, and simmer 10–15 minutes until the potatoes are tender.",
+      "Stir in the bouillon, pepper, and salt.",
+      "In a separate saucepan, melt the butter over medium-low heat. Stir in the flour and cook 1 minute.",
+      "Gradually whisk in the milk and cook 4–5 minutes until smooth and thick.",
+      "Pour the milk mixture into the soup, stir, and heat through.",
+      "Taste and adjust the seasoning."
+    ],
+    "notes": [
+      "A good landing spot for leftover holiday ham.",
+      "Optional toppings: cheddar, bacon, green onions, or chives.",
+      "Refrigerate up to 4 days; freezing is not recommended."
+    ]
+  },
+  {
+    "id": "chicken-piccata",
+    "title": "Chicken Piccata",
+    "collection": "collected",
+    "source": "Spend With Pennies — Chicken Piccata",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "30 min",
+    "total": "50 min",
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Chicken"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": null,
+        "n": "boneless skinless chicken breasts"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "all-purpose flour (for dredging)"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "lemon zest"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "olive oil, plus more as needed"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt and black pepper"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "salted butter"
+      },
+      {
+        "q": "1 1/2",
+        "u": "Tbsp",
+        "n": "all-purpose flour (for the sauce)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "chicken broth"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Juice of 1/2 lemon"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "dry white wine or extra broth"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "capers, drained"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "fresh parsley, chopped"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Parmesan for garnish (optional)"
+      }
+    ],
+    "steps": [
+      "Pound the chicken to about 1/2 inch thick.",
+      "Combine the flour, lemon zest, salt, and pepper and dredge the chicken.",
+      "Heat the olive oil in a skillet over medium-high heat and cook the chicken 4–5 minutes per side, to 165°F. Set aside.",
+      "Reduce heat to medium. Melt the butter and whisk in the 1 1/2 Tbsp flour. Cook 2 minutes.",
+      "Gradually whisk in the broth. Add the lemon juice, wine, and capers and simmer 3 minutes.",
+      "Return the chicken and simmer 2–3 minutes.",
+      "Stir in the parsley and serve."
+    ],
+    "notes": [
+      "Fresh lemon juice makes a real difference here.",
+      "The wine can be replaced with more chicken broth.",
+      "Refrigerate leftovers up to 4 days."
+    ]
+  },
+  {
+    "id": "kitchenaid-crusty-pizza-dough",
+    "title": "KitchenAid Crusty Pizza Dough (Triple Batch)",
+    "collection": "collected",
+    "source": "Food.com — KitchenAid Crusty Pizza Dough",
+    "yield": "about 3 (14-inch) pizzas",
+    "yieldNum": 3,
+    "yieldUnit": "pizzas",
+    "prep": "15 min",
+    "cook": "15–20 min",
+    "total": "about 1 hr 30 min",
+    "oven": "450°F",
+    "course": [
+      "Breads & Rolls",
+      "Main Dishes"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "(3/4 oz) package",
+        "n": "active dry yeast"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "warm water"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "7 1/2–10 1/2",
+        "u": "cups",
+        "n": "all-purpose flour, added gradually as needed"
+      }
+    ],
+    "steps": [
+      "Add the warm water to a warmed KitchenAid bowl and dissolve the yeast.",
+      "Add the salt, olive oil, and about 7 1/2 cups of the flour.",
+      "Mix with the dough hook on Speed 2 for 1 minute.",
+      "Continue on Speed 2, adding flour about 1/2 cup at a time, until the dough clings to the hook and pulls away from the sides.",
+      "Knead on Speed 2 for 2 minutes.",
+      "Place in a greased bowl, cover, and rise about 1 hour until doubled.",
+      "Punch down and divide into 3 equal portions.",
+      "Brush three 14-inch pizza pans with olive oil and stretch the dough onto the pans.",
+      "Add toppings and bake at 450°F for 15–20 minutes."
+    ],
+    "notes": [
+      "This is already the 3x-scaled version of the original recipe — the single batch makes one 14-inch pizza.",
+      "The yeast amount, 3/4 oz, is three standard 1/4 oz packets (about 6 3/4 tsp).",
+      "Do not automatically use all the flour; add only what the dough needs.",
+      "Keep the KitchenAid at Speed 2 while kneading with the dough hook."
+    ]
+  },
+  {
+    "id": "turkey-and-stuffing-meatballs",
+    "title": "Turkey and Stuffing Meatballs",
+    "collection": "collected",
+    "source": "The Cozy Cook — Turkey and Stuffing Meatballs",
+    "yield": "about 35 meatballs",
+    "yieldNum": 35,
+    "yieldUnit": "meatballs",
+    "prep": "25 min",
+    "cook": "18 min",
+    "total": "43 min",
+    "oven": "400°F",
+    "course": [
+      "Main Dishes",
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Turkey",
+      "Pork"
+    ],
+    "season": [
+      "Thanksgiving",
+      "Fall"
+    ],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "yellow onion, minced"
+      },
+      {
+        "q": "1",
+        "u": "rib",
+        "n": "celery, very finely diced"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "chicken broth"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "water"
+      },
+      {
+        "q": "4",
+        "u": "Tbsp",
+        "n": "butter, divided"
+      },
+      {
+        "q": "1",
+        "u": "(6 oz) box",
+        "n": "turkey or chicken Stove Top stuffing"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "ground turkey, 85% lean"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt and black pepper"
+      },
+      {
+        "q": "1/2",
+        "u": "lb",
+        "n": "ground sausage"
+      },
+      {
+        "q": "1",
+        "u": "large",
+        "n": "egg, whisked"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 400°F.",
+      "Melt 2 Tbsp of the butter and cook the onion and celery 5–6 minutes.",
+      "Add the remaining butter, the broth, and the water and bring to a boil.",
+      "Add the stuffing mix, reduce heat, stir, then remove from heat. Cool 2–3 minutes.",
+      "Add the seasoned ground turkey, sausage, and egg and mix evenly.",
+      "Form about 1 3/4-inch meatballs and arrange on a lightly greased baking sheet.",
+      "Bake 15 minutes.",
+      "Broil at 450°F for up to 2 minutes to brown the tops."
+    ],
+    "notes": [
+      "Chop the vegetables finely so the meatballs hold together.",
+      "Ground chicken can replace the turkey.",
+      "Refrigerate up to 3 days or freeze up to 3 months."
+    ]
+  },
+  {
+    "id": "best-leftover-turkey-soup",
+    "title": "The Best Leftover Turkey Soup",
+    "collection": "collected",
+    "source": "Mel's Kitchen Cafe — The Best Leftover Turkey Soup",
+    "yield": "6 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "40 min",
+    "total": "1 hr",
+    "oven": null,
+    "course": [
+      "Soups & Stews"
+    ],
+    "main": [
+      "Turkey"
+    ],
+    "season": [
+      "Thanksgiving",
+      "Fall"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "butter"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "olive or avocado oil"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "carrots, chopped"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "celery, chopped"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "onion, finely chopped"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "dried thyme"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "dried rosemary, crushed"
+      },
+      {
+        "q": "6",
+        "u": "cups",
+        "n": "low-sodium chicken or turkey broth"
+      },
+      {
+        "q": "1/2–3/4",
+        "u": "cup",
+        "n": "brown rice or brown rice blend"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "kosher salt"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of black pepper"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "half-and-half"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "3–4",
+        "u": "cups",
+        "n": "cooked turkey, chopped"
+      }
+    ],
+    "steps": [
+      "Heat the butter and oil in a 6-quart pot.",
+      "Add the carrots, celery, onion, thyme, and rosemary and cook 3–4 minutes.",
+      "Add the broth, rice, salt, and pepper. Simmer until the rice is tender, about 30 minutes for a brown or wild blend.",
+      "Blend or whisk the half-and-half with the flour until smooth.",
+      "Slowly whisk the mixture into the soup and simmer 5–6 minutes, until slightly thickened.",
+      "Stir in the turkey and heat through.",
+      "Adjust the seasoning and serve."
+    ],
+    "notes": [
+      "Chicken works just as well as turkey.",
+      "1% or 2% milk can replace the half-and-half, though the soup will be less rich.",
+      "Homemade turkey stock is excellent here."
+    ]
+  },
+  {
+    "id": "shrimp-scampi-with-zoodles",
+    "title": "Shrimp Scampi with Zoodles",
+    "collection": "collected",
+    "source": "Feel Good Foodie — Shrimp Scampi with Zoodles",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "5 min",
+    "total": "15 min",
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Seafood"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [
+      "Gluten-free"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "unsalted butter"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "garlic cloves, minced"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "crushed red pepper"
+      },
+      {
+        "q": "2",
+        "u": "lb",
+        "n": "large shrimp, peeled and deveined"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "paprika"
+      },
+      {
+        "q": "3/4",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "low-sodium vegetable broth"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Juice of 1 lemon"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "red wine vinegar"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "zucchini, spiralized"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Parmesan, for serving (optional)"
+      }
+    ],
+    "steps": [
+      "Melt the butter in a large skillet over medium heat.",
+      "Add the garlic and crushed red pepper and cook about 1 minute.",
+      "Add the shrimp and season with the paprika, salt, and pepper. Cook 3–4 minutes until pink and opaque, then remove the shrimp.",
+      "Add the broth, lemon juice, and red wine vinegar, scrape up the browned bits, and bring to a boil.",
+      "Turn off the heat and return the shrimp along with the zucchini noodles.",
+      "Toss just until the zoodles are warmed and coated. Serve immediately."
+    ],
+    "notes": [
+      "Do not overcook the shrimp — they finish in the residual heat.",
+      "Thaw and pat frozen shrimp dry before cooking.",
+      "Best eaten the same day; freezing is not recommended."
+    ]
+  },
+  {
+    "id": "easy-homemade-beef-stew",
+    "title": "Easy Homemade Beef Stew",
+    "collection": "collected",
+    "source": "Healthy Fitness Meals — Easy Homemade Beef Stew",
+    "yield": "6 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "15 min",
+    "cook": "2 hr 30 min",
+    "total": "2 hr 45 min",
+    "oven": "325°F",
+    "course": [
+      "Soups & Stews",
+      "Main Dishes"
+    ],
+    "main": [
+      "Beef",
+      "Potato"
+    ],
+    "season": [
+      "Winter"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "lb",
+        "n": "beef chuck roast, cut into chunks"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "kosher salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "olive or avocado oil"
+      },
+      {
+        "q": "1/2",
+        "u": null,
+        "n": "yellow onion, chopped"
+      },
+      {
+        "q": "4",
+        "u": null,
+        "n": "garlic cloves, minced"
+      },
+      {
+        "q": "1",
+        "u": "large",
+        "n": "carrot, cut into chunks"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "Yukon Gold potatoes, cut into chunks"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "beef broth"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "tomato paste"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "Worcestershire sauce"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "bay leaf"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "fresh thyme leaves"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 325°F.",
+      "Season the beef with the salt and pepper, then toss with the flour.",
+      "Brown the beef in the oil in batches, 3–4 minutes per batch. Set aside.",
+      "Cook the onion, garlic, and carrots 2–3 minutes.",
+      "Add the potatoes, broth, tomato paste, bay leaf, thyme, and Worcestershire, scraping up the browned bits.",
+      "Bring to a simmer and return the beef to the pot.",
+      "Cover and bake 2–2 1/2 hours, until the beef is very tender.",
+      "Discard the bay leaf and adjust the seasoning."
+    ],
+    "notes": [
+      "Brown the beef in batches or it steams instead of searing.",
+      "For a thicker stew, simmer uncovered at the end or use a cornstarch slurry.",
+      "Slow cooker and pressure cooker methods also work."
+    ]
+  },
+  {
+    "id": "fluffy-bubbly-chewy-naan",
+    "title": "Fluffy, Bubbly & Chewy Naan",
+    "collection": "collected",
+    "source": "RecipeTin Eats — Naan",
+    "yield": "6 naan",
+    "yieldNum": 6,
+    "yieldUnit": "naan",
+    "prep": "20 min",
+    "cook": "10 min",
+    "total": "about 2 hr 30 min",
+    "oven": null,
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "instant or rapid-rise yeast"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "warm water (about 105°F)"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "whole milk"
+      },
+      {
+        "q": "1 1/2",
+        "u": "Tbsp",
+        "n": "whisked egg"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "kosher salt"
+      },
+      {
+        "q": "1 3/4",
+        "u": "cups",
+        "n": "bread flour"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "ghee or unsalted butter, melted"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "ghee or butter, for finishing"
+      },
+      {
+        "q": "1",
+        "u": "small",
+        "n": "garlic clove, crushed (optional)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Nigella seeds and chopped cilantro (optional)"
+      }
+    ],
+    "steps": [
+      "Combine the yeast, warm water, and sugar and let stand 10 minutes until foamy.",
+      "Whisk the milk and egg together separately.",
+      "Sift the flour and salt, make a well, and add the yeast mixture, melted ghee, and milk-egg mixture.",
+      "Mix into a soft, slightly sticky dough. No kneading required.",
+      "Cover and rise 1–1 1/2 hours until doubled.",
+      "Divide into 6 balls and rise another 15 minutes.",
+      "Roll each to about 1/8 inch thick and 6–7 inches wide.",
+      "Heat a lightly oiled cast-iron skillet over high heat.",
+      "Cook each naan 60–90 seconds on the first side, then 45–60 seconds on the second.",
+      "Brush immediately with melted ghee or butter."
+    ],
+    "notes": [
+      "Bread flour gives especially fluffy naan, but all-purpose works.",
+      "High heat matters — each naan should cook in about 2–2 1/2 minutes total.",
+      "For garlic butter, mix the crushed garlic into the melted ghee or butter."
+    ]
+  },
+  {
+    "id": "rustic-no-knead-bread",
+    "title": "Rustic No-Knead Bread",
+    "collection": "collected",
+    "source": "Pampered Chef — Rustic No-Knead Bread",
+    "yield": "24 slices",
+    "yieldNum": 24,
+    "yieldUnit": "slices",
+    "prep": "15 min",
+    "cook": "40–45 min",
+    "total": "about 3 hr",
+    "oven": "375°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "6 1/2",
+        "u": "cups",
+        "n": "bread flour, divided"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "2",
+        "u": "packages (4 1/2 tsp)",
+        "n": "active dry yeast"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "warm water (120–130°F)"
+      },
+      {
+        "q": "2 1/2",
+        "u": "Tbsp",
+        "n": "olive oil, divided"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "oats, cornmeal, or wheat bran (optional)"
+      }
+    ],
+    "steps": [
+      "Combine 3 1/2 cups of the flour with the sugar, yeast, and salt.",
+      "Add the warm water and 2 Tbsp of the olive oil. Beat on low until moistened, then on medium for 3 minutes.",
+      "Add the remaining flour and mix into a stiff, slightly sticky dough.",
+      "Cover and rise in a warm place about 1 hour, until doubled.",
+      "Stir the dough down to deflate it.",
+      "Brush a Dutch oven with the remaining oil, scrape in the dough, and shape into a mound. Turn once to coat the top.",
+      "Sprinkle with the optional topping and rise uncovered 25–30 minutes.",
+      "Preheat oven to 375°F.",
+      "Bake uncovered 40–45 minutes, until deep golden.",
+      "Cool at least 30 minutes before removing and slicing."
+    ],
+    "notes": [
+      "Bread flour is recommended over all-purpose.",
+      "Quick-rise yeast can shorten the rise time.",
+      "No hand-kneading required at any point."
+    ]
+  },
+  {
+    "id": "homemade-teriyaki-sauce",
+    "title": "Homemade Teriyaki Sauce",
+    "collection": "collected",
+    "source": "The Modern Proper — Homemade Teriyaki Sauce",
+    "yield": "about 2 cups (6 servings)",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "5 min",
+    "cook": "7 min",
+    "total": "12 min",
+    "oven": null,
+    "course": [
+      "Sauces & Marinades"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "cornstarch"
+      },
+      {
+        "q": "1 1/4",
+        "u": "cups",
+        "n": "cold water"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "brown sugar"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "soy sauce or tamari"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "honey"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "ground ginger"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "garlic powder"
+      }
+    ],
+    "steps": [
+      "Whisk the cornstarch and cold water until smooth.",
+      "Whisk in the brown sugar, soy sauce, honey, ginger, and garlic powder.",
+      "Pour into a small saucepan and bring to a simmer over medium-high heat.",
+      "Reduce to medium and cook about 5 minutes, stirring, until thick enough to coat a spoon.",
+      "Remove from heat; the sauce keeps thickening as it cools."
+    ],
+    "notes": [
+      "Use tamari instead of soy sauce for a gluten-free version.",
+      "Good on chicken, stir-fries, vegetables, rice bowls, and as a marinade.",
+      "Refrigerate airtight up to 1 week."
+    ]
+  },
+  {
+    "id": "queso-dip",
+    "title": "Queso Dip (Mexican Cheese Dip)",
+    "collection": "collected",
+    "source": "RecipeTin Eats — Queso Dip",
+    "yield": "about 2 1/2 cups (10 servings)",
+    "yieldNum": 10,
+    "yieldUnit": "servings",
+    "prep": "5 min",
+    "cook": "10 min",
+    "total": "15 min",
+    "oven": null,
+    "course": [
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Cheese"
+    ],
+    "season": [
+      "Game Day"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2 1/2",
+        "u": "cups",
+        "n": "cheddar cheese, freshly shredded"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "cornstarch"
+      },
+      {
+        "q": "1/2",
+        "u": "Tbsp",
+        "n": "unsalted butter"
+      },
+      {
+        "q": "1",
+        "u": "large",
+        "n": "garlic clove, minced"
+      },
+      {
+        "q": "1/4",
+        "u": "small",
+        "n": "white onion, finely chopped"
+      },
+      {
+        "q": "1",
+        "u": "(13 oz) can",
+        "n": "full-fat evaporated milk"
+      },
+      {
+        "q": "1",
+        "u": "small",
+        "n": "tomato, finely diced"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "onion powder"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "garlic powder"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "ground cumin"
+      },
+      {
+        "q": "1",
+        "u": "(4 oz) can",
+        "n": "chopped fire-roasted green chiles"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "fresh cilantro, chopped"
+      },
+      {
+        "q": "2–3",
+        "u": "Tbsp",
+        "n": "milk, as needed"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt, to taste"
+      }
+    ],
+    "steps": [
+      "Toss the shredded cheese with the cornstarch.",
+      "Melt the butter over medium heat and cook the garlic and onion about 3 minutes, until translucent.",
+      "Add the tomato and cook 2 minutes.",
+      "Add the evaporated milk and cheese, then the green chiles and seasonings.",
+      "Stir until smooth and silky.",
+      "Season with salt and stir in the cilantro.",
+      "Thin with 2–3 Tbsp milk or water as needed and serve warm."
+    ],
+    "notes": [
+      "Shred the cheese yourself — pre-shredded has anti-caking agents that turn the dip grainy.",
+      "Pepper Jack can replace part of the cheddar for more heat.",
+      "Refrigerate up to 5 days; reheat with a splash of milk."
+    ]
+  },
+  {
+    "id": "homemade-miso-soup-with-tofu",
+    "title": "Homemade Miso Soup with Tofu",
+    "collection": "collected",
+    "source": "Just One Cookbook — Homemade Miso Soup",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "5 min",
+    "cook": "15 min",
+    "total": "20 min",
+    "oven": null,
+    "course": [
+      "Soups & Stews"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "water"
+      },
+      {
+        "q": "1",
+        "u": "piece (about 10 g)",
+        "n": "kombu"
+      },
+      {
+        "q": "1",
+        "u": "cup packed",
+        "n": "katsuobushi"
+      },
+      {
+        "q": "7",
+        "u": "oz",
+        "n": "soft or silken tofu"
+      },
+      {
+        "q": "4",
+        "u": "Tbsp",
+        "n": "miso paste"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "dried wakame seaweed"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "green onion"
+      }
+    ],
+    "steps": [
+      "Slice the green onion.",
+      "For the dashi, add the water and kombu to a saucepan and soak 30 minutes if you have time.",
+      "Heat slowly over medium-low about 10 minutes, removing the kombu just before it boils.",
+      "Add the katsuobushi, bring back to a boil, simmer 30 seconds, turn off the heat, and let stand 10 minutes.",
+      "Strain the dashi and return it to the saucepan.",
+      "Warm the dashi, then turn off the heat before adding the miso.",
+      "Dissolve the miso in a ladle or small bowl with some hot dashi, then stir it back into the soup.",
+      "Add the cubed tofu, wakame, and green onion. Serve warm, without boiling."
+    ],
+    "notes": [
+      "A good starting ratio is 1 Tbsp miso per cup of dashi.",
+      "Do not boil the soup after adding the miso — it dulls the flavor.",
+      "The katsuobushi is dried fish, so this is not vegetarian as written. For a vegetarian version, use kombu or kombu-shiitake dashi."
+    ]
+  },
+  {
+    "id": "authentic-watergate-salad",
+    "title": "Authentic Watergate Salad",
+    "collection": "collected",
+    "source": "Food.com — Authentic Watergate Salad",
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": "10 min",
+    "cook": null,
+    "total": "1 hr 10 min",
+    "oven": null,
+    "course": [
+      "Salads",
+      "Sides"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [
+      "Easter"
+    ],
+    "method": [
+      "No-bake",
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "(4 oz) package",
+        "n": "instant pistachio pudding mix"
+      },
+      {
+        "q": "1",
+        "u": "(20 oz) can",
+        "n": "crushed pineapple with juice, undrained"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "miniature marshmallows"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "chopped nuts"
+      },
+      {
+        "q": "1 3/4",
+        "u": "cups",
+        "n": "non-dairy whipped topping, thawed"
+      }
+    ],
+    "steps": [
+      "Combine the dry pudding mix, undrained pineapple, marshmallows, and nuts.",
+      "Stir thoroughly.",
+      "Gently fold in the whipped topping until evenly incorporated.",
+      "Cover and refrigerate at least 1 hour before serving."
+    ],
+    "notes": [
+      "Do not prepare the pudding separately — the dry mix goes straight in.",
+      "Do not drain the pineapple; the juice sets the pudding.",
+      "Pecans are the popular nut choice."
+    ]
+  },
+  {
+    "id": "grandmas-irish-soda-bread",
+    "title": "Grandma's Irish Soda Bread",
+    "collection": "collected",
+    "source": "Sally's Baking — Grandma's Irish Soda Bread",
+    "yield": "1 loaf",
+    "yieldNum": 1,
+    "yieldUnit": "loaf",
+    "prep": "10 min",
+    "cook": "45–55 min",
+    "total": "about 1 hr",
+    "oven": "400°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [
+      "St. Patrick's Day"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1 3/4",
+        "u": "cups",
+        "n": "buttermilk"
+      },
+      {
+        "q": "1",
+        "u": "large",
+        "n": "egg (optional)"
+      },
+      {
+        "q": "4 1/4",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "5",
+        "u": "Tbsp",
+        "n": "unsalted butter, very cold and cubed"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "raisins (optional)"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 400°F. Prepare a cast-iron skillet, cake pan, pie pan, Dutch oven, or lined baking sheet.",
+      "Whisk the buttermilk and egg together.",
+      "Whisk the flour, sugar, baking soda, and salt.",
+      "Cut the cold butter into the flour mixture until pea-sized crumbs form.",
+      "Stir in the raisins if using.",
+      "Add the buttermilk mixture and fold until the dough is too stiff to stir.",
+      "Turn out onto a lightly floured surface and gently knead about 30 seconds, just to bring it together.",
+      "Shape into a ball, transfer to the pan, and cut a 1/2-inch-deep X on top.",
+      "Bake 45–55 minutes, tenting with foil if it browns too fast. The center should reach about 195°F.",
+      "Cool 10 minutes in the pan, then transfer to a rack."
+    ],
+    "notes": [
+      "Cold butter and minimal handling are what keep the texture tender.",
+      "Buttermilk is not optional — the acid is what activates the baking soda.",
+      "Store covered up to 2 days at room temperature, or freeze up to 3 months."
+    ]
+  },
+  {
+    "id": "out-of-this-world-carrot-cake",
+    "title": "Out of This World Carrot Cake with Callie's Cream Cheese Frosting",
+    "collection": "collected",
+    "source": "Real Life Dinner — Out of This World Carrot Cake",
+    "yield": "16 servings",
+    "yieldNum": 16,
+    "yieldUnit": "servings",
+    "prep": "15 min",
+    "cook": "45–50 min",
+    "total": "about 1 hr plus cooling",
+    "oven": "350°F",
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Cream Cheese"
+    ],
+    "season": [
+      "Easter"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "oil"
+      },
+      {
+        "q": "3",
+        "u": "large",
+        "n": "eggs"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "sour milk or buttermilk"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "2 1/2",
+        "u": "tsp",
+        "n": "ground cinnamon"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "finely shredded carrots"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "crushed pineapple with juice, undrained"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "shredded coconut"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "walnuts"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "raisins (optional)"
+      },
+      {
+        "q": "16",
+        "u": "oz",
+        "n": "cream cheese, softened (frosting)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "butter, softened (frosting)"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "powdered sugar (frosting)"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla extract (frosting)"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Grease and flour two 9-inch round pans and line the bottoms with parchment.",
+      "To make sour milk, add 1 tsp lemon juice to a measuring cup plus enough milk to equal 3/4 cup; let stand 3–5 minutes.",
+      "Mix the sugar, oil, eggs, and sour milk, then add the vanilla.",
+      "Add the flour, cinnamon, baking soda, and salt and mix just until incorporated.",
+      "Fold in the carrots, undrained pineapple, coconut, walnuts, and raisins if using.",
+      "Divide between the pans and bake 45–50 minutes. Cool completely.",
+      "Beat the cream cheese, butter, powdered sugar, and vanilla until smooth.",
+      "Layer and frost the cake: apply a thin crumb coat, chill about 20 minutes, then finish frosting."
+    ],
+    "notes": [
+      "Shred the carrots finely — coarse shreds stay firm in the crumb.",
+      "Do not drain the pineapple.",
+      "Buttermilk can replace the sour milk."
+    ]
+  },
+  {
+    "id": "steak-fajitas",
+    "title": "Steak Fajitas",
+    "collection": "collected",
+    "source": "Add a Pinch — Steak Fajitas",
+    "yield": "6 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "15 min",
+    "total": "25 min plus marinating",
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Beef"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "lb",
+        "n": "skirt, flank, sirloin, or hanger steak, sliced into 1/2-inch strips"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "red bell pepper, sliced"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "additional bell pepper, sliced"
+      },
+      {
+        "q": "1",
+        "u": "medium",
+        "n": "onion, sliced"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "fresh lime juice"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "chili powder"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "ground cumin"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of cayenne pepper"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "kosher salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "garlic cloves, minced"
+      },
+      {
+        "q": "6–8",
+        "u": null,
+        "n": "tortillas, warmed"
+      }
+    ],
+    "steps": [
+      "Place the steak in one sealable bag and the peppers and onion in another.",
+      "Shake the olive oil, lime juice, seasonings, and garlic together.",
+      "Pour one-third of the marinade over the steak, one-third over the vegetables, and reserve the final third.",
+      "Refrigerate at least 1 hour or overnight.",
+      "Cook the vegetables in a hot skillet about 5 minutes, then remove.",
+      "Cook the steak 7–10 minutes, to your preferred doneness.",
+      "Return the vegetables and add the reserved marinade; toss until hot.",
+      "Serve with warm tortillas."
+    ],
+    "notes": [
+      "Keep the meat and vegetables in separate bags while marinating.",
+      "Set aside the reserved third of the marinade before any of it touches raw meat.",
+      "Sour cream, guacamole, and salsa are all good on top."
+    ]
+  },
+  {
+    "id": "tres-leches-cake",
+    "title": "Tres Leches Cake",
+    "collection": "collected",
+    "source": "Tastes Better From Scratch — Tres Leches Cake",
+    "yield": "12 servings",
+    "yieldNum": 12,
+    "yieldUnit": "servings",
+    "prep": "1 hr 30 min",
+    "cook": "40 min",
+    "total": "2 hr 10 min",
+    "oven": "350°F",
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "baking powder"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "5",
+        "u": "large",
+        "n": "eggs, separated"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "granulated sugar, divided (3/4 cup for the yolks, 1/4 cup for the whites)"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "whole milk"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "1",
+        "u": "(12 oz) can",
+        "n": "evaporated milk (soak)"
+      },
+      {
+        "q": "1",
+        "u": "(14 oz) can",
+        "n": "sweetened condensed milk (soak)"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "whole milk (soak)"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "heavy whipping cream (topping)"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "powdered sugar (topping)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "vanilla extract (topping)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Ground cinnamon and sliced strawberries (optional)"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F.",
+      "Whisk the flour, baking powder, and salt.",
+      "Beat the egg yolks with 3/4 cup of the sugar until pale, then stir in the 1/3 cup milk and vanilla.",
+      "Gently combine the yolk mixture with the flour mixture.",
+      "Beat the egg whites to stiff peaks, gradually adding the remaining 1/4 cup sugar.",
+      "Fold the whites into the batter and pour into an ungreased 9x13-inch pan.",
+      "Bake 25–35 minutes and cool completely.",
+      "Combine the evaporated milk, condensed milk, and 1/4 cup whole milk.",
+      "Poke the cooled cake all over with a fork and slowly pour the milk mixture over it.",
+      "Cover and refrigerate at least 1 hour or overnight.",
+      "Whip the cream with the powdered sugar and vanilla to stiff peaks and spread over the cake.",
+      "Dust with cinnamon and add strawberries if you like."
+    ],
+    "notes": [
+      "Do not grease the pan — the batter needs to climb the sides.",
+      "This is excellent made the night before.",
+      "Keep refrigerated."
+    ]
+  },
+  {
+    "id": "instant-pot-refried-beans",
+    "title": "Easy Instant Pot Refried Beans",
+    "collection": "collected",
+    "source": "Five Heart Home — Instant Pot Refried Beans",
+    "yield": "about 4–5 cups (10 servings)",
+    "yieldNum": 10,
+    "yieldUnit": "servings",
+    "prep": "5 min",
+    "cook": "50 min",
+    "total": "1 hr 30 min",
+    "oven": null,
+    "course": [
+      "Sides"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [],
+    "method": [
+      "Instant Pot",
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "1",
+        "u": "small",
+        "n": "onion, chopped"
+      },
+      {
+        "q": "4",
+        "u": "large",
+        "n": "garlic cloves, minced"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "jalapeño, seeded and minced"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "dried pinto beans, rinsed and sorted"
+      },
+      {
+        "q": "1",
+        "u": "(4 oz) can",
+        "n": "diced green chiles"
+      },
+      {
+        "q": "7",
+        "u": "cups",
+        "n": "low-sodium chicken or vegetable broth"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "apple cider vinegar"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "ground cumin"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "Mexican oregano"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt, plus more to taste"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Black pepper, to taste"
+      }
+    ],
+    "steps": [
+      "Use Sauté mode to heat the oil, then cook the onion, garlic, and jalapeño 2 minutes. Cancel Sauté.",
+      "Add the beans, green chiles, broth, vinegar, cumin, oregano, salt, and pepper.",
+      "Cook on High Pressure for 50 minutes.",
+      "Natural-release 20 minutes, then vent the remaining pressure.",
+      "Reserve the cooking liquid and drain the beans.",
+      "Return the beans to the pot and purée with an immersion blender.",
+      "Add 1/2–1 cup of the reserved liquid gradually, to your preferred consistency.",
+      "Adjust the seasoning and serve."
+    ],
+    "notes": [
+      "No soaking required.",
+      "Use vegetable broth to make this vegan.",
+      "Refrigerate up to 1 week or freeze up to 3 months."
+    ]
+  },
+  {
+    "id": "chicken-parmesan",
+    "title": "Chicken Parmesan",
+    "collection": "collected",
+    "source": "Ask Chef Dennis — Chicken Parmesan",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "30 min",
+    "total": "40 min",
+    "oven": "350°F",
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Chicken",
+      "Cheese"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": null,
+        "n": "boneless skinless chicken breasts, about 6 oz each"
+      },
+      {
+        "q": "8",
+        "u": "oz",
+        "n": "mozzarella, shredded"
+      },
+      {
+        "q": "12",
+        "u": "oz",
+        "n": "spaghetti or marinara sauce"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "fresh parsley, chopped"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt and black pepper"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "Italian-seasoned breadcrumbs"
+      },
+      {
+        "q": "2",
+        "u": "large",
+        "n": "eggs"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "water or milk"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Vegetable oil, for frying"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F.",
+      "Pound the chicken to an even thickness.",
+      "Set up seasoned flour, egg wash, and breadcrumbs in three shallow dishes.",
+      "Coat the chicken in flour, then egg wash, then breadcrumbs.",
+      "Heat about 1/2 inch of oil to around 350°F.",
+      "Fry the chicken 2–3 minutes per side until golden, then drain on a wire rack.",
+      "Arrange in a baking dish, top each piece with marinara and mozzarella, and sprinkle with parsley.",
+      "Bake about 20 minutes, until the cheese melts and the chicken reaches 165°F.",
+      "Serve immediately."
+    ],
+    "notes": [
+      "Do not overcrowd the skillet.",
+      "Keeping the oil hot is what prevents greasy breading.",
+      "Fresh mozzarella can replace the shredded."
+    ]
+  },
+  {
+    "id": "the-best-blondies",
+    "title": "The Best Blondies",
+    "collection": "collected",
+    "source": "Sugar Spun Run — The Best Blondies",
+    "yield": "15 blondies",
+    "yieldNum": 15,
+    "yieldUnit": "blondies",
+    "prep": "15 min",
+    "cook": "25–30 min",
+    "total": "40–45 min",
+    "oven": "350°F",
+    "course": [
+      "Cookies & Bars"
+    ],
+    "main": [
+      "Chocolate"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "unsalted butter, melted"
+      },
+      {
+        "q": "1 1/4",
+        "u": "cups",
+        "n": "brown sugar, packed"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "2",
+        "u": "large",
+        "n": "eggs, plus 1 egg yolk"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "2 1/4",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "cornstarch"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "baking powder"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "2/3",
+        "u": "cup",
+        "n": "white chocolate chips"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "chopped walnuts (optional)"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Line a 9x13-inch metal pan with parchment.",
+      "Stir the melted butter with the brown and granulated sugars.",
+      "Add the eggs, yolk, and vanilla.",
+      "Whisk the flour, cornstarch, baking powder, and salt separately.",
+      "Gradually stir the dry ingredients into the wet, just until combined.",
+      "Fold in the white chocolate chips and walnuts if using.",
+      "Spread in the pan and bake 25–30 minutes, until the edges are lightly golden and the center has fudgy crumbs.",
+      "Cool completely before slicing."
+    ],
+    "notes": [
+      "Do not overbake.",
+      "Up to 2 cups of add-ins total works fine.",
+      "Store airtight at room temperature up to 4 days."
+    ]
+  },
+  {
+    "id": "cilantro-lime-rice",
+    "title": "Cilantro Lime Rice",
+    "collection": "collected",
+    "source": "Fifteen Spatulas — Cilantro Lime Rice",
+    "yield": "about 6 cups (6 servings)",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "30 min",
+    "total": "40 min",
+    "oven": null,
+    "course": [
+      "Sides"
+    ],
+    "main": [
+      "Rice"
+    ],
+    "season": [],
+    "method": [
+      "Gluten-free"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "basmati or jasmine rice"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "ghee, butter, or olive oil"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "water"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "kosher salt"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "fresh cilantro leaves, chopped"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "fresh lime juice"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Zest of 2 limes"
+      }
+    ],
+    "steps": [
+      "Rinse the rice under cold water about 2 minutes, until the water runs clear, then drain 2 minutes.",
+      "Heat the ghee, butter, or oil in a large nonstick pan with a tight-fitting lid.",
+      "Toast the rice 5 minutes, stirring frequently.",
+      "Add the water and salt, cover, and bring to a boil.",
+      "Reduce to medium-low and cook covered 20 minutes without lifting the lid or stirring.",
+      "Remove from heat, fluff, and rest uncovered 5 minutes.",
+      "Stir in the cilantro, lime juice, and lime zest."
+    ],
+    "notes": [
+      "Basmati is especially good here, though jasmine works.",
+      "Rinsing and toasting are what keep the grains separate.",
+      "Refrigerate airtight up to 5 days."
+    ]
+  },
+  {
+    "id": "copycat-chipotle-chicken",
+    "title": "Copycat Chipotle Chicken",
+    "collection": "collected",
+    "source": "Brown Eyed Baker — Copycat Chipotle Chicken",
+    "yield": "6–8 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "15 min",
+    "cook": "30 min",
+    "total": "1 hr 45 min",
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Chicken"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1/2",
+        "u": "medium",
+        "n": "red onion, coarsely chopped"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "garlic cloves, coarsely chopped"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "adobo sauce"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "ancho chile powder"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "ground cumin"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "dried oregano"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Water, as needed"
+      },
+      {
+        "q": "3–4",
+        "u": "lb",
+        "n": "boneless skinless chicken thighs"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Additional olive oil, for cooking"
+      }
+    ],
+    "steps": [
+      "Blend the onion, garlic, adobo, olive oil, ancho chile powder, cumin, oregano, salt, and pepper until smooth.",
+      "Add water as needed to bring the marinade to 1 cup.",
+      "Poke the chicken with a fork, place in a resealable bag, add the marinade, and coat well.",
+      "Refrigerate at least 1 hour or overnight.",
+      "Heat a lightly oiled cast-iron skillet over medium heat.",
+      "Cook the chicken in batches, turning occasionally, until browned and cooked through to at least 165°F.",
+      "Rest at least 10 minutes, then chop or slice."
+    ],
+    "notes": [
+      "Thighs stay noticeably juicier than breasts here.",
+      "For more heat, add some of the actual chipotle peppers, not just the adobo sauce.",
+      "Cooked chicken refrigerates up to 4 days."
+    ]
+  },
+  {
+    "id": "chipotle-corn-salsa",
+    "title": "Chipotle Corn Salsa (Copycat)",
+    "collection": "collected",
+    "source": "Culinary Hill — Chipotle Corn Salsa",
+    "yield": "10 servings",
+    "yieldNum": 10,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "15 min",
+    "total": "35 min",
+    "oven": null,
+    "course": [
+      "Appetizers & Dips",
+      "Sides"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [
+      "Gluten-free"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "large",
+        "n": "poblano pepper"
+      },
+      {
+        "q": "24",
+        "u": "oz",
+        "n": "frozen corn"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "red onion, finely chopped"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "jalapeño peppers, seeded and finely chopped"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "fresh cilantro, chopped"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "fresh lemon juice"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "fresh lime juice"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt, to taste"
+      }
+    ],
+    "steps": [
+      "Roast the poblano over a gas flame until charred on all sides, about 2–3 minutes.",
+      "Place in a covered bowl and steam 10 minutes.",
+      "Rub off the charred skin, remove the stem and seeds, and finely chop.",
+      "Cook the frozen corn according to package directions and cool completely.",
+      "Combine the corn, poblano, red onion, jalapeños, and cilantro.",
+      "Add the lemon and lime juices, toss, and season with salt.",
+      "Serve immediately or chill a few hours."
+    ],
+    "notes": [
+      "Remove the jalapeño seeds and membranes for a milder salsa.",
+      "Fresh corn can replace the frozen.",
+      "Refrigerate airtight up to 4 days."
+    ]
+  },
+  {
+    "id": "cherry-pie-bars",
+    "title": "Cherry Pie Bars",
+    "collection": "collected",
+    "source": "Bunsen Burner Bakery — Cherry Pie Bars",
+    "yield": "16 bars",
+    "yieldNum": 16,
+    "yieldUnit": "bars",
+    "prep": "10 min",
+    "cook": "40 min",
+    "total": "50 min plus cooling",
+    "oven": "375°F",
+    "course": [
+      "Cookies & Bars"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "2 1/2",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "powdered sugar"
+      },
+      {
+        "q": "3/4",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1 1/4",
+        "u": "cups",
+        "n": "butter, cut into pieces"
+      },
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "fresh or frozen cherries, pitted and halved"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "cornstarch"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "fresh lemon juice"
+      },
+      {
+        "q": "1 1/2",
+        "u": "Tbsp",
+        "n": "granulated sugar"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 375°F. Line a 9x9-inch pan with foil and grease lightly.",
+      "Pulse the flour, powdered sugar, and salt in a food processor. Add the butter and pulse to a coarse-sand texture.",
+      "Reserve about 3/4 cup of the mixture for topping and press the rest into the pan.",
+      "Bake the crust 12 minutes.",
+      "Combine the cherries, cornstarch, lemon juice, and granulated sugar.",
+      "Spread the cherry mixture over the crust and crumble the reserved shortbread mixture on top.",
+      "Bake 25–30 minutes, until the filling bubbles and the topping is golden.",
+      "Cool completely in the pan, at least 1 hour, before slicing."
+    ],
+    "notes": [
+      "If using frozen cherries, thaw and drain the excess liquid first.",
+      "The full hour of cooling is what lets the filling set.",
+      "Freezes up to 3 months."
     ]
   }
 ]
