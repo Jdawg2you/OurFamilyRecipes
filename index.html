@@ -151,11 +151,30 @@ footer{border-top:1.5px solid var(--rule);padding:22px 0 44px;font-size:12.5px;c
   .flabel{flex:0 0 100%}
 }
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+.mast-in{display:flex;justify-content:space-between;align-items:flex-end;gap:18px;flex-wrap:wrap}
+.submit-link{flex:0 0 auto;font-family:var(--body);font-size:14.5px;color:#fff;background:var(--pot);border-radius:8px;padding:11px 20px;text-decoration:none;white-space:nowrap;transition:background .15s}
+.submit-link:hover{background:#0F4231}
+.submit-link:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+.fromline{margin-top:22px;padding-top:18px;border-top:1.5px solid var(--rule)}
+.fl-lab{font-size:12px;color:var(--ink3)}
+.fl-who{font-family:var(--display);font-weight:600;font-size:19px;color:var(--brick);margin-top:3px;line-height:1.25}
+.fromline.fav .fl-who{color:var(--pot)}
+.fl-sub{font-size:12.5px;color:var(--ink2);margin-top:3px}
+.rc.addtile{border:1.5px dashed var(--brick);border-top:1.5px dashed var(--brick);background:transparent;text-decoration:none;justify-content:center}
+.rc.addtile h3{color:var(--brick)}
+.rc.addtile .tag{color:var(--brick)}
+.rc.addtile .meta{margin-top:6px}
+.rc.addtile:hover{border-color:var(--brick);background:var(--brick-soft);box-shadow:none}
 </style>
 <div class="wrap">
   <header class="mast">
-    <h1>Our Family Recipes</h1>
-    <div class="sub"><span><b id="totN">0</b> recipes</span><span><b id="famN">0</b> family</span><span><b id="colN">0</b> collected</span></div>
+    <div class="mast-in">
+      <div>
+        <h1>Our Family Recipes</h1>
+        <div class="sub"><span><b id="totN">0</b> recipes</span><span><b id="famN">0</b> family</span><span><b id="colN">0</b> collected</span></div>
+      </div>
+      <a class="submit-link" href="./submit.html">Add a recipe</a>
+    </div>
   </header>
 
   <div id="browse">
@@ -314,6 +333,14 @@ function renderFacets(){
 }
 
 /* ---------- cards ---------- */
+function addTile(){
+  var a = el("a","rc addtile");
+  a.setAttribute("href","./submit.html");
+  a.appendChild(el("div","tag","Add to the binder"));
+  a.appendChild(el("h3",null,"Add a family recipe"));
+  a.appendChild(el("div","meta","Type it out or photograph the card"));
+  return a;
+}
 function card(r){
   var b=el("button","rc"+(r.collection==="family"?" fam":""));
   b.type="button";
@@ -431,6 +458,7 @@ function detail(r){
   cols.appendChild(right);
   d.appendChild(cols);
 
+  d.appendChild(fromBlock(r));
   d.appendChild(familyNotes(r));
   return d;
 }
@@ -470,6 +498,20 @@ function loadNotes(id,cb){
     .then(function(r){ return r.json(); })
     .then(function(j){ var rows=(j&&j.notes)||[]; NOTE_CACHE[id]=rows; cb(rows); })
     .catch(function(){ cb([]); });
+}
+function fromBlock(r){
+  var f = r.from;
+  if(!f) return document.createDocumentFragment();
+  var fav = f.kind === "favorite";
+  var who = fav ? (f.favoriteOf || "") : (f.called || "");
+  if(!who) return document.createDocumentFragment();
+  if(!fav && f.lastName && String(who).indexOf(f.lastName) < 0) who = who + " " + f.lastName;
+  var box = el("div", "fromline" + (fav ? " fav" : ""));
+  box.appendChild(el("div","fl-lab", fav ? "A favorite of" : "From the kitchen of"));
+  box.appendChild(el("div","fl-who", who));
+  var sub = fav ? (f.why || "") : (f.side || f.relation || "");
+  if(sub) box.appendChild(el("div","fl-sub", sub));
+  return box;
 }
 function familyNotes(r){
   var wrap=el("div","family-notes");
@@ -647,6 +689,7 @@ function render(){
     g.appendChild(e);
   } else {
     rows.forEach(function(r){ g.appendChild(card(r)); });
+    if(STATE.tab !== "collected") g.appendChild(addTile());
   }
   var n=rows.length;
   document.getElementById("countLine").textContent=
