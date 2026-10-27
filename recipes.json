@@ -3273,7 +3273,10 @@
       "Combine all ingredients in a jar or blender.",
       "Shake or blend until well combined. Refrigerate and shake again before serving."
     ],
-    "notes": []
+    "notes": [
+      "Options (from the original family cookbook): 1 Tbsp dry mustard, 2 Tbsp lemon juice, and 1/8 cup dried parsley.",
+      "The original cookbook says Mom pours it over 1 iceberg lettuce, 1 red leaf lettuce, sliced onion, and sliced fresh mushroom, using about half the dressing."
+    ]
   },
   {
     "id": "hawaiian-butter-mochi",
@@ -4310,7 +4313,9 @@
       "Cover and cook on LOW for 4–6 hours, until the meatballs are heated through and the sauce is hot."
     ],
     "notes": [
-      "Mom is famous for these!"
+      "Mom is famous for these!",
+      "For extra originality, make homemade meatballs instead of frozen: 3 lb ground round, 1 (5 oz) can Pet milk, 2 cups quick oatmeal, 1 cup minced onions, 1 tsp salt, 2 tsp chili powder, 1/4 tsp garlic powder, and 1 tsp pepper. Form into balls and bake ahead at 300°F until medium done.",
+      "To cook homemade meatballs the original way: warm the sauce and pour it over the baked meatballs, then heat in a 200°F oven for 1 hour. Or put them in the crockpot with the sauce as above."
     ]
   },
   {
@@ -4503,7 +4508,7 @@
         "n": "chopped celery, stalks and leaves"
       },
       {
-        "q": "1/2",
+        "q": "1/2–1",
         "u": "cup",
         "n": "butter"
       },
@@ -9235,6 +9240,3779 @@
       "If using frozen cherries, thaw and drain the excess liquid first.",
       "The full hour of cooling is what lets the filling set.",
       "Freezes up to 3 months."
+    ]
+  },
+  {
+    "id": "banana-slush",
+    "title": "Banana Slush",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Beverages"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [
+      "Christmas"
+    ],
+    "method": [
+      "Make-ahead",
+      "No-bake"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "sugar"
+      },
+      {
+        "q": "5",
+        "u": "cups",
+        "n": "water"
+      },
+      {
+        "q": "1",
+        "u": "quart",
+        "n": "pineapple juice"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "orange juice"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "lemon juice"
+      },
+      {
+        "q": "6–8",
+        "u": null,
+        "n": "bananas, mashed"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Sprite, for serving"
+      }
+    ],
+    "steps": [
+      "Mash the bananas with the lemon juice.",
+      "Boil the sugar and water. Remove from heat.",
+      "Mix all ingredients together and freeze.",
+      "Cut into cubes and serve with Sprite."
+    ],
+    "notes": [
+      "Christmas tradition."
+    ]
+  },
+  {
+    "id": "frozen-dessert",
+    "title": "Frozen Dessert",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Frozen Desserts"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead",
+      "No-bake"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "(21 1/2 oz) can",
+        "n": "crushed pineapple"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "sugar"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "large marshmallows"
+      },
+      {
+        "q": "2",
+        "u": "(#2 size) cans",
+        "n": "fruit cocktail"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "nuts"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "small marshmallows"
+      },
+      {
+        "q": "1",
+        "u": "small bottle",
+        "n": "cherries"
+      },
+      {
+        "q": "5",
+        "u": null,
+        "n": "large bananas, sliced"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "apple"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "orange"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "peach"
+      },
+      {
+        "q": "1",
+        "u": "pint",
+        "n": "whipping cream, whipped"
+      }
+    ],
+    "steps": [
+      "Put pineapple, sugar, and marshmallows in a large pan over low heat until the marshmallows and sugar have dissolved.",
+      "Let cool and stir in the fruit cocktail, nuts, small marshmallows, cherries, bananas, apple, orange, and peach.",
+      "Mix all together, then fold in the whipped cream.",
+      "Pour into 1 gallon or 2 half-gallon milk cartons and freeze."
+    ],
+    "notes": []
+  },
+  {
+    "id": "fruit-soup",
+    "title": "Fruit Soup",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Soups & Stews"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [],
+    "method": [
+      "No-bake"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "tapioca"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "water"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "sugar"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "cold orange juice, undiluted"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Cold assorted fruits (with juice)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "7-Up, if needed"
+      }
+    ],
+    "steps": [
+      "Bring tapioca and water to a boil; add sugar and orange juice.",
+      "Let cool, then add the cold assorted fruits. Thin with 7-Up if needed. Pour the juice from the fruit in also."
+    ],
+    "notes": []
+  },
+  {
+    "id": "marshmallows",
+    "title": "Marshmallows",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Candy"
+    ],
+    "main": [],
+    "season": [
+      "Christmas"
+    ],
+    "method": [
+      "No-bake",
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "envelopes",
+        "n": "Knox gelatin"
+      },
+      {
+        "q": "2/3",
+        "u": "cup",
+        "n": "water"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "sugar"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "water"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "egg whites, beaten"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Food coloring"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Coconut"
+      }
+    ],
+    "steps": [
+      "Mix gelatin and 2/3 cup water in a big bowl and let soften; add flavor.",
+      "Cook sugar and 1 cup water until medium soft-ball stage. Pour over gelatin and beat for 7–10 minutes. Add egg whites and beat for 10 more minutes.",
+      "Pour half the mixture into a greased cookie sheet. Color the other half and pour on top.",
+      "Refrigerate overnight. Cut up and roll in coconut."
+    ],
+    "notes": [
+      "Christmas candy tradition.",
+      "The flavoring in step 1 isn't named in the original — use whatever extract you like."
+    ]
+  },
+  {
+    "id": "pork-pie",
+    "title": "Pork Pie",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "1 1/2–2 hr",
+    "total": null,
+    "oven": "375°F",
+    "course": [
+      "Main Dishes",
+      "Breakfast"
+    ],
+    "main": [
+      "Pork"
+    ],
+    "season": [
+      "Christmas"
+    ],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "flour (pastry)"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "butter plus enough shortening to make 1 cup (pastry)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of salt (pastry)"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "water (pastry)"
+      },
+      {
+        "q": "1 1/2",
+        "u": "lbs",
+        "n": "cubed pork (filling)"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt (filling)"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "sage (filling)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt and pepper (filling)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of cayenne (filling)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "A-1 sauce, for serving"
+      }
+    ],
+    "steps": [
+      "For the hot water pastry, boil the water and put in the salt and fat; stir until dissolved. Add to the flour and knead well.",
+      "Cook for 1 1/2–2 hours at 375°F.",
+      "Boil the filling ingredients. Add gelatin into the hot stock. Stir to dissolve. Cool in the refrigerator.",
+      "Pour the thickened stock into the cooled pork pie. Chill.",
+      "Serve with A-1 sauce (and Postum)."
+    ],
+    "notes": [
+      "Traditional Christmas breakfast.",
+      "The gelatin and stock get poured in after cooking. See Kristal or Nichole for details."
+    ]
+  },
+  {
+    "id": "rich-christmas-pudding",
+    "title": "Rich Christmas Pudding",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "10 hr steamed",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [
+      "Christmas"
+    ],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "raisins"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "currants"
+      },
+      {
+        "q": "1/2",
+        "u": "lb",
+        "n": "bleached raisins"
+      },
+      {
+        "q": "1/2",
+        "u": "lb",
+        "n": "sugar (brown or white)"
+      },
+      {
+        "q": "2",
+        "u": "oz",
+        "n": "nuts"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "nutmeg"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "suet"
+      },
+      {
+        "q": "1/4",
+        "u": "lb",
+        "n": "flour"
+      },
+      {
+        "q": "3/4",
+        "u": "lb",
+        "n": "bread crumbs"
+      },
+      {
+        "q": "1/2",
+        "u": "lb",
+        "n": "candied peel"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "lemons (juice and rind)"
+      },
+      {
+        "q": "4",
+        "u": null,
+        "n": "eggs, well beaten"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Milk"
+      }
+    ],
+    "steps": [
+      "Mix well and add the juice and rind of 2 lemons, the eggs, and enough milk to make the pudding sufficiently moist.",
+      "Mix well and steam for 10 hours. When ready to use, heat up for 2–3 hours with the steamer."
+    ],
+    "notes": []
+  },
+  {
+    "id": "trifle",
+    "title": "Trifle",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [
+      "Christmas"
+    ],
+    "method": [
+      "No-bake",
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": null,
+        "u": null,
+        "n": "Angel food cake"
+      },
+      {
+        "q": "2",
+        "u": "cans",
+        "n": "frozen strawberries, thawed"
+      },
+      {
+        "q": "1",
+        "u": "big box",
+        "n": "strawberry Jell-O, soft set"
+      },
+      {
+        "q": "1",
+        "u": "pint",
+        "n": "whipping cream, whipped"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Bird's custard mix"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pecans"
+      }
+    ],
+    "steps": [
+      "Tear the angel food cake and put it in the bottom of a big bowl.",
+      "Put the rest of the ingredients in this order: strawberries, custard, soft-set Jell-O, whipped cream, pecans."
+    ],
+    "notes": [
+      "Christmas dessert tradition."
+    ]
+  },
+  {
+    "id": "beef-and-spinach",
+    "title": "Beef and Spinach",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Beef"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1 3/4",
+        "u": "cups",
+        "n": "water"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "soy sauce"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "sugar"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Sprinkle of dashi-no-moto (optional)"
+      },
+      {
+        "q": "1/2",
+        "u": "lb",
+        "n": "sliced beef (more if you like)"
+      },
+      {
+        "q": "1/2",
+        "u": "package",
+        "n": "frozen leaf spinach, thawed and squeezed"
+      },
+      {
+        "q": "3–4",
+        "u": null,
+        "n": "eggs, beaten"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Rice, for serving"
+      }
+    ],
+    "steps": [
+      "Boil the first four ingredients in a frying pan. Add the beef and cook until it loses its red color. Add the spinach and cook for a few minutes.",
+      "Beat 3–4 eggs and pour into the pan. Cover, turn off the heat, and let stand.",
+      "Serve over rice."
+    ],
+    "notes": [
+      "Nichole's favorite."
+    ]
+  },
+  {
+    "id": "chicken-caesar-salad",
+    "title": "Chicken Caesar Salad",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Salads",
+      "Main Dishes"
+    ],
+    "main": [
+      "Chicken"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "olive oil"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "boneless, skinless chicken breast, cut into strips"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "lemon pepper seasoning"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "garlic powder"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "vinegar"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "Dijon mustard"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "Worcestershire sauce"
+      },
+      {
+        "q": "1",
+        "u": "head",
+        "n": "romaine lettuce, torn into bite-sized pieces"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "garlic croutons"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "grated Parmesan cheese (shredded is nice)"
+      }
+    ],
+    "steps": [
+      "Heat oil in a non-stick skillet over medium-high heat. Toss chicken with lemon pepper and garlic powder. Add to skillet and cook 4–5 minutes or until thoroughly cooked, stirring frequently. Remove from heat. Do not drain off oil.",
+      "In a small bowl, combine vinegar, mustard, and Worcestershire sauce with a whisk. Stir into the chicken mixture.",
+      "In a large bowl, toss lettuce with the chicken mixture, croutons, and cheese. Top with Parmesan cheese if desired."
+    ],
+    "notes": []
+  },
+  {
+    "id": "chicken-curry",
+    "title": "Chicken Curry",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Chicken"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt and pepper"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "chicken meat, cut into medium-sized pieces"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "onions: 1 chopped, 1 chunked"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "chopped ginger"
+      },
+      {
+        "q": "1",
+        "u": "clove",
+        "n": "garlic, chopped"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "salad oil"
+      },
+      {
+        "q": "3 1/2",
+        "u": "Tbsp",
+        "n": "flour"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "curry powder (S&B), for the chicken"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "curry powder (S&B)"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "water"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "chicken soup cubes"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "Worcestershire sauce"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "lemon juice"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "sugar"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "ketchup"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "potatoes"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "carrots"
+      }
+    ],
+    "steps": [
+      "Sprinkle salt and pepper and 1 tsp curry powder on the chicken and stir.",
+      "Brown the chopped onion, ginger, and garlic in salad oil until lightly brown, about 7 minutes. Add chicken. Sprinkle the flour on the mixture and stir. Add 1 Tbsp curry powder and 3 cups stock. Cook.",
+      "Add lemon juice, sugar, and ketchup and cook until thickened. Add potatoes and carrots.",
+      "Let cook at least one hour on low."
+    ],
+    "notes": [
+      "Dark meat tastes best. You can also leave the bones in.",
+      "The original lists curry powder as \"1 tsp. and 1 T curry powder SB\" — split into two lines here. The \"3 cups stock\" in step 2 is the water and chicken soup cubes."
+    ]
+  },
+  {
+    "id": "cold-chinese-noodles",
+    "title": "Cold Chinese Noodles",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Main Dishes",
+      "Salads"
+    ],
+    "main": [
+      "Pasta"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "very thin spaghetti"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "salt"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "sesame oil"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "sugar (dressing)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "stock (dressing)"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "soy sauce (dressing)"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "vinegar (dressing)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Vegetables (cucumber, lettuce, blanched bean sprouts)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Meat, cut like matchsticks (cold cuts, baked or boiled chicken or pork, thinly fried eggs)"
+      }
+    ],
+    "steps": [
+      "Cook spaghetti. Drain and sprinkle with salt and sesame oil. Chill.",
+      "On individual plates, layer noodles, vegetables, and meat.",
+      "Mix the sugar, stock, soy sauce, and vinegar for the dressing and pour over the top."
+    ],
+    "notes": []
+  },
+  {
+    "id": "crockpot-chicken",
+    "title": "Crockpot Chicken",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "3 hr",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Chicken"
+    ],
+    "season": [],
+    "method": [
+      "Slow cooker"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "uncooked chicken, cut up"
+      },
+      {
+        "q": "2",
+        "u": "cans",
+        "n": "cream of chicken soup"
+      },
+      {
+        "q": "2",
+        "u": "packages",
+        "n": "Italian dressing seasoning"
+      },
+      {
+        "q": "16",
+        "u": "oz",
+        "n": "sour cream"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Rice, for serving"
+      }
+    ],
+    "steps": [
+      "Put the first three ingredients in the crockpot for 1 hour on high.",
+      "Turn temperature to low and mix in sour cream.",
+      "Cook on low for 2 hours, stirring occasionally.",
+      "Serve on rice."
+    ],
+    "notes": [
+      "Passed on to Nichole by her roommate Teresa.",
+      "If you want it less seasoned, you can use only one packet. If you don't have a crockpot, this can be made on the stovetop with reduced cooking times."
+    ]
+  },
+  {
+    "id": "london-broil",
+    "title": "London Broil",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Beef"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "lb",
+        "n": "London broil"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "soy sauce"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "white vinegar"
+      },
+      {
+        "q": "1",
+        "u": "large clove",
+        "n": "garlic, minced"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "sugar"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "oil"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "fresh grated ginger (not necessary if you don't have it)"
+      }
+    ],
+    "steps": [
+      "Mix everything except the beef.",
+      "Marinate the meat for 4–5 hours at room temperature, turning occasionally.",
+      "Broil in the oven for 5 minutes on each side for medium-rare."
+    ],
+    "notes": [
+      "Also Nichole's favorite.",
+      "Mom doesn't use the oil."
+    ]
+  },
+  {
+    "id": "orange-chicken",
+    "title": "Orange Chicken",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "50–60 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Chicken"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": null,
+        "n": "chicken, skinned and cut up"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "flour mixed with salt and pepper"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "oil"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "orange juice"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "catsup"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "chopped green pepper"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "prepared mustard"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "garlic powder"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "soy sauce"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "molasses (honey or sugar will do)"
+      }
+    ],
+    "steps": [
+      "Dredge pieces in flour mixture. In a skillet, brown chicken lightly in oil.",
+      "Remove chicken pieces to a 3-quart casserole. Drain fat from skillet, then add remaining ingredients.",
+      "Simmer 2–3 minutes. Pour sauce over chicken in casserole. Cover and bake at 350°F for 50–60 minutes."
+    ],
+    "notes": []
+  },
+  {
+    "id": "puerto-rican-pork",
+    "title": "Puerto Rican Pork",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "35 min per lb",
+    "total": null,
+    "oven": "325°F",
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Pork"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead",
+      "Gluten-free"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "pork shoulder"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt (marinade)"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vinegar (marinade)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "minced garlic (marinade)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "oregano (marinade)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Black pepper (marinade)"
+      }
+    ],
+    "steps": [
+      "Make deep holes in the pork shoulder with a sharp knife. Stuff the holes with the marinade mixture. Rub the rest of the marinade onto the outside of the roast. Let sit in the refrigerator for 3–4 days, or freeze it for later use.",
+      "Bake in a 325°F oven for 35 minutes per pound or until done. Loosen the skin from the roast 30 minutes before it's done to crispen it."
+    ],
+    "notes": [
+      "Turkey breast is also great cooked this way. Put the marinade between the skin and meat. Cook 30 minutes per pound."
+    ]
+  },
+  {
+    "id": "smokey-cheddar-potato-soup",
+    "title": "Smokey Cheddar Potato Soup",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Soups & Stews"
+    ],
+    "main": [
+      "Potato",
+      "Cheese"
+    ],
+    "season": [
+      "Winter"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "butter or margarine"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "onion, diced"
+      },
+      {
+        "q": "5",
+        "u": "stalks",
+        "n": "celery, diced"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "chicken bouillon cubes"
+      },
+      {
+        "q": "4",
+        "u": null,
+        "n": "potatoes, peeled and diced"
+      },
+      {
+        "q": "1",
+        "u": "can",
+        "n": "cream of chicken soup"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "liquid smoke"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "cheddar cheese, shredded"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Water, to cover"
+      }
+    ],
+    "steps": [
+      "Brown onion and celery with butter in a large Dutch oven.",
+      "Add bouillon cubes, soup, potatoes, and enough water to cover the potatoes plus some (it depends on how potato-full you want your soup). Cook until potatoes are tender.",
+      "Add liquid smoke and cheddar cheese just before serving."
+    ],
+    "notes": [
+      "Nichole's specialty."
+    ]
+  },
+  {
+    "id": "teriyaki-sauce",
+    "title": "Teriyaki Sauce",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Sauces & Marinades"
+    ],
+    "main": [
+      "Chicken"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": null,
+        "u": null,
+        "n": "Soy sauce and sugar, 2 parts soy sauce to 1 part sugar"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Ginger"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Garlic"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Chicken pieces"
+      }
+    ],
+    "steps": [
+      "Marinate chicken pieces overnight in the fridge."
+    ],
+    "notes": [
+      "Distinct from Homemade Teriyaki Sauce (collected) — this is the family's simple 2:1 ratio."
+    ]
+  },
+  {
+    "id": "williamsburg-creamy-turkey-soup",
+    "title": "Williamsburg Creamy Turkey Soup",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Soups & Stews"
+    ],
+    "main": [
+      "Turkey"
+    ],
+    "season": [
+      "Thanksgiving"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "butter"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "finely chopped onion"
+      },
+      {
+        "q": "2 1/2",
+        "u": "cups",
+        "n": "turkey broth"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "thinly sliced carrots"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "thinly sliced celery"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "pepper"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "cubed cooked turkey"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "cornstarch"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "milk"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "chopped parsley"
+      }
+    ],
+    "steps": [
+      "In a 4-quart saucepan, melt butter. Add onion and cook for 2 minutes or until tender.",
+      "Stir in broth, carrots, celery, salt, and pepper. Bring to a boil. Reduce heat and simmer 5 minutes or until vegetables are crisp-tender. Add turkey.",
+      "In a medium bowl, stir together cornstarch and milk until smooth. Add to turkey mixture, stirring constantly. Bring to a boil over medium heat and boil for 1 minute. Stir in parsley."
+    ],
+    "notes": []
+  },
+  {
+    "id": "ambrosia",
+    "title": "Ambrosia",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Salads",
+      "Sides"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [],
+    "method": [
+      "No-bake",
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "(20 oz) can",
+        "n": "chunk pineapple in juice or syrup, drained"
+      },
+      {
+        "q": "1",
+        "u": "(11 oz) can",
+        "n": "mandarin orange segments, drained"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "seedless grapes"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "miniature marshmallows"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "flaked coconut"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "nuts"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "dairy sour cream or vanilla yogurt"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "sugar"
+      }
+    ],
+    "steps": [
+      "Mix sour cream and sugar. Stir into the fruit mixture.",
+      "Chill."
+    ],
+    "notes": [
+      "Do not put in the oranges until everything else is mixed in."
+    ]
+  },
+  {
+    "id": "california-maki",
+    "title": "California Maki",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Appetizers & Dips",
+      "Main Dishes"
+    ],
+    "main": [
+      "Rice",
+      "Seafood"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "uncooked rice"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "vinegar"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "sugar"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "avocado"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Imitation crab meat"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Nori"
+      }
+    ],
+    "steps": [
+      "Cook the rice with 1/2 cup less water than usual.",
+      "Mix rice with vinegar, sugar, and salt. Spread over a sheet of nori on a sushi roller, leaving about 3/4 inch of one edge uncovered.",
+      "Place pieces of crab and avocado in a line down the center of the rice. Roll it all up and wet the uncovered edge with water so it sticks to itself.",
+      "Slice the roll into about 1/2-inch pieces, keeping the knife clean while cutting (an electric knife works really well)."
+    ],
+    "notes": [
+      "\"Manna from Heaven\" — Cathy Wong.",
+      "1/2 cup of sushi vinegar can be used instead of the vinegar, sugar, and salt."
+    ]
+  },
+  {
+    "id": "kristals-baked-french-fries",
+    "title": "Kristal's Baked French Fries",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "about 10 min",
+    "total": null,
+    "oven": "400°F",
+    "course": [
+      "Sides"
+    ],
+    "main": [
+      "Potato",
+      "Vegetarian"
+    ],
+    "season": [],
+    "method": [
+      "Gluten-free"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": null,
+        "n": "large potato"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Old Bay"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 400°F.",
+      "Slice potato to size desired, then rinse with cold water. Shake off any excess water.",
+      "Place on a cookie sheet and sprinkle with Old Bay.",
+      "Bake until desired wellness. I like mine crispy and thin, so I usually do about 10 minutes. That's pretty crispy though."
+    ],
+    "notes": []
+  },
+  {
+    "id": "miso-soup",
+    "title": "Miso Soup",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Soups & Stews"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [
+      "Winter"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "inch ball",
+        "n": "miso, per serving"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of fish-flavoured soup stock"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Water"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Tofu and green onions, for flavour and colour"
+      }
+    ],
+    "steps": [],
+    "notes": [
+      "This is guaranteed to make you feel better if you have a cold. Especially if Mom makes it for you.",
+      "The cookbook gives no steps — just the ingredients.",
+      "Distinct from Homemade Miso Soup with Tofu (collected)."
+    ]
+  },
+  {
+    "id": "pilaf",
+    "title": "Pilaf",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "14 min + 15 min rest",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Sides"
+    ],
+    "main": [
+      "Rice"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": null,
+        "n": "medium onion, chopped"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "diced celery"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "butter"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "chicken stock"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "raisins"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "uncooked rice (American)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of thyme"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "parsley"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "crushed rosemary"
+      }
+    ],
+    "steps": [
+      "Cook onion and celery in butter until tender.",
+      "Add remaining ingredients and bring to a boil. Cover tightly and reduce heat. Cook for 14 minutes. Let sit 15 minutes without taking the lid off."
+    ],
+    "notes": [
+      "2 cups hot water and chicken bouillon cubes may be used instead of the chicken stock."
+    ]
+  },
+  {
+    "id": "qd-cucumber-salad",
+    "title": "QD (Cucumber Salad)",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Salads",
+      "Sides"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [
+      "No-bake",
+      "Gluten-free"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": null,
+        "n": "cucumbers"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "vinegar"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "sugar"
+      }
+    ],
+    "steps": [
+      "Thinly slice the cucumbers and sprinkle the salt on them while on the cutting board; mix.",
+      "Mix the vinegar and sugar in a bowl. Squeeze the excess juice from the cucumber and put in the bowl."
+    ],
+    "notes": [
+      "QD is a family name."
+    ]
+  },
+  {
+    "id": "angel-biscuits",
+    "title": "Angel Biscuits",
+    "collection": "family",
+    "source": null,
+    "yield": "24 biscuits",
+    "yieldNum": 24,
+    "yieldUnit": "biscuits",
+    "prep": null,
+    "cook": "about 8 min",
+    "total": null,
+    "oven": "450°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "yeast (or 1 envelope)"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "warm water"
+      },
+      {
+        "q": "5",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "sugar"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "baking powder"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "shortening"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "buttermilk"
+      }
+    ],
+    "steps": [
+      "In a small bowl, soften yeast in warm water. Set aside.",
+      "In a large mixing bowl, stir together flour, sugar, baking powder, salt, and baking soda. Make wells and pour in shortening.",
+      "With a pastry cutter, cut in shortening until mixture resembles coarse crumbs. Mix well.",
+      "Add yeast mixture and buttermilk. Stir till combined.",
+      "On a floured surface, knead mixture about 2 minutes or until smooth, adding more flour as needed. (To make ahead, the dough may be stored covered in the refrigerator overnight.)",
+      "Roll out dough to 1/2-inch thickness.",
+      "Using a 2 1/2-inch biscuit cutter, cut out 24 biscuits. Dip cutter in flour.",
+      "Place biscuits on an ungreased baking sheet. At this point, either bake biscuits or let them rise, covered, in a warm place for 45 minutes.",
+      "Bake in a 450°F oven about 8 minutes or till light brown on bottom."
+    ],
+    "notes": [
+      "For less fat, use 1/2 cup fat-free plain yogurt and 1/2 cup oil in place of shortening."
+    ]
+  },
+  {
+    "id": "banana-nut-bread",
+    "title": "Banana Nut Bread",
+    "collection": "family",
+    "source": null,
+    "yield": "2 small loaves",
+    "yieldNum": 2,
+    "yieldUnit": "small loaves",
+    "prep": null,
+    "cook": "1 hr",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": null,
+        "n": "ripe bananas, mashed"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "brown sugar"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "milk"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "baking powder"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "margarine or butter, melted"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "egg, beaten"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "flour"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "nuts"
+      }
+    ],
+    "steps": [
+      "To mashed bananas, add melted margarine or butter, egg, sugar, and milk. Beat well.",
+      "Sift together flour, baking powder, baking soda, and salt, and add.",
+      "Add nuts and mix well.",
+      "Bake in a moderate oven at 350°F for 1 hour."
+    ],
+    "notes": [
+      "Makes 2 small loaves."
+    ]
+  },
+  {
+    "id": "cinnamon-rolls",
+    "title": "Cinnamon Rolls",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "about 20 min",
+    "total": null,
+    "oven": "375°F",
+    "course": [
+      "Breads & Rolls",
+      "Breakfast"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "warm mashed potatoes (rolls)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "warm water (rolls)"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "dry yeast (rolls)"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "sugar (rolls)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "oil (rolls)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "sugar (rolls)"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "eggs (rolls)"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "salt (rolls)"
+      },
+      {
+        "q": "7",
+        "u": "cups",
+        "n": "flour (rolls)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "butter (topping)"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "cinnamon (topping)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "brown sugar (topping)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "raisins (topping)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "nuts (topping)"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "powdered sugar (icing)"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "milk (icing)"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla (icing)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Dash of salt (icing)"
+      }
+    ],
+    "steps": [
+      "Combine the first four ingredients and let stand for 30 minutes.",
+      "Mix in the remaining ingredients, varying the amount of flour as needed to make a soft dough. Knead on a floured board for 5–10 minutes.",
+      "Roll dough into a rectangle 1/2 inch thick, spread with butter, and sprinkle with toppings.",
+      "Roll up, cut into 3/4-inch pieces, and place in a buttered cake pan about 1 inch apart. Let rise for 1 hour.",
+      "Bake at 375°F until golden, approximately 20 minutes.",
+      "Frost with icing."
+    ],
+    "notes": [
+      "This is a big batch!",
+      "Distinct from Bread Machine Cinnamon Rolls (collected)."
+    ]
+  },
+  {
+    "id": "hanas-famous-wheat-bread",
+    "title": "Hana's Famous Wheat Bread",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "35 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [
+      "Bread machine"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "buttermilk"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "honey"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "oil"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "white flour"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "wheat flour (or vice versa, depending on how \"wheaty\" you want it)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "yeast"
+      }
+    ],
+    "steps": [
+      "Add to the bread machine in the above order. For best results, use the dough setting, then transfer the dough to a bread pan and bake in the oven at 350°F for 35 minutes."
+    ],
+    "notes": [
+      "Dad's favourite.",
+      "To be made in a bread machine.",
+      "1 1/4 cups milk and 1/4 cup lemon juice can be used in place of the buttermilk."
+    ]
+  },
+  {
+    "id": "herb-bread",
+    "title": "Herb Bread",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [
+      "Bread machine"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "3 1/2",
+        "u": "cups",
+        "n": "bread flour"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "dry milk"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "butter or oil"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "sugar"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "parsley flakes"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "caraway seeds"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "dill"
+      },
+      {
+        "q": "1 1/4",
+        "u": "cups",
+        "n": "water"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "dry yeast"
+      }
+    ],
+    "steps": [],
+    "notes": [
+      "To be made in a bread machine. The cookbook gives no steps — add the ingredients per your machine's directions."
+    ]
+  },
+  {
+    "id": "lemon-poppy-seed-scones",
+    "title": "Lemon-Poppy Seed Scones",
+    "collection": "family",
+    "source": null,
+    "yield": "8 scones",
+    "yieldNum": 8,
+    "yieldUnit": "scones",
+    "prep": null,
+    "cook": "12–15 min",
+    "total": null,
+    "oven": "425°F",
+    "course": [
+      "Breads & Rolls",
+      "Breakfast"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "flour"
+      },
+      {
+        "q": "3",
+        "u": "tsp",
+        "n": "baking powder"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "sugar"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "poppy seeds"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "margarine"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "lemon juice"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "milk"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Sugar, for sprinkling"
+      }
+    ],
+    "steps": [
+      "Heat oven to 425°F. Spray cookie sheet with nonstick cooking spray.",
+      "Mix flour, baking powder, salt, sugar, and poppy seeds in a large bowl. Cut in margarine until mixture resembles fine crumbs.",
+      "Mix lemon juice and milk; stir into flour mixture until dough leaves side of bowl and forms a ball.",
+      "Turn dough onto a lightly floured surface; gently roll in flour to coat. Knead lightly 10 times. Roll or pat into a 9-inch circle. Sprinkle with sugar. Cut into 8 wedges. Place on cookie sheet. Bake 12–15 minutes or until golden brown."
+    ],
+    "notes": []
+  },
+  {
+    "id": "oatmeal-bread",
+    "title": "Oatmeal Bread",
+    "collection": "family",
+    "source": null,
+    "yield": "1 loaf",
+    "yieldNum": 1,
+    "yieldUnit": "loaf",
+    "prep": null,
+    "cook": "50 min",
+    "total": null,
+    "oven": "375°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "rolled oatmeal"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "boiling water"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "dry yeast"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "warm water"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "light molasses"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "vegetable oil"
+      },
+      {
+        "q": "4–4 1/2",
+        "u": "cups",
+        "n": "flour"
+      }
+    ],
+    "steps": [
+      "Pour boiling water over oatmeal in a large mixing bowl. Add salt and stir to mix well. Set aside to cool to lukewarm.",
+      "In a small bowl, dissolve yeast in the warm water, then pour mixture into the oatmeal goop. Add molasses and oil and stir to mix well.",
+      "Gradually add flour, mixing well until dough is stiff enough to handle. Place dough on a lightly floured board and knead for about 5 minutes, until smooth.",
+      "Place dough in a lightly oiled bowl, turning to coat all sides of dough with oil. Cover with a clean cloth and let rise in a warm place until doubled in bulk.",
+      "Punch down dough and knead again on a lightly floured board for a few minutes. Spray a 9x5-inch loaf pan. Shape dough into a loaf and place in pan. Cover and let rise again for 1 hour or until doubled in size.",
+      "Preheat oven to 375°F. Bake 50 minutes. Cool on rack."
+    ],
+    "notes": [
+      "Disclaimer: This is NOT — I repeat, NOT — a bread machine recipe and will not work therein."
+    ]
+  },
+  {
+    "id": "pumpkin-spice-bread",
+    "title": "Pumpkin Spice Bread",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "1 hr 10 min (muffins 20–25 min)",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [
+      "Fall",
+      "Thanksgiving"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "6 1/8",
+        "u": "cups",
+        "n": "flour"
+      },
+      {
+        "q": "5 1/4",
+        "u": "cups",
+        "n": "sugar"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "cinnamon"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "nutmeg"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "ground cloves"
+      },
+      {
+        "q": "1 3/4",
+        "u": "cups",
+        "n": "oil or margarine, melted"
+      },
+      {
+        "q": "1",
+        "u": "(29 oz) can",
+        "n": "pumpkin"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "eggs, beaten"
+      },
+      {
+        "q": "1 1/6",
+        "u": "cups",
+        "n": "water"
+      }
+    ],
+    "steps": [
+      "Sift together dry ingredients; make a well in the center.",
+      "Add margarine and the combined pumpkin, egg, and water. Mix until dry ingredients are moistened.",
+      "Pour into greased and floured 9x5-inch loaf pan.",
+      "Bake at 350°F for 1 hour and 10 minutes or until done (muffins take 20–25 minutes)."
+    ],
+    "notes": [
+      "This is a big batch!",
+      "Mom adds 1 (12 oz) bag of chocolate chips, uses less sugar, and substitutes plain yogurt and oil (1:1) for the margarine.",
+      "Depending on pan size, may need 2 loaf pans."
+    ]
+  },
+  {
+    "id": "rho-rhos-rolls",
+    "title": "Rho Rho's Rolls",
+    "collection": "family",
+    "source": null,
+    "yield": "21 rolls",
+    "yieldNum": 21,
+    "yieldUnit": "rolls",
+    "prep": null,
+    "cook": "25 min",
+    "total": null,
+    "oven": "375°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "4 1/4",
+        "u": "cups",
+        "n": "unbleached all-purpose flour"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "sugar"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "2",
+        "u": "envelopes",
+        "n": "active dry yeast"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "eggs"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "warm water (120–130°F)"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "cooking oil"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "whole wheat flour"
+      }
+    ],
+    "steps": [
+      "In a large mixing bowl, combine 3 cups all-purpose flour, sugar, salt, and yeast.",
+      "Stir together eggs, water, and oil; add to flour mixture. Beat with an electric mixer at low speed for 1/2 minute, scraping bowl. Beat 3 minutes at high speed.",
+      "Using a spoon, stir in the remaining all-purpose flour and all of the whole wheat flour.",
+      "Transfer dough to a very large greased bowl; turn once.",
+      "Cover and refrigerate for 2–24 hours.",
+      "Stir dough down. Let dough rest 10 minutes.",
+      "Spray a 13x9x2-inch baking pan and a 9x9x2-inch baking pan with non-stick spray, or lightly grease with shortening.",
+      "On a well-floured surface, roll dough to 1-inch thickness. Cut with a 2 1/2-inch round cutter.",
+      "Transfer rolls to pans. Cover and let rise in a warm place until doubled, about 40 minutes.",
+      "Bake in a 375°F oven for 25 minutes or until golden. Serve warm, or use the cooled rolls for sandwiches."
+    ],
+    "notes": [
+      "Makes 21 rolls, or great doughnuts."
+    ]
+  },
+  {
+    "id": "zucchini-bread",
+    "title": "Zucchini Bread",
+    "collection": "family",
+    "source": null,
+    "yield": "2 loaves",
+    "yieldNum": 2,
+    "yieldUnit": "loaves",
+    "prep": null,
+    "cook": "1 hr",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "3",
+        "u": null,
+        "n": "eggs"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "oil"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "sugar"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "vanilla"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "shredded zucchini"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "flour"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "baking powder"
+      },
+      {
+        "q": "3",
+        "u": "tsp",
+        "n": "cinnamon"
+      }
+    ],
+    "steps": [
+      "Stir ingredients together and pour into 2 greased loaf pans.",
+      "Bake at 350°F for one hour."
+    ],
+    "notes": [
+      "Mom uses 1 1/2 cups sugar."
+    ]
+  },
+  {
+    "id": "crepes",
+    "title": "Crêpes",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Breakfast"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "flour"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "sugar"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "baking powder"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "milk"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "vanilla"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "eggs"
+      }
+    ],
+    "steps": [
+      "Spray a medium-sized skillet with Pam. Pour approximately 1/4 cup batter and spread evenly on the pan by picking up the skillet by the handle and rolling it around. Brown lightly on one side, then flip and brown lightly (golden brown) on the other. Spray pan with every crêpe."
+    ],
+    "notes": [
+      "Hana's favorite crêpe fillings: Nutella, lime juice and brown sugar (an English variation), pudding, fruit and whipped cream, etc. May even fill with non-sweets, but let's face it… sweet IS better."
+    ]
+  },
+  {
+    "id": "chocolate-cherry-upside-down-cake",
+    "title": "Chocolate Cherry Upside-Down Cake",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "30–35 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Chocolate",
+      "Fruit"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "(21 oz) can",
+        "n": "cherry pie filling"
+      },
+      {
+        "q": "2 1/4",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "sugar"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "unsweetened cocoa powder"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "3/4",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "water"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "cooking oil"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "vinegar"
+      },
+      {
+        "q": "1 1/2",
+        "u": "tsp",
+        "n": "vanilla"
+      }
+    ],
+    "steps": [
+      "Spread the cherry pie filling evenly over the bottom of a greased 13x9x2-inch baking pan.",
+      "In a large bowl, stir together flour, sugar, cocoa, soda, and salt.",
+      "In another bowl, combine water, oil, vinegar, and vanilla.",
+      "Add liquid ingredients to flour mixture all at once; stir just to moisten.",
+      "Pour batter evenly over cherry pie filling. Bake in a 350°F oven for 30–35 minutes or until cake tests done.",
+      "Cool 10 minutes in pan; invert and cool."
+    ],
+    "notes": []
+  },
+  {
+    "id": "gregs-chocolate-chip-cookies",
+    "title": "Greg's Chocolate Chip Cookies",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Cookies & Bars"
+    ],
+    "main": [
+      "Chocolate"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "butter"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "sugar"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "brown sugar"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "egg"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "vanilla"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "flour"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "oatmeal"
+      },
+      {
+        "q": "12",
+        "u": "oz",
+        "n": "chocolate chips"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "nuts"
+      }
+    ],
+    "steps": [
+      "Beat together butter, sugars, egg, and vanilla. Add flour, baking soda, salt, oatmeal, chocolate chips, and nuts.",
+      "Bake at 350°F until done."
+    ],
+    "notes": [
+      "This is supposed to be his secret recipe!"
+    ]
+  },
+  {
+    "id": "hanas-meringue-kisses",
+    "title": "Hana's Meringue Kisses",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": "350°F, then off",
+    "course": [
+      "Cookies & Bars"
+    ],
+    "main": [
+      "Chocolate"
+    ],
+    "season": [
+      "Christmas"
+    ],
+    "method": [
+      "Gluten-free",
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": null,
+        "n": "egg whites"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "sugar"
+      },
+      {
+        "q": "2/3",
+        "u": "cup",
+        "n": "mini chocolate chips"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Dash of salt"
+      }
+    ],
+    "steps": [
+      "Cover a cookie sheet with aluminum foil and preheat oven to 350°F.",
+      "Beat egg whites until frothy. Add vanilla and, while continuing to beat, add sugar.",
+      "When mixture is quite stiff, gently fold in chocolate chips and/or other \"variations.\" Drop by teaspoonfuls onto cookie sheet.",
+      "Stick in the oven, then turn off the heat and don't open the oven door for eight hours. (Thus, best to prepare in the eventide and leave overnight so no one gets their grubby little fingers into 'em.)"
+    ],
+    "notes": [
+      "Now here's where the variation comes in… You could add walnuts for that nutty flavour. Or you could add crushed candy canes for that minty flavour."
+    ]
+  },
+  {
+    "id": "microwave-caramel-popcorn",
+    "title": "Microwave Caramel Popcorn",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Candy"
+    ],
+    "main": [],
+    "season": [],
+    "method": [
+      "Gluten-free"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "butter"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "corn syrup"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "brown sugar"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "popcorn (unpopped)"
+      }
+    ],
+    "steps": [
+      "Put butter, corn syrup, brown sugar, and salt in a microwave-safe dish with room to double in size. Microwave on high for 4 minutes.",
+      "Add baking soda and stir vigorously. Microwave 90 seconds. Stir.",
+      "Microwave 90 more seconds. Stir.",
+      "Microwave 30 seconds. Stir.",
+      "Pop the popcorn and put in a brown paper bag. Pour candy over popcorn and shake well."
+    ],
+    "notes": [
+      "From the Wing Family Cookbook."
+    ]
+  },
+  {
+    "id": "moms-chocolate-chip-cookies",
+    "title": "Mom's Chocolate Chip Cookies",
+    "collection": "family",
+    "source": null,
+    "yield": "about 3 dozen cookies",
+    "yieldNum": 36,
+    "yieldUnit": "cookies",
+    "prep": null,
+    "cook": "10 min",
+    "total": null,
+    "oven": "375°F",
+    "course": [
+      "Cookies & Bars"
+    ],
+    "main": [
+      "Chocolate"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "shortening"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "sugar"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "brown sugar, firmly packed"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "eggs, beaten"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "hot water"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla"
+      },
+      {
+        "q": "2 1/2",
+        "u": "cups",
+        "n": "flour"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "chocolate chips (6 oz)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "broken walnuts"
+      }
+    ],
+    "steps": [
+      "Bake at 375°F for 10 minutes."
+    ],
+    "notes": [
+      "Makes about 3 dozen cookies.",
+      "The cookbook gives only the bake step — mix as for any drop cookie (cream shortening and sugars, add eggs, water, and vanilla, then dry ingredients, then chips and nuts).",
+      "Original reads \"3/4 brown sugar\" with no unit; cup assumed."
+    ]
+  },
+  {
+    "id": "moms-pie-crust",
+    "title": "Mom's Pie Crust",
+    "collection": "family",
+    "source": null,
+    "yield": "4 crusts",
+    "yieldNum": 4,
+    "yieldUnit": "crusts",
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "all-purpose flour (not self-rising)"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1 1/3",
+        "u": "cups",
+        "n": "plus 1/4 cup shortening"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "egg, beaten"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "vinegar"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "cold water"
+      }
+    ],
+    "steps": [
+      "Mix all ingredients with a pastry cutter.",
+      "Divide dough into four sections.",
+      "Roll between two floured sheets of wax paper."
+    ],
+    "notes": [
+      "Makes 4 crusts."
+    ]
+  },
+  {
+    "id": "reduced-fat-peppermint-pie",
+    "title": "Reduced Fat Peppermint Pie",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Cakes & Pies",
+      "Frozen Desserts"
+    ],
+    "main": [
+      "Cream Cheese"
+    ],
+    "season": [
+      "Christmas"
+    ],
+    "method": [
+      "No-bake",
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "chocolate cookie crumbs"
+      },
+      {
+        "q": "1",
+        "u": "(8 oz) package",
+        "n": "Neufchatel cheese"
+      },
+      {
+        "q": "1",
+        "u": "(14 oz) can",
+        "n": "fat-free sweetened condensed skimmed milk"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "crushed hard peppermint candy"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Red food coloring (optional)"
+      },
+      {
+        "q": "1",
+        "u": "(8 oz) container",
+        "n": "frozen non-dairy light whipped topping, thawed"
+      }
+    ],
+    "steps": [
+      "Spray a 9-inch pie plate with vegetable cooking spray. Sprinkle cookie crumbs on side and bottom of plate.",
+      "In a large mixer bowl, beat cheese until fluffy. Gradually beat in condensed milk until smooth. Stir in candy and food coloring. Fold in whipped topping.",
+      "Pour into prepared plate. Cover and freeze 6 hours or until firm. Garnish as desired. Freeze leftovers."
+    ],
+    "notes": []
+  },
+  {
+    "id": "texas-sheet-cake",
+    "title": "Texas Sheet Cake",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "25 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Chocolate"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "sticks",
+        "n": "margarine (cake)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "water (cake)"
+      },
+      {
+        "q": "4",
+        "u": "tsp",
+        "n": "cocoa (cake)"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "sugar (cake)"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "eggs (cake)"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "flour (cake)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "baking soda (cake)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "sour cream or buttermilk (cake)"
+      },
+      {
+        "q": "1",
+        "u": "stick",
+        "n": "margarine (icing)"
+      },
+      {
+        "q": "4",
+        "u": "Tbsp",
+        "n": "cocoa (icing)"
+      },
+      {
+        "q": "6",
+        "u": "Tbsp",
+        "n": "milk (icing)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "chopped nuts (icing)"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "powdered sugar, about 1 lb (icing)"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla (icing)"
+      }
+    ],
+    "steps": [
+      "Boil margarine, water, and cocoa. Remove from heat and add sugar.",
+      "Beat eggs until light. Pour in the cocoa-sugar mixture.",
+      "Beat in the flour, mixed with soda. Beat in the sour cream.",
+      "Pour batter into a greased and floured sheet pan and bake at 350°F for 25 minutes or until cake tests done.",
+      "For the icing: boil the margarine, cocoa, and milk. Remove from heat and beat in nuts, powdered sugar, and vanilla. Spread on cake while still hot."
+    ],
+    "notes": [
+      "This is very rich!",
+      "Cocoa in the cake may be 4 Tbsp — check for taste."
+    ]
+  },
+  {
+    "id": "toasted-macadamia-nut-pie",
+    "title": "Toasted Macadamia Nut Pie",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "9 min (crust)",
+    "total": null,
+    "oven": "375°F",
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Chocolate"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "jar",
+        "n": "macadamia nuts (any kind of nuts can be used)"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "Oreo cookie crumbs (crust)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "sugar (crust)"
+      },
+      {
+        "q": "1",
+        "u": "stick",
+        "n": "unsalted butter, melted (crust)"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "unsalted butter (caramel)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "heavy cream (divided)"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "sugar (caramel)"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "water (caramel)"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "lemon juice (caramel)"
+      },
+      {
+        "q": "8",
+        "u": "oz",
+        "n": "semisweet chocolate"
+      }
+    ],
+    "steps": [
+      "Crust: Preheat oven to 375°F. Whisk together crumbs and sugar; add butter. Press into pie plate and up sides. Bake 9 minutes and put on cooling rack.",
+      "Caramel: Microwave cream and butter for 30 seconds.",
+      "In a heavy saucepan on medium-low heat, cook the sugar, water, and lemon juice until the sugar is dissolved.",
+      "Raise the temperature to medium-high and swirl until brown. Add 1/2 cup cream. Glide caramel onto crust.",
+      "Chocolate cream: Microwave the chocolate and cream, covered, at 30-second intervals, stirring in between, until melted.",
+      "Glide chocolate cream on top of caramel. Sprinkle with nuts; refrigerate until solid."
+    ],
+    "notes": [
+      "Nichole's recipe (originally from Debbi Fields).",
+      "Best when served with vanilla ice cream."
+    ]
+  },
+  {
+    "id": "white-chocolate-cheesecake",
+    "title": "White Chocolate Cheesecake",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "2 hr + 1 hr in oven",
+    "total": null,
+    "oven": "275°F, then 250°F",
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Cream Cheese",
+      "Chocolate"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "ladyfinger crumbs (crust)"
+      },
+      {
+        "q": "4",
+        "u": "oz",
+        "n": "white chocolate, coarsely chopped (crust)"
+      },
+      {
+        "q": "5",
+        "u": "Tbsp",
+        "n": "unsalted butter, melted (crust)"
+      },
+      {
+        "q": "18",
+        "u": "oz",
+        "n": "white chocolate (filling)"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "heavy cream (filling)"
+      },
+      {
+        "q": "1 1/2",
+        "u": "lbs",
+        "n": "cream cheese, softened (filling)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "granulated sugar (filling)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "sour cream (filling)"
+      },
+      {
+        "q": "4",
+        "u": null,
+        "n": "large eggs (filling)"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "vanilla extract (filling)"
+      },
+      {
+        "q": "8",
+        "u": "oz",
+        "n": "white chocolate, finely chopped (ganache)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "heavy cream (ganache)"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "unsalted butter (ganache)"
+      }
+    ],
+    "steps": [
+      "Make the crust: In a food processor or blender, combine the ladyfinger crumbs and the white chocolate and process until the chocolate is finely chopped. Blend in the butter. Wrap the outside of a 9-inch springform pan in aluminum foil. Press the crust into the bottom and up the sides of the pan. Chill the crust.",
+      "Preheat the oven to 275°F. Set a shallow baking pan filled with hot water on the bottom rack of the oven.",
+      "Prepare the filling: In a double boiler, melt the white chocolate with the cream over hot, not simmering, water. Set aside to cool slightly.",
+      "In a large bowl, beat the cream cheese and sugar until smooth. Beat in the sour cream, eggs, and vanilla. Beat in the white chocolate cream. Pour into the prepared pan.",
+      "Set the cheesecake on the center rack and bake for 1 hour. Reduce the heat to 250°F and bake for 1 more hour. Without opening the oven, turn off the heat but leave the cake in the oven for 1 hour. Cool the cheesecake on a rack for 30 minutes.",
+      "Meanwhile, make the ganache: Place the white chocolate in a medium bowl. In a small saucepan, bring the cream and butter to a simmer. Pour the hot cream over the chocolate. Let stand, covered, for 5 minutes, then stir until smooth. Let the ganache cool to room temperature.",
+      "Pour the ganache over the cheesecake and spread it smooth. Cover the cheesecake and refrigerate for at least 8 hours or overnight.",
+      "To unmold, wrap a hot wet towel around the pan, then remove the sides of the springform."
+    ],
+    "notes": [
+      "Cathy's favorite cheesecake that AnnMarie will only make for her birthday (from Mrs. Fields)."
+    ]
+  },
+  {
+    "id": "shepherds-pie",
+    "title": "Shepherd's Pie",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": "20–25 min",
+    "total": null,
+    "oven": "375°F",
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Beef",
+      "Potato"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1 1/4",
+        "u": "lb",
+        "n": "Yukon Gold potatoes, peeled and cubed"
+      },
+      {
+        "q": "3",
+        "u": "cloves",
+        "n": "garlic, halved"
+      },
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "lean ground beef"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "small onion, chopped"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "flour"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "beef broth"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "ketchup"
+      },
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "frozen mixed vegetables"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "shredded cheddar, divided"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "light sour cream"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      }
+    ],
+    "steps": [
+      "Boil the potatoes until tender enough to mash, about 20 minutes.",
+      "Preheat oven to 375°F.",
+      "Brown ground beef with garlic and onion. Add 2 Tbsp flour, mixing with the beef drippings.",
+      "Add beef broth, ketchup, and veggies. Cook 5 minutes until thick.",
+      "Transfer to a casserole dish.",
+      "Drain potatoes and smash a bit before adding 1/4 cup grated cheese and the sour cream. Mash together until smooth.",
+      "Spoon potatoes onto the middle of the meat mixture. With a fork, spread potatoes from the center. Sprinkle remaining cheese.",
+      "Bake 20–25 minutes."
+    ],
+    "notes": [
+      "From a handwritten family recipe page.",
+      "Distinct from Best Classic Shepherd's Pie (collected).",
+      "The cheddar and sour cream amounts are torn on the original page, and the onion isn't listed. 1 cup cheddar (1/4 cup in the potatoes, the rest on top), 1/4 cup sour cream, and 1 small onion are estimates. Adjust to taste."
+    ]
+  },
+  {
+    "id": "best-ever-banana-bread",
+    "title": "Best-Ever Banana Bread",
+    "collection": "collected",
+    "source": "Gold Medal Flour — recipe card",
+    "yield": "2 loaves",
+    "yieldNum": 2,
+    "yieldUnit": "loaves",
+    "prep": null,
+    "cook": "1–1 1/4 hr",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1 1/4",
+        "u": "cups",
+        "n": "sugar"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "butter or margarine, softened"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "eggs"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "mashed very ripe bananas (3 to 4 medium)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "buttermilk"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla"
+      },
+      {
+        "q": "2 1/2",
+        "u": "cups",
+        "n": "Gold Medal all-purpose flour"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "chopped nuts, if desired"
+      }
+    ],
+    "steps": [
+      "Heat oven to 350°F. Grease bottoms only of 2 (8x4-inch) loaf pans or 1 (9x5-inch) loaf pan.",
+      "In a large bowl, mix sugar and butter. Add eggs, bananas, buttermilk, and vanilla; beat with an electric mixer on medium speed until smooth. Stir in flour, baking soda, salt, and nuts just until moistened. Pour batter into pans.",
+      "Bake 8-inch loaves 1 hour, 9-inch loaf 1 1/4 hours, or until a toothpick inserted in the center comes out clean. Cool 10 minutes. Loosen sides of loaves from pans; remove from pans to a cooling rack. Cool about 1 hour before slicing."
+    ],
+    "notes": [
+      "Makes 2 loaves (16 slices each).",
+      "High altitude (3500–6500 ft): Increase flour to 2 3/4 cups. In step 1, heat oven to 375°F. In step 1, add 1/4 cup water with the buttermilk. Bake 8-inch loaves about 1 hour 5 minutes, 9-inch loaf about 1 hour 30 minutes."
+    ]
+  },
+  {
+    "id": "ultimate-chocolate-chip-cookies",
+    "title": "Ultimate Chocolate Chip Cookies",
+    "collection": "collected",
+    "source": "Gold Medal Flour — recipe card",
+    "yield": "about 6 dozen cookies",
+    "yieldNum": 72,
+    "yieldUnit": "cookies",
+    "prep": null,
+    "cook": "11–13 min",
+    "total": null,
+    "oven": "375°F",
+    "course": [
+      "Cookies & Bars"
+    ],
+    "main": [
+      "Chocolate"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "butter or margarine, softened"
+      },
+      {
+        "q": "1 1/4",
+        "u": "cups",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "1 1/4",
+        "u": "cups",
+        "n": "packed brown sugar"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "vanilla"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "eggs"
+      },
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "Gold Medal all-purpose flour"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "baking soda"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": "bag (24 oz)",
+        "n": "semisweet chocolate chips (4 cups)"
+      }
+    ],
+    "steps": [
+      "Heat oven to 375°F.",
+      "In a large bowl, beat butter, sugars, vanilla, and eggs with an electric mixer on medium speed or with a spoon until light and fluffy. Stir in flour, baking soda, and salt (dough will be stiff). Stir in chocolate chips.",
+      "On ungreased cookie sheets, drop dough by tablespoonfuls or with a #40 cookie/ice cream scoop, 2 inches apart. Flatten slightly with a fork.",
+      "Bake 11 to 13 minutes or until light golden brown (centers will be soft). Cool 1 to 2 minutes; remove from cookie sheet to a wire rack."
+    ],
+    "notes": [
+      "Makes about 6 dozen cookies.",
+      "High altitude (3500–6500 ft): Bake 10–12 minutes.",
+      "For nut lovers, stir in 2 cups coarsely chopped nuts with the chocolate chips."
     ]
   }
 ]
