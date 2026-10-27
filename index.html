@@ -385,7 +385,6 @@ function peopleRow(){
 function renderFacets(){
   var f=document.getElementById("facets");
   f.innerHTML="";
-  var pr=peopleRow(); if(pr) f.appendChild(pr);
   f.appendChild(facetRow("Course","pick one",COURSES,
     function(v){return STATE.course===v;},
     function(v){ STATE.course = (STATE.course===v?"":v); }));
@@ -398,6 +397,7 @@ function renderFacets(){
   f.appendChild(facetRow("Method","pick one",METHODS,
     function(v){return STATE.method===v;},
     function(v){ STATE.method = (STATE.method===v?"":v); }));
+  var pr=peopleRow(); if(pr) f.appendChild(pr);
 }
 
 /* ---------- cards ---------- */
