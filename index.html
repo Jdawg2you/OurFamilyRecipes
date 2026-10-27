@@ -4,12 +4,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Our Family Recipes</title>
-<meta name="description" content="A binder of family recipes handed down and collected, with search, filters, and scaling.">
+<meta name="description" content="Recipes handed down in our family, and the ones we've collected over the years. Search, scale, and add your own notes.">
+<meta property="og:site_name" content="Our Family Recipes">
 <meta property="og:title" content="Our Family Recipes">
-<meta property="og:description" content="A binder of family recipes handed down and collected.">
+<meta property="og:description" content="Recipes handed down in our family, and the ones we've collected over the years.">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://jdawg2you.github.io/OurFamilyRecipes/og-image.png">
+<meta property="og:url" content="https://jdawg2you.github.io/OurFamilyRecipes/">
+<meta property="og:image" content="https://jdawg2you.github.io/OurFamilyRecipes/og-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Our Family Recipes">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Our Family Recipes">
+<meta name="twitter:description" content="Recipes handed down in our family, and the ones we've collected over the years.">
+<meta name="twitter:image" content="https://jdawg2you.github.io/OurFamilyRecipes/og-card.png">
+<link rel="apple-touch-icon" href="./apple-touch-icon.png">
+<link rel="icon" type="image/png" href="./apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">
@@ -25,7 +35,37 @@ html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5}
 .wrap{max-width:1180px;margin:0 auto;padding:0 22px}
 a{color:var(--pot)}
-.mast{padding:34px 0 18px}
+.hero{background:var(--pot);color:#F6F1E6;position:relative;overflow:hidden;
+  background-image:repeating-linear-gradient(180deg,transparent 0 33px,rgba(246,241,230,.07) 33px 34px)}
+.hero::before{content:"";position:absolute;left:0;right:0;top:0;height:6px;background:var(--brick)}
+.hero-in{max-width:1180px;margin:0 auto;padding:52px 22px 40px;display:flex;justify-content:space-between;align-items:flex-end;gap:22px;flex-wrap:wrap}
+.hero .eyebrow{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#E8C77A}
+.hero h1{font-family:var(--display);font-weight:700;font-size:clamp(42px,7.4vw,80px);line-height:.98;letter-spacing:-.025em;margin:10px 0 0}
+.hero h1 a{color:inherit;text-decoration:none}
+.hero .rule{width:88px;height:5px;background:var(--gold);border-radius:3px;margin:20px 0 16px}
+.hero .tagline{font-size:clamp(16px,1.9vw,18.5px);line-height:1.5;max-width:46ch;margin:0;color:#E4EDE8}
+.hero .sub{display:flex;gap:8px 22px;flex-wrap:wrap;margin-top:18px;font-size:14px;color:#C9DAD1}
+.hero .sub b{color:#fff;font-variant-numeric:tabular-nums}
+.hero .submit-link{background:#F6F1E6;color:var(--pot);font-weight:700}
+.hero .submit-link:hover{background:#fff}
+.hero .submit-link:focus-visible{outline:2px solid #F6F1E6;outline-offset:3px}
+.hero.compact .hero-in{padding:22px 22px 18px;align-items:center}
+.hero.compact h1{font-size:clamp(26px,4vw,34px);margin:0}
+.hero.compact .eyebrow,.hero.compact .rule,.hero.compact .tagline,.hero.compact .sub{display:none}
+#browse{margin-top:26px}
+.tabs{overflow-x:auto;scrollbar-width:none;padding-top:2px}
+.tabs::-webkit-scrollbar{display:none}
+.tab{white-space:nowrap;flex:0 0 auto}
+.rc .who{font-size:12.5px;color:var(--brick);font-weight:600}
+.peeps{display:flex;gap:7px;flex-wrap:wrap;align-items:center;margin-top:12px;font-size:13px;color:var(--ink3)}
+.peeps button{appearance:none;font-family:var(--body);font-size:13px;font-weight:600;cursor:pointer;background:var(--brick-soft);
+  color:var(--brick);border:1.5px solid transparent;border-radius:999px;padding:4px 11px}
+.peeps button:hover{border-color:var(--brick)}
+.chip.person[aria-pressed="true"]{background:var(--brick);border-color:var(--brick)}
+.chip.person:hover{border-color:var(--brick);color:var(--brick)}
+.chip.person[aria-pressed="true"]:hover{color:#fff}
+@media(max-width:560px){.hero-in{padding:40px 18px 30px}.tabs{gap:4px;overflow:visible}.tab{padding:9px 8px;font-size:13px;line-height:1.25;white-space:normal;flex:1 1 0;min-width:0;text-align:center}.tab[data-tab="all"]{flex:0 0 auto;padding:9px 14px}.tab[data-tab="family"]{flex:0 0 auto;white-space:nowrap;padding:9px 14px}.tab .n{display:none}.tab .long{display:none}}
+@media(min-width:561px){.tab .short{display:none}}
 .mast h1{font-family:var(--display);font-weight:700;font-size:clamp(34px,5.4vw,54px);letter-spacing:-.02em;margin:0}
 .mast .sub{display:flex;gap:18px;flex-wrap:wrap;margin-top:6px;font-size:14px;color:var(--ink3)}
 .mast .sub b{color:var(--ink)}
@@ -166,28 +206,31 @@ footer{border-top:1.5px solid var(--rule);padding:22px 0 44px;font-size:12.5px;c
 .rc.addtile .meta{margin-top:6px}
 .rc.addtile:hover{border-color:var(--brick);background:var(--brick-soft);box-shadow:none}
 </style>
-<div class="wrap">
-  <header class="mast">
-    <div class="mast-in">
-      <div>
-        <h1>Our Family Recipes</h1>
-        <div class="sub"><span><b id="totN">0</b> recipes</span><span><b id="famN">0</b> family</span><span><b id="colN">0</b> collected</span></div>
-      </div>
-      <a class="submit-link" href="./submit.html">Add a recipe</a>
+<header class="hero" id="hero">
+  <div class="hero-in">
+    <div>
+      <div class="eyebrow">Handed down &middot; written down &middot; cooked again</div>
+      <h1><a href="./" id="homeLink">Our Family Recipes</a></h1>
+      <div class="rule"></div>
+      <p class="tagline">Mom's meatballs, Nonna's sauce, the Christmas marshmallows, and every good recipe we've picked up along the way. Search it, scale it, and add your own notes.</p>
+      <div class="sub"><span><b id="totN">0</b> recipes</span><span><b id="famN">0</b> from our family</span><span><b id="colN">0</b> collected over the years</span></div>
     </div>
-  </header>
+    <a class="submit-link" href="./submit.html">Add a recipe</a>
+  </div>
+</header>
+<div class="wrap">
 
   <div id="browse">
     <div class="tabs" role="tablist" aria-label="Collection">
-      <button class="tab" role="tab" data-tab="all" aria-selected="true">All recipes<span class="n" id="tabAllN"></span></button>
-      <button class="tab" role="tab" data-tab="family" aria-selected="false">Family<span class="n" id="tabFamN"></span></button>
-      <button class="tab" role="tab" data-tab="collected" aria-selected="false">Collected<span class="n" id="tabColN"></span></button>
+      <button class="tab" role="tab" data-tab="all" aria-selected="false"><span class="long">All recipes</span><span class="short">All</span><span class="n" id="tabAllN"></span></button>
+      <button class="tab" role="tab" data-tab="family" aria-selected="true">Our Family<span class="n" id="tabFamN"></span></button>
+      <button class="tab" role="tab" data-tab="collected" aria-selected="false">Collected Over the Years<span class="n" id="tabColN"></span></button>
     </div>
     <div class="panel">
       <div class="searchrow">
         <label class="search">
           <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="7" cy="7" r="4.6"/><path d="M10.5 10.5L14 14"/></svg>
-          <input id="q" type="search" placeholder="Search a recipe name or any ingredient..." autocomplete="off">
+          <input id="q" type="search" placeholder="Search a recipe, an ingredient, or a family member..." autocomplete="off">
         </label>
         <button class="clear" id="clearAll">Clear everything</button>
       </div>
@@ -214,7 +257,7 @@ footer{border-top:1.5px solid var(--rule);padding:22px 0 44px;font-size:12.5px;c
 var NOTES_ENDPOINT = "https://script.google.com/macros/s/AKfycbzGD34hF-Sdy48nVFM4YS0k5RHuj3mpI7-n4tc0DvaUq3eBhx7lFqRc1oikVW9vzWpG/exec";
 
 var DATA=[], READY=false;
-var STATE={tab:"all", q:"", course:"", method:"", main:[], season:[], open:null, scale:1};
+var STATE={tab:"family", q:"", course:"", method:"", main:[], season:[], who:"", open:null, scale:1};
 
 var COURSES=["Appetizers & Dips","Breakfast","Breads & Rolls","Main Dishes","Sides","Soups & Stews","Salads","Sauces & Marinades","Cakes & Pies","Cookies & Bars","Candy","Beverages","Frozen Desserts"];
 var MAINS=["Beef","Pork","Chicken","Turkey","Seafood","Cheese","Cream Cheese","Vegetarian","Potato","Rice","Pasta","Flour & Yeast","Chocolate","Peanut Butter","Fruit"];
@@ -271,6 +314,8 @@ function searchHit(r,q){
   if(!q) return {ok:true,ing:null};
   var t=q.toLowerCase();
   if(r.title.toLowerCase().indexOf(t)>-1) return {ok:true,ing:null};
+  var ppl=r.people||[];
+  for(var k=0;k<ppl.length;k++){ if(ppl[k].toLowerCase().indexOf(t)>-1) return {ok:true,ing:null}; }
   for(var i=0;i<r.ingredients.length;i++){
     if(r.ingredients[i].n.toLowerCase().indexOf(t)>-1) return {ok:true,ing:r.ingredients[i].n};
   }
@@ -280,6 +325,7 @@ function matches(r){
   if(STATE.tab!=="all" && r.collection!==STATE.tab) return false;
   if(STATE.course && r.course.indexOf(STATE.course)===-1) return false;
   if(STATE.method && r.method.indexOf(STATE.method)===-1) return false;
+  if(STATE.who && (r.people||[]).indexOf(STATE.who)===-1) return false;
   if(STATE.main.length){
     var hitM=false;
     for(var i=0;i<STATE.main.length;i++){ if(r.main.indexOf(STATE.main[i])>-1){ hitM=true; break; } }
@@ -315,9 +361,31 @@ function facetRow(label,hint,values,isOn,onPick){
   row.appendChild(box);
   return row;
 }
+function peopleRow(){
+  var counts={};
+  DATA.forEach(function(r){
+    if(STATE.tab!=="all"&&r.collection!==STATE.tab) return;
+    (r.people||[]).forEach(function(p){ counts[p]=(counts[p]||0)+1; });
+  });
+  var names=Object.keys(counts).sort(function(a,b){ return counts[b]-counts[a] || a.localeCompare(b); });
+  if(!names.length) return null;
+  var row=el("div","frow");
+  var lab=el("div","flabel"); lab.appendChild(document.createTextNode("Family member"));
+  lab.appendChild(el("div","hint","pick one")); row.appendChild(lab);
+  var box=el("div","fchips");
+  names.forEach(function(v){
+    var b=el("button","chip person",v+" ("+counts[v]+")"); b.type="button";
+    b.setAttribute("aria-pressed",STATE.who===v?"true":"false");
+    b.addEventListener("click",function(){ STATE.who=(STATE.who===v?"":v); replace(); render(); });
+    box.appendChild(b);
+  });
+  row.appendChild(box);
+  return row;
+}
 function renderFacets(){
   var f=document.getElementById("facets");
   f.innerHTML="";
+  var pr=peopleRow(); if(pr) f.appendChild(pr);
   f.appendChild(facetRow("Course","pick one",COURSES,
     function(v){return STATE.course===v;},
     function(v){ STATE.course = (STATE.course===v?"":v); }));
@@ -346,6 +414,7 @@ function card(r){
   b.type="button";
   b.appendChild(el("div","tag",r.collection==="family"?"Family recipe":"Collected"));
   b.appendChild(el("h3",null,r.title));
+  if(r.people&&r.people.length) b.appendChild(el("div","who",r.people.join(" \u00b7 ")));
   var hit=searchHit(r,STATE.q);
   if(hit.ing) b.appendChild(el("div","hit","Contains "+hit.ing));
   var bits=[];
@@ -366,7 +435,7 @@ function detail(r){
   var head=el("div","dhead");
 
   var crumb=el("div","crumb");
-  var a=el("a",null,"All recipes"); a.href="#"; a.addEventListener("click",function(e){e.preventDefault();goBrowse(true);});
+  var a=el("a",null,"Recipes"); a.href="#"; a.addEventListener("click",function(e){e.preventDefault();goBrowse(true);});
   crumb.appendChild(a);
   if(r.course.length){
     crumb.appendChild(el("span",null,"\u203a"));
@@ -378,12 +447,21 @@ function detail(r){
   crumb.appendChild(document.createTextNode(r.title));
   head.appendChild(crumb);
 
-  var back=el("button","back","\u2190 All recipes"); back.type="button";
+  var back=el("button","back","\u2190 Back to recipes"); back.type="button";
   back.addEventListener("click",function(){ goBrowse(true); });
   head.appendChild(back);
 
   head.appendChild(el("h2",null,r.title));
   if(r.collection==="family") head.appendChild(el("div","famtag","Family recipe"));
+  if(r.people&&r.people.length){
+    var pp=el("div","peeps"); pp.appendChild(document.createTextNode("More from"));
+    r.people.forEach(function(p){
+      var pb=el("button",null,p); pb.type="button";
+      pb.addEventListener("click",function(){ STATE.tab="family"; STATE.who=p; STATE.q=""; STATE.course=""; STATE.method=""; STATE.main=[]; STATE.season=[]; goBrowse(true); });
+      pp.appendChild(pb);
+    });
+    head.appendChild(pp);
+  }
   else if(r.source) head.appendChild(el("div","src",r.source));
 
   var meta=el("div","dmeta");
@@ -605,7 +683,8 @@ function noteForm(r,list,done){
 function stateToHash(){
   var p=[];
   if(STATE.open) p.push("r="+encodeURIComponent(STATE.open));
-  if(STATE.tab!=="all") p.push("tab="+STATE.tab);
+  if(STATE.tab!=="family") p.push("tab="+STATE.tab);
+  if(STATE.who) p.push("who="+encodeURIComponent(STATE.who));
   if(STATE.q) p.push("q="+encodeURIComponent(STATE.q));
   if(STATE.course) p.push("course="+encodeURIComponent(STATE.course));
   if(STATE.method) p.push("method="+encodeURIComponent(STATE.method));
@@ -615,13 +694,14 @@ function stateToHash(){
 }
 function hashToState(){
   var h=location.hash.replace(/^#/,"");
-  var o={tab:"all",q:"",course:"",method:"",main:[],season:[],open:null};
+  var o={tab:"family",q:"",course:"",method:"",main:[],season:[],who:"",open:null};
   h.split("&").forEach(function(kv){
     if(!kv) return;
     var i=kv.indexOf("="); if(i<0) return;
     var k=kv.slice(0,i), v=decodeURIComponent(kv.slice(i+1));
     if(k==="r") o.open=v;
-    else if(k==="tab") o.tab=v;
+    else if(k==="tab") o.tab=(v==="all"||v==="collected"||v==="family")?v:"family";
+    else if(k==="who") o.who=v;
     else if(k==="q") o.q=v;
     else if(k==="course") o.course=v;
     else if(k==="method") o.method=v;
@@ -632,7 +712,7 @@ function hashToState(){
 }
 function applyState(o){
   STATE.tab=o.tab; STATE.q=o.q; STATE.course=o.course; STATE.method=o.method;
-  STATE.main=o.main; STATE.season=o.season; STATE.open=o.open;
+  STATE.main=o.main; STATE.season=o.season; STATE.who=o.who; STATE.open=o.open;
   var qi=document.getElementById("q"); if(qi&&qi.value!==STATE.q) qi.value=STATE.q;
 }
 function push(){ history.pushState(null,"",stateToHash()); }
@@ -662,6 +742,7 @@ function render(){
   document.getElementById("tabColN").textContent=DATA.length-fam;
 
   var browse=document.getElementById("browse"), det=document.getElementById("detail");
+  document.getElementById("hero").classList.toggle("compact", !!STATE.open);
   if(STATE.open){
     var r=DATA.filter(function(x){return x.id===STATE.open;})[0];
     if(r){
@@ -693,7 +774,7 @@ function render(){
   }
   var n=rows.length;
   document.getElementById("countLine").textContent=
-    n===DATA.length ? ("Showing all "+n+" recipes") : ("Showing "+n+" of "+DATA.length+" recipes");
+    n===DATA.length ? ("Showing all "+n+" recipes") : ("Showing "+n+" of "+DATA.length+" recipes")+(STATE.who?(" \u00b7 connected to "+STATE.who):"");
 }
 
 /* ---------- wiring ---------- */
@@ -701,11 +782,17 @@ document.getElementById("q").addEventListener("input",function(e){
   STATE.q=e.target.value; replace(); render();
 });
 [].forEach.call(document.querySelectorAll(".tab"),function(t){
-  t.addEventListener("click",function(){ STATE.tab=t.getAttribute("data-tab"); push(); render(); });
+  t.addEventListener("click",function(){ STATE.tab=t.getAttribute("data-tab"); if(STATE.tab==="collected") STATE.who=""; push(); render(); });
 });
 document.getElementById("clearAll").addEventListener("click",function(){
-  STATE.tab="all"; STATE.q=""; STATE.course=""; STATE.method=""; STATE.main=[]; STATE.season=[];
+  STATE.tab="family"; STATE.q=""; STATE.course=""; STATE.method=""; STATE.main=[]; STATE.season=[]; STATE.who="";
   document.getElementById("q").value=""; push(); render();
+});
+
+document.getElementById("homeLink").addEventListener("click",function(e){
+  e.preventDefault();
+  STATE.tab="family"; STATE.q=""; STATE.course=""; STATE.method=""; STATE.main=[]; STATE.season=[]; STATE.who="";
+  document.getElementById("q").value=""; goBrowse(true); window.scrollTo({top:0});
 });
 
 /* ---------- boot ---------- */
