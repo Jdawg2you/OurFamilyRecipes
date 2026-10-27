@@ -1658,7 +1658,7 @@
   },
   {
     "id": "moms-crab-dip",
-    "title": "Mom's Crab Dip",
+    "title": "Mama's Crab Dip",
     "collection": "family",
     "source": null,
     "yield": null,
@@ -1719,7 +1719,10 @@
       "Combine all ingredients until evenly mixed.",
       "Heat in the microwave until hot and creamy, stirring as needed. Serve warm."
     ],
-    "notes": []
+    "notes": [],
+    "people": [
+      "Mama (Sumi)"
+    ]
   },
   {
     "id": "chicken-yummies",
@@ -2499,7 +2502,7 @@
   },
   {
     "id": "moms-carrot-cake",
-    "title": "Mom's Carrot Cake",
+    "title": "Mama's Carrot Cake",
     "collection": "family",
     "source": null,
     "yield": null,
@@ -2597,6 +2600,9 @@
     "notes": [
       "Icing ingredients are marked \"(icing)\" — the schema has no ingredient groups yet.",
       "A second copy of this recipe existed on another card with two small differences: 1/2 tsp salt instead of 1 tsp, and walnuts as an optional garnish rather than a listed ingredient. Merged here so the variant is not lost."
+    ],
+    "people": [
+      "Mama (Sumi)"
     ]
   },
   {
@@ -3214,7 +3220,7 @@
   },
   {
     "id": "moms-salad-dressing",
-    "title": "Mom's Salad Dressing",
+    "title": "Mama's Salad Dressing",
     "collection": "family",
     "source": null,
     "yield": null,
@@ -3285,6 +3291,9 @@
     "notes": [
       "Options (from the original family cookbook): 1 Tbsp dry mustard, 2 Tbsp lemon juice, and 1/8 cup dried parsley.",
       "The original cookbook says Mom pours it over 1 iceberg lettuce, 1 red leaf lettuce, sliced onion, and sliced fresh mushroom, using about half the dressing."
+    ],
+    "people": [
+      "Mama (Sumi)"
     ]
   },
   {
@@ -4255,7 +4264,7 @@
       "Bake at 325°F until bubbly and browned on top, about 30 minutes. Serve with crackers."
     ],
     "notes": [
-      "Distinct from Mom's Crab Dip — that one is a microwave dip with powdered sugar; this one bakes."
+      "Distinct from Mama's Crab Dip — that one is a microwave dip with powdered sugar; this one bakes."
     ]
   },
   {
@@ -12288,7 +12297,7 @@
   },
   {
     "id": "moms-chocolate-chip-cookies",
-    "title": "Mom's Chocolate Chip Cookies",
+    "title": "Mama's Chocolate Chip Cookies",
     "collection": "family",
     "source": null,
     "yield": "about 3 dozen cookies",
@@ -12371,11 +12380,14 @@
       "Makes about 3 dozen cookies.",
       "The cookbook gives only the bake step — mix as for any drop cookie (cream shortening and sugars, add eggs, water, and vanilla, then dry ingredients, then chips and nuts).",
       "Original reads \"3/4 brown sugar\" with no unit; cup assumed."
+    ],
+    "people": [
+      "Mama (Sumi)"
     ]
   },
   {
     "id": "moms-pie-crust",
-    "title": "Mom's Pie Crust",
+    "title": "Mama's Pie Crust",
     "collection": "family",
     "source": null,
     "yield": "4 crusts",
@@ -12435,6 +12447,9 @@
     ],
     "notes": [
       "Makes 4 crusts."
+    ],
+    "people": [
+      "Mama (Sumi)"
     ]
   },
   {
