@@ -646,97 +646,116 @@
       {
         "q": "2",
         "u": null,
-        "n": "sweet potatoes"
+        "n": "sweet potatoes",
+        "s": "Salad"
       },
       {
         "q": null,
         "u": null,
-        "n": "Olive oil, for roasting"
+        "n": "Olive oil, for roasting",
+        "s": "Salad"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "paprika"
+        "n": "paprika",
+        "s": "Salad"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "garlic powder, divided"
+        "n": "garlic powder, divided",
+        "s": "Salad"
       },
       {
         "q": "2",
         "u": "cans",
-        "n": "chickpeas, rinsed and dried"
+        "n": "chickpeas, rinsed and dried",
+        "s": "Salad"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "chili powder"
+        "n": "chili powder",
+        "s": "Salad"
       },
       {
         "q": "1",
         "u": "lb",
-        "n": "Brussels sprouts, shredded"
+        "n": "Brussels sprouts, shredded",
+        "s": "Salad"
       },
       {
         "q": "24",
         "u": "oz",
-        "n": "shredded curly kale (or 3–4 bunches)"
+        "n": "shredded curly kale (or 3–4 bunches)",
+        "s": "Salad"
       },
       {
         "q": "2",
         "u": null,
-        "n": "avocados, diced"
+        "n": "avocados, diced",
+        "s": "Salad"
       },
       {
         "q": "3/4",
         "u": "cup",
-        "n": "sunflower seeds"
+        "n": "sunflower seeds",
+        "s": "Salad"
       },
       {
         "q": null,
         "u": null,
-        "n": "Salt and pepper, to taste"
+        "n": "Salt and pepper, to taste",
+        "s": "Salad"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "extra-virgin olive oil (dressing)"
+        "n": "extra-virgin olive oil",
+        "s": "Dressing"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "shredded Parmesan cheese (dressing)"
+        "n": "shredded Parmesan cheese",
+        "s": "Dressing"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "tahini (dressing)"
+        "n": "tahini",
+        "s": "Dressing"
       },
       {
         "q": "3",
         "u": "Tbsp",
-        "n": "lemon juice (dressing)"
+        "n": "lemon juice",
+        "s": "Dressing"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "Dijon mustard (dressing)"
+        "n": "Dijon mustard",
+        "s": "Dressing"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "Worcestershire sauce (dressing)"
+        "n": "Worcestershire sauce",
+        "s": "Dressing"
       },
       {
         "q": "4",
         "u": "cloves",
-        "n": "garlic (dressing)"
+        "n": "garlic",
+        "s": "Dressing"
       },
       {
         "q": null,
         "u": null,
-        "n": "Salt and pepper, to taste (dressing)"
+        "n": "Salt and pepper, to taste",
+        "s": "Dressing"
       }
     ],
     "steps": [
@@ -846,92 +865,110 @@
       {
         "q": "2",
         "u": "cups",
-        "n": "sushi rice, medium- or short-grain (about 4 cups cooked)"
+        "n": "sushi rice, medium- or short-grain (about 4 cups cooked)",
+        "s": "Rice"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "regular rice vinegar"
+        "n": "regular rice vinegar",
+        "s": "Rice"
       },
       {
         "q": "1 1/2",
         "u": "Tbsp",
-        "n": "granulated sugar"
+        "n": "granulated sugar",
+        "s": "Rice"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Rice"
       },
       {
         "q": null,
         "u": null,
-        "n": "Optional toasted sesame oil, for greasing"
+        "n": "Toasted sesame oil, for greasing (optional)",
+        "s": "Rice"
       },
       {
         "q": "8",
         "u": "oz",
-        "n": "cooked salmon"
+        "n": "cooked salmon",
+        "s": "Salmon & crab"
       },
       {
         "q": "8",
         "u": "oz",
-        "n": "imitation crab meat"
+        "n": "imitation crab meat",
+        "s": "Salmon & crab"
       },
       {
         "q": "4",
         "u": "oz",
-        "n": "cream cheese, softened"
+        "n": "cream cheese, softened",
+        "s": "Salmon & crab"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "Sriracha, adjusted to taste"
+        "n": "Sriracha, adjusted to taste",
+        "s": "Salmon & crab"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "Kewpie mayonnaise"
+        "n": "Kewpie mayonnaise",
+        "s": "Salmon & crab"
       },
       {
         "q": "1",
         "u": null,
-        "n": "green onion, sliced, plus more for garnish"
+        "n": "green onion, sliced, plus more for garnish",
+        "s": "Salmon & crab"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "Kewpie mayonnaise (spicy mayo)"
+        "n": "Kewpie mayonnaise",
+        "s": "Spicy mayo"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "Sriracha (spicy mayo)"
+        "n": "Sriracha",
+        "s": "Spicy mayo"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "sake (optional unagi sauce)"
+        "n": "sake",
+        "s": "Unagi sauce (optional)"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "soy sauce (optional unagi sauce)"
+        "n": "soy sauce",
+        "s": "Unagi sauce (optional)"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "sugar (optional unagi sauce)"
+        "n": "sugar",
+        "s": "Unagi sauce (optional)"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "mirin (optional unagi sauce)"
+        "n": "mirin",
+        "s": "Unagi sauce (optional)"
       },
       {
         "q": null,
         "u": null,
-        "n": "Optional: avocado, English cucumber, furikake, seaweed snacks"
+        "n": "Avocado, English cucumber, furikake, seaweed snacks",
+        "s": "Toppings (optional)"
       }
     ],
     "steps": [
@@ -1308,47 +1345,56 @@
       {
         "q": "2 1/4",
         "u": "tsp",
-        "n": "instant or active dry yeast (1 packet)"
+        "n": "instant or active dry yeast (1 packet)",
+        "s": "Dough"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "brown sugar or granulated sugar"
+        "n": "brown sugar or granulated sugar",
+        "s": "Dough"
       },
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "warm water (about 100°F)"
+        "n": "warm water (about 100°F)",
+        "s": "Dough"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "unsalted butter, melted and slightly cooled"
+        "n": "unsalted butter, melted and slightly cooled",
+        "s": "Dough"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Dough"
       },
       {
         "q": "3 3/4-4",
         "u": "cups",
-        "n": "all-purpose flour, plus more as needed"
-      },
-      {
-        "q": null,
-        "u": null,
-        "n": "Coarse salt, for topping"
+        "n": "all-purpose flour, plus more as needed",
+        "s": "Dough"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "baking soda (baking soda bath)"
+        "n": "baking soda",
+        "s": "Baking soda bath"
       },
       {
         "q": "9",
         "u": "cups",
-        "n": "water (baking soda bath)"
+        "n": "water",
+        "s": "Baking soda bath"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Coarse salt, for topping",
+        "s": "Topping"
       }
     ],
     "steps": [
@@ -2539,67 +2585,80 @@
       {
         "q": "2",
         "u": "cups",
-        "n": "flour"
+        "n": "flour",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "sugar"
+        "n": "sugar",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "cinnamon"
+        "n": "cinnamon",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "baking soda"
+        "n": "baking soda",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Cake"
       },
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "oil"
+        "n": "oil",
+        "s": "Cake"
       },
       {
         "q": "4",
         "u": null,
-        "n": "eggs"
+        "n": "eggs",
+        "s": "Cake"
       },
       {
         "q": "3",
         "u": "cups",
-        "n": "shredded carrots (about 4–5 medium carrots)"
+        "n": "shredded carrots (about 4–5 medium carrots)",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "chopped walnuts"
+        "n": "chopped walnuts",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "stick",
-        "n": "butter (icing)"
+        "n": "butter",
+        "s": "Icing"
       },
       {
         "q": "1",
         "u": "(8 oz) block",
-        "n": "cream cheese (icing)"
+        "n": "cream cheese",
+        "s": "Icing"
       },
       {
         "q": "1",
         "u": "lb",
-        "n": "powdered sugar (icing)"
+        "n": "powdered sugar",
+        "s": "Icing"
       },
       {
         "q": "2 1/2",
         "u": "tsp",
-        "n": "vanilla (icing)"
+        "n": "vanilla",
+        "s": "Icing"
       }
     ],
     "steps": [
@@ -2645,37 +2704,44 @@
       {
         "q": "1",
         "u": "(9-inch) deep-dish",
-        "n": "pie crust"
+        "n": "pie crust",
+        "s": "Crust"
       },
       {
         "q": "5",
         "u": "cups",
-        "n": "apples, peeled, cored, and thinly sliced"
+        "n": "apples, peeled, cored, and thinly sliced",
+        "s": "Filling"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "white sugar (filling)"
+        "n": "white sugar",
+        "s": "Filling"
       },
       {
         "q": "3/4",
         "u": "tsp",
-        "n": "cinnamon (filling)"
+        "n": "cinnamon",
+        "s": "Filling"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "white sugar (crumble topping)"
+        "n": "white sugar",
+        "s": "Crumble topping"
       },
       {
         "q": "3/4",
         "u": "cup",
-        "n": "flour (crumble topping)"
+        "n": "flour",
+        "s": "Crumble topping"
       },
       {
         "q": "6",
         "u": "Tbsp",
-        "n": "butter (crumble topping)"
+        "n": "butter",
+        "s": "Crumble topping"
       }
     ],
     "steps": [
@@ -3122,102 +3188,122 @@
       {
         "q": "2",
         "u": "lb",
-        "n": "ground beef"
+        "n": "ground beef",
+        "s": "Chili"
       },
       {
         "q": "1/2",
         "u": null,
-        "n": "onion, chopped"
+        "n": "onion, chopped",
+        "s": "Chili"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "ground black pepper"
+        "n": "ground black pepper",
+        "s": "Chili"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "garlic salt"
+        "n": "garlic salt",
+        "s": "Chili"
       },
       {
         "q": "2 1/2",
         "u": "cups",
-        "n": "tomato sauce"
+        "n": "tomato sauce",
+        "s": "Chili"
       },
       {
         "q": "1",
         "u": "(8 oz) jar",
-        "n": "salsa"
+        "n": "salsa",
+        "s": "Chili"
       },
       {
         "q": "4",
         "u": "Tbsp",
-        "n": "chili seasoning mix (see below)"
+        "n": "chili seasoning mix (see below)",
+        "s": "Chili"
       },
       {
         "q": "1",
         "u": "(15 oz) can",
-        "n": "light red kidney beans"
+        "n": "light red kidney beans",
+        "s": "Chili"
       },
       {
         "q": "1",
         "u": "(15 oz) can",
-        "n": "dark red kidney beans"
+        "n": "dark red kidney beans",
+        "s": "Chili"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "flour (chili seasoning mix)"
+        "n": "flour",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "2 1/3",
         "u": "Tbsp",
-        "n": "chili powder (chili seasoning mix)"
+        "n": "chili powder",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "crushed red pepper (chili seasoning mix)"
+        "n": "crushed red pepper",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "dried minced onion (chili seasoning mix)"
+        "n": "dried minced onion",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "garlic powder (chili seasoning mix)"
+        "n": "garlic powder",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "sugar (chili seasoning mix)"
+        "n": "sugar",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "cumin (chili seasoning mix)"
+        "n": "cumin",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "dried parsley (chili seasoning mix)"
+        "n": "dried parsley",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "salt (chili seasoning mix)"
+        "n": "salt",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "dried basil (chili seasoning mix)"
+        "n": "dried basil",
+        "s": "Chili seasoning mix"
       },
       {
         "q": "1/4",
         "u": "tsp",
-        "n": "ground black pepper (chili seasoning mix)"
+        "n": "ground black pepper",
+        "s": "Chili seasoning mix"
       }
     ],
     "steps": [
@@ -3409,97 +3495,116 @@
       {
         "q": "1 1/2",
         "u": "lb",
-        "n": "ground beef"
+        "n": "ground beef",
+        "s": "Stew"
       },
       {
         "q": "1",
         "u": "medium",
-        "n": "onion"
+        "n": "onion",
+        "s": "Stew"
       },
       {
         "q": "2",
         "u": "cloves",
-        "n": "garlic, minced"
+        "n": "garlic, minced",
+        "s": "Stew"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "dried oregano"
+        "n": "dried oregano",
+        "s": "Stew"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "dried parsley"
+        "n": "dried parsley",
+        "s": "Stew"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "crushed rosemary"
+        "n": "crushed rosemary",
+        "s": "Stew"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "thyme"
+        "n": "thyme",
+        "s": "Stew"
       },
       {
         "q": "4",
         "u": null,
-        "n": "carrots, peeled and chopped"
+        "n": "carrots, peeled and chopped",
+        "s": "Stew"
       },
       {
         "q": "2",
         "u": null,
-        "n": "russet potatoes, peeled and chopped"
+        "n": "russet potatoes, peeled and chopped",
+        "s": "Stew"
       },
       {
         "q": "1",
         "u": "(14.5 oz) can",
-        "n": "fire-roasted tomatoes"
+        "n": "fire-roasted tomatoes",
+        "s": "Stew"
       },
       {
         "q": "1 1/4",
         "u": "cups",
-        "n": "low-sodium beef broth"
+        "n": "low-sodium beef broth",
+        "s": "Stew"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "tomato paste"
+        "n": "tomato paste",
+        "s": "Stew"
       },
       {
         "q": "2/3",
         "u": "cup",
-        "n": "frozen baby peas"
+        "n": "frozen baby peas",
+        "s": "Stew"
       },
       {
         "q": null,
         "u": null,
-        "n": "Salt and pepper, to taste"
+        "n": "Salt and pepper, to taste",
+        "s": "Stew"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "flour (dumplings)"
+        "n": "flour",
+        "s": "Dumplings"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "baking powder (dumplings)"
+        "n": "baking powder",
+        "s": "Dumplings"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "garlic salt (dumplings)"
+        "n": "garlic salt",
+        "s": "Dumplings"
       },
       {
         "q": "3/8",
         "u": "cup",
-        "n": "milk (dumplings)"
+        "n": "milk",
+        "s": "Dumplings"
       },
       {
         "q": "1/8",
         "u": "cup",
-        "n": "butter, melted (dumplings)"
+        "n": "butter, melted",
+        "s": "Dumplings"
       }
     ],
     "steps": [
@@ -3540,82 +3645,98 @@
       {
         "q": "2",
         "u": "cups",
-        "n": "sugar"
+        "n": "sugar",
+        "s": "Cake"
       },
       {
         "q": "1 3/4",
         "u": "cups",
-        "n": "all-purpose flour"
+        "n": "all-purpose flour",
+        "s": "Cake"
       },
       {
         "q": "3/4",
         "u": "cup",
-        "n": "Hershey's Cocoa"
+        "n": "Hershey's Cocoa",
+        "s": "Cake"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "baking powder"
+        "n": "baking powder",
+        "s": "Cake"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "baking soda"
+        "n": "baking soda",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": null,
-        "n": "eggs"
+        "n": "eggs",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "milk"
+        "n": "milk",
+        "s": "Cake"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "vegetable oil"
+        "n": "vegetable oil",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "vanilla extract"
+        "n": "vanilla extract",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "boiling water"
+        "n": "boiling water",
+        "s": "Cake"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "butter or margarine (frosting) (1 stick)"
+        "n": "butter or margarine (1 stick)",
+        "s": "Frosting"
       },
       {
         "q": "2/3",
         "u": "cup",
-        "n": "Hershey's Cocoa (frosting)"
+        "n": "Hershey's Cocoa",
+        "s": "Frosting"
       },
       {
         "q": "3",
         "u": "cups",
-        "n": "powdered sugar (frosting)"
+        "n": "powdered sugar",
+        "s": "Frosting"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "milk, plus more if needed (frosting)"
+        "n": "milk, plus more if needed",
+        "s": "Frosting"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "vanilla extract (frosting)"
+        "n": "vanilla extract",
+        "s": "Frosting"
       }
     ],
     "steps": [
@@ -3865,57 +3986,68 @@
       {
         "q": "2",
         "u": "cups",
-        "n": "bread flour (skin)"
+        "n": "bread flour",
+        "s": "Skin"
       },
       {
         "q": "3/4",
         "u": "cup",
-        "n": "boiling water (skin)"
+        "n": "boiling water",
+        "s": "Skin"
       },
       {
         "q": "1/2",
         "u": "lb",
-        "n": "ground pork (filling)"
+        "n": "ground pork",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "lb",
-        "n": "boiled and chopped Chinese or regular cabbage (filling)"
+        "n": "boiled and chopped Chinese or regular cabbage",
+        "s": "Filling"
       },
       {
         "q": null,
         "u": null,
-        "n": "Chopped green onion or garlic chive (filling)"
+        "n": "Chopped green onion or garlic chive",
+        "s": "Filling"
       },
       {
         "q": null,
         "u": null,
-        "n": "Juice of ginger root (filling)"
+        "n": "Juice of ginger root",
+        "s": "Filling"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "salt (filling)"
+        "n": "salt",
+        "s": "Filling"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "soy sauce (filling)"
+        "n": "soy sauce",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "sesame oil (filling)"
+        "n": "sesame oil",
+        "s": "Filling"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "oil, for cooking"
+        "n": "oil, for cooking",
+        "s": "For cooking"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "hot water, for steaming"
+        "n": "hot water, for steaming",
+        "s": "For cooking"
       }
     ],
     "steps": [
@@ -4150,32 +4282,38 @@
       {
         "q": "1",
         "u": null,
-        "n": "egg plus cold water to make 1 cup (batter)"
+        "n": "egg plus cold water to make 1 cup",
+        "s": "Batter"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "flour (batter)"
+        "n": "flour",
+        "s": "Batter"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "soy sauce (sauce)"
+        "n": "soy sauce",
+        "s": "Dipping sauce"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "sugar (sauce)"
+        "n": "sugar",
+        "s": "Dipping sauce"
       },
       {
         "q": "1 1/3",
         "u": "cups",
-        "n": "water (sauce)"
+        "n": "water",
+        "s": "Dipping sauce"
       },
       {
         "q": null,
         "u": null,
-        "n": "Sprinkle of dashi (sauce)"
+        "n": "Sprinkle of dashi",
+        "s": "Dipping sauce"
       }
     ],
     "steps": [
@@ -4380,52 +4518,62 @@
       {
         "q": "3",
         "u": "cups",
-        "n": "cooked, mashed sweet potatoes"
+        "n": "cooked, mashed sweet potatoes",
+        "s": "Sweet potatoes"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "sugar"
+        "n": "sugar",
+        "s": "Sweet potatoes"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "butter, melted"
+        "n": "butter, melted",
+        "s": "Sweet potatoes"
       },
       {
         "q": "2",
         "u": null,
-        "n": "eggs, well beaten"
+        "n": "eggs, well beaten",
+        "s": "Sweet potatoes"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "vanilla extract"
+        "n": "vanilla extract",
+        "s": "Sweet potatoes"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "evaporated milk"
+        "n": "evaporated milk",
+        "s": "Sweet potatoes"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "brown sugar (topping)"
+        "n": "brown sugar",
+        "s": "Topping"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "flour (topping)"
+        "n": "flour",
+        "s": "Topping"
       },
       {
         "q": "2 1/2",
         "u": "Tbsp",
-        "n": "butter, melted (topping)"
+        "n": "butter, melted",
+        "s": "Topping"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "pecan pieces (topping)"
+        "n": "pecan pieces",
+        "s": "Topping"
       }
     ],
     "steps": [
@@ -4685,39 +4833,46 @@
     "isBaked": true,
     "ingredients": [
       {
-        "q": "6",
-        "u": "cups",
-        "n": "flour"
-      },
-      {
-        "q": "1",
-        "u": "Tbsp",
-        "n": "salt"
-      },
-      {
-        "q": "2",
-        "u": "Tbsp",
-        "n": "sugar"
-      },
-      {
         "q": "1/2",
         "u": "cup",
-        "n": "lukewarm water (for proofing yeast)"
+        "n": "lukewarm water",
+        "s": "Yeast"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "sugar (for proofing yeast)"
+        "n": "sugar",
+        "s": "Yeast"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "yeast"
+        "n": "yeast",
+        "s": "Yeast"
+      },
+      {
+        "q": "6",
+        "u": "cups",
+        "n": "flour",
+        "s": "Dough"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "salt",
+        "s": "Dough"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "sugar",
+        "s": "Dough"
       },
       {
         "q": "2 1/2",
         "u": "cups",
-        "n": "lukewarm water (for the dough)"
+        "n": "lukewarm water",
+        "s": "Dough"
       }
     ],
     "steps": [
@@ -4759,72 +4914,86 @@
       {
         "q": "3",
         "u": "cups",
-        "n": "flour"
+        "n": "flour",
+        "s": "Muffins or bread"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Muffins or bread"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "baking powder"
+        "n": "baking powder",
+        "s": "Muffins or bread"
       },
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "sugar"
+        "n": "sugar",
+        "s": "Muffins or bread"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "poppy seeds"
+        "n": "poppy seeds",
+        "s": "Muffins or bread"
       },
       {
         "q": "3",
         "u": null,
-        "n": "eggs"
+        "n": "eggs",
+        "s": "Muffins or bread"
       },
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "milk"
+        "n": "milk",
+        "s": "Muffins or bread"
       },
       {
         "q": "1 1/8",
         "u": "cups",
-        "n": "oil"
+        "n": "oil",
+        "s": "Muffins or bread"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "vanilla"
+        "n": "vanilla",
+        "s": "Muffins or bread"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "almond extract"
+        "n": "almond extract",
+        "s": "Muffins or bread"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "orange juice (glaze, for bread)"
+        "n": "orange juice",
+        "s": "Glaze (for bread)"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "sugar (glaze)"
+        "n": "sugar",
+        "s": "Glaze (for bread)"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "vanilla (glaze)"
+        "n": "vanilla",
+        "s": "Glaze (for bread)"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "almond extract (glaze)"
+        "n": "almond extract",
+        "s": "Glaze (for bread)"
       }
     ],
     "steps": [
@@ -5328,62 +5497,74 @@
       {
         "q": "5",
         "u": "large",
-        "n": "apples (apple layer)"
+        "n": "apples",
+        "s": "Apple layer"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "cinnamon (apple layer)"
+        "n": "cinnamon",
+        "s": "Apple layer"
       },
       {
         "q": "5",
         "u": "Tbsp",
-        "n": "sugar (apple layer)"
+        "n": "sugar",
+        "s": "Apple layer"
       },
       {
         "q": "3",
         "u": "cups",
-        "n": "flour (batter)"
+        "n": "flour",
+        "s": "Batter"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "sugar (batter)"
+        "n": "sugar",
+        "s": "Batter"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "oil (batter)"
+        "n": "oil",
+        "s": "Batter"
       },
       {
         "q": "4",
         "u": null,
-        "n": "eggs (batter)"
+        "n": "eggs",
+        "s": "Batter"
       },
       {
         "q": "2 1/2",
         "u": "tsp",
-        "n": "baking powder (batter)"
+        "n": "baking powder",
+        "s": "Batter"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "orange juice (batter)"
+        "n": "orange juice",
+        "s": "Batter"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "vanilla (batter)"
+        "n": "vanilla",
+        "s": "Batter"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "almond extract (batter)"
+        "n": "almond extract",
+        "s": "Batter"
       },
       {
         "q": null,
         "u": null,
-        "n": "Chopped walnuts, optional"
+        "n": "Chopped walnuts (optional)",
+        "s": "Topping"
       }
     ],
     "steps": [
@@ -5655,112 +5836,134 @@
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "olive oil"
+        "n": "olive oil",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "chopped yellow onion"
+        "n": "chopped yellow onion",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "lb",
-        "n": "90% lean ground beef or ground lamb"
+        "n": "90% lean ground beef or ground lamb",
+        "s": "Filling"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "dried parsley"
+        "n": "dried parsley",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "dried rosemary"
+        "n": "dried rosemary",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "dried thyme"
+        "n": "dried thyme",
+        "s": "Filling"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Filling"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "ground black pepper"
+        "n": "ground black pepper",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "Worcestershire sauce"
+        "n": "Worcestershire sauce",
+        "s": "Filling"
       },
       {
         "q": "2",
         "u": null,
-        "n": "garlic cloves, minced"
+        "n": "garlic cloves, minced",
+        "s": "Filling"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "all-purpose flour"
+        "n": "all-purpose flour",
+        "s": "Filling"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "tomato paste"
+        "n": "tomato paste",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "beef broth"
+        "n": "beef broth",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "frozen mixed peas and carrots"
+        "n": "frozen mixed peas and carrots",
+        "s": "Filling"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "frozen corn"
+        "n": "frozen corn",
+        "s": "Filling"
       },
       {
         "q": "1 1/2–2",
         "u": "lb",
-        "n": "russet potatoes, peeled and cut into 1-inch cubes (topping)"
+        "n": "russet potatoes, peeled and cut into 1-inch cubes",
+        "s": "Mashed potato topping"
       },
       {
         "q": "8",
         "u": "Tbsp",
-        "n": "unsalted butter (topping)"
+        "n": "unsalted butter",
+        "s": "Mashed potato topping"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "half-and-half (topping)"
+        "n": "half-and-half",
+        "s": "Mashed potato topping"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "garlic powder (topping)"
+        "n": "garlic powder",
+        "s": "Mashed potato topping"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "salt (topping)"
+        "n": "salt",
+        "s": "Mashed potato topping"
       },
       {
         "q": "1/4",
         "u": "tsp",
-        "n": "black pepper (topping)"
+        "n": "black pepper",
+        "s": "Mashed potato topping"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "Parmesan cheese (topping)"
+        "n": "Parmesan cheese",
+        "s": "Mashed potato topping"
       }
     ],
     "steps": [
@@ -6161,67 +6364,80 @@
       {
         "q": "1 1/3",
         "u": "cups",
-        "n": "lukewarm water (110–115°F)"
+        "n": "lukewarm water (110–115°F)",
+        "s": "Dough"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "butter, softened and cut into chunks"
+        "n": "butter, softened and cut into chunks",
+        "s": "Dough"
       },
       {
         "q": "5",
         "u": "Tbsp",
-        "n": "granulated sugar"
+        "n": "granulated sugar",
+        "s": "Dough"
       },
       {
         "q": "1",
         "u": "large",
-        "n": "egg"
+        "n": "egg",
+        "s": "Dough"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Dough"
       },
       {
         "q": "4 1/2",
         "u": "cups",
-        "n": "all-purpose flour"
+        "n": "all-purpose flour",
+        "s": "Dough"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "quick-rise yeast"
+        "n": "quick-rise yeast",
+        "s": "Dough"
       },
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "brown sugar (filling)"
+        "n": "brown sugar",
+        "s": "Filling"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "ground cinnamon (filling)"
+        "n": "ground cinnamon",
+        "s": "Filling"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "butter, melted (filling)"
+        "n": "butter, melted",
+        "s": "Filling"
       },
       {
         "q": "3",
         "u": "cups",
-        "n": "powdered sugar (glaze)"
+        "n": "powdered sugar",
+        "s": "Glaze"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "vanilla extract (glaze)"
+        "n": "vanilla extract",
+        "s": "Glaze"
       },
       {
         "q": "4",
         "u": "Tbsp",
-        "n": "milk, plus more as needed (glaze)"
+        "n": "milk, plus more as needed",
+        "s": "Glaze"
       }
     ],
     "steps": [
@@ -6617,102 +6833,122 @@
       {
         "q": "10",
         "u": "oz",
-        "n": "boneless beef short ribs or ribeye, thinly sliced"
+        "n": "boneless beef short ribs or ribeye, thinly sliced",
+        "s": "Beef & marinade"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "soy sauce (beef marinade)"
+        "n": "soy sauce",
+        "s": "Beef & marinade"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "sugar (beef marinade)"
+        "n": "sugar",
+        "s": "Beef & marinade"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "minced garlic (beef marinade)"
+        "n": "minced garlic",
+        "s": "Beef & marinade"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "black pepper (beef marinade)"
+        "n": "black pepper",
+        "s": "Beef & marinade"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "soy sauce (noodle dressing)"
+        "n": "soy sauce",
+        "s": "Noodle dressing"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "sugar (noodle dressing)"
+        "n": "sugar",
+        "s": "Noodle dressing"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "minced garlic (noodle dressing)"
+        "n": "minced garlic",
+        "s": "Noodle dressing"
       },
       {
         "q": "1 1/2",
         "u": "Tbsp",
-        "n": "toasted sesame oil (noodle dressing)"
+        "n": "toasted sesame oil",
+        "s": "Noodle dressing"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "kosher salt (noodle dressing)"
+        "n": "kosher salt",
+        "s": "Noodle dressing"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "black pepper (noodle dressing)"
+        "n": "black pepper",
+        "s": "Noodle dressing"
       },
       {
         "q": "8",
         "u": "oz",
-        "n": "dried sweet potato noodles (dangmyeon)"
+        "n": "dried sweet potato noodles (dangmyeon)",
+        "s": "Noodles & vegetables"
       },
       {
         "q": "4",
         "u": "Tbsp",
-        "n": "vegetable oil, divided"
+        "n": "vegetable oil, divided",
+        "s": "Noodles & vegetables"
       },
       {
         "q": "1",
         "u": null,
-        "n": "onion, sliced"
+        "n": "onion, sliced",
+        "s": "Noodles & vegetables"
       },
       {
         "q": "3",
         "u": null,
-        "n": "green onions, cut into 2-inch lengths"
+        "n": "green onions, cut into 2-inch lengths",
+        "s": "Noodles & vegetables"
       },
       {
         "q": "7",
         "u": "oz",
-        "n": "shiitake mushrooms, sliced"
+        "n": "shiitake mushrooms, sliced",
+        "s": "Noodles & vegetables"
       },
       {
         "q": "2",
         "u": null,
-        "n": "carrots, cut into matchsticks"
+        "n": "carrots, cut into matchsticks",
+        "s": "Noodles & vegetables"
       },
       {
         "q": "1",
         "u": null,
-        "n": "red bell pepper, sliced"
+        "n": "red bell pepper, sliced",
+        "s": "Noodles & vegetables"
       },
       {
         "q": "4 1/2",
         "u": "cups",
-        "n": "baby spinach"
+        "n": "baby spinach",
+        "s": "Noodles & vegetables"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "white sesame seeds"
+        "n": "white sesame seeds",
+        "s": "Noodles & vegetables"
       }
     ],
     "steps": [
@@ -7166,67 +7402,80 @@
       {
         "q": "4",
         "u": null,
-        "n": "boneless skinless chicken breasts"
+        "n": "boneless skinless chicken breasts",
+        "s": "Chicken"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "all-purpose flour (for dredging)"
+        "n": "all-purpose flour",
+        "s": "Chicken"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "lemon zest"
+        "n": "lemon zest",
+        "s": "Chicken"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "olive oil, plus more as needed"
+        "n": "olive oil, plus more as needed",
+        "s": "Chicken"
       },
       {
         "q": null,
         "u": null,
-        "n": "Salt and black pepper"
+        "n": "Salt and black pepper",
+        "s": "Chicken"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "salted butter"
+        "n": "salted butter",
+        "s": "Sauce"
       },
       {
         "q": "1 1/2",
         "u": "Tbsp",
-        "n": "all-purpose flour (for the sauce)"
+        "n": "all-purpose flour",
+        "s": "Sauce"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "chicken broth"
+        "n": "chicken broth",
+        "s": "Sauce"
       },
       {
         "q": null,
         "u": null,
-        "n": "Juice of 1/2 lemon"
+        "n": "Juice of 1/2 lemon",
+        "s": "Sauce"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "dry white wine or extra broth"
+        "n": "dry white wine or extra broth",
+        "s": "Sauce"
       },
       {
         "q": "3",
         "u": "Tbsp",
-        "n": "capers, drained"
+        "n": "capers, drained",
+        "s": "Sauce"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "fresh parsley, chopped"
+        "n": "fresh parsley, chopped",
+        "s": "Sauce"
       },
       {
         "q": null,
         "u": null,
-        "n": "Parmesan for garnish (optional)"
+        "n": "Parmesan (optional)",
+        "s": "Garnish"
       }
     ],
     "steps": [
@@ -8337,92 +8586,110 @@
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "granulated sugar"
+        "n": "granulated sugar",
+        "s": "Cake"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "oil"
+        "n": "oil",
+        "s": "Cake"
       },
       {
         "q": "3",
         "u": "large",
-        "n": "eggs"
+        "n": "eggs",
+        "s": "Cake"
       },
       {
         "q": "3/4",
         "u": "cup",
-        "n": "sour milk or buttermilk"
+        "n": "sour milk or buttermilk",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "vanilla extract"
+        "n": "vanilla extract",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "all-purpose flour"
+        "n": "all-purpose flour",
+        "s": "Cake"
       },
       {
         "q": "2 1/2",
         "u": "tsp",
-        "n": "ground cinnamon"
+        "n": "ground cinnamon",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "baking soda"
+        "n": "baking soda",
+        "s": "Cake"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "finely shredded carrots"
+        "n": "finely shredded carrots",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "crushed pineapple with juice, undrained"
+        "n": "crushed pineapple with juice, undrained",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "shredded coconut"
+        "n": "shredded coconut",
+        "s": "Cake"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "walnuts"
+        "n": "walnuts",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "raisins (optional)"
+        "n": "raisins (optional)",
+        "s": "Cake"
       },
       {
         "q": "16",
         "u": "oz",
-        "n": "cream cheese, softened (frosting)"
+        "n": "cream cheese, softened",
+        "s": "Frosting"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "butter, softened (frosting)"
+        "n": "butter, softened",
+        "s": "Frosting"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "powdered sugar (frosting)"
+        "n": "powdered sugar",
+        "s": "Frosting"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "vanilla extract (frosting)"
+        "n": "vanilla extract",
+        "s": "Frosting"
       }
     ],
     "steps": [
@@ -8576,72 +8843,86 @@
       {
         "q": "1",
         "u": "cup",
-        "n": "all-purpose flour"
+        "n": "all-purpose flour",
+        "s": "Cake"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "baking powder"
+        "n": "baking powder",
+        "s": "Cake"
       },
       {
         "q": "1/4",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Cake"
       },
       {
         "q": "5",
         "u": "large",
-        "n": "eggs, separated"
+        "n": "eggs, separated",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "granulated sugar, divided (3/4 cup for the yolks, 1/4 cup for the whites)"
+        "n": "granulated sugar, divided (3/4 cup for the yolks, 1/4 cup for the whites)",
+        "s": "Cake"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "whole milk"
+        "n": "whole milk",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "vanilla extract"
+        "n": "vanilla extract",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "(12 oz) can",
-        "n": "evaporated milk (soak)"
+        "n": "evaporated milk",
+        "s": "Milk soak"
       },
       {
         "q": "1",
         "u": "(14 oz) can",
-        "n": "sweetened condensed milk (soak)"
+        "n": "sweetened condensed milk",
+        "s": "Milk soak"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "whole milk (soak)"
+        "n": "whole milk",
+        "s": "Milk soak"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "heavy whipping cream (topping)"
+        "n": "heavy whipping cream",
+        "s": "Topping"
       },
       {
         "q": "3",
         "u": "Tbsp",
-        "n": "powdered sugar (topping)"
+        "n": "powdered sugar",
+        "s": "Topping"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "vanilla extract (topping)"
+        "n": "vanilla extract",
+        "s": "Topping"
       },
       {
         "q": null,
         "u": null,
-        "n": "Ground cinnamon and sliced strawberries (optional)"
+        "n": "Ground cinnamon and sliced strawberries (optional)",
+        "s": "Topping"
       }
     ],
     "steps": [
@@ -9620,52 +9901,62 @@
       {
         "q": "4",
         "u": "cups",
-        "n": "flour (pastry)"
+        "n": "flour",
+        "s": "Pastry"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "butter plus enough shortening to make 1 cup (pastry)"
+        "n": "butter plus enough shortening to make 1 cup",
+        "s": "Pastry"
       },
       {
         "q": null,
         "u": null,
-        "n": "Pinch of salt (pastry)"
+        "n": "Pinch of salt",
+        "s": "Pastry"
       },
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "water (pastry)"
+        "n": "water",
+        "s": "Pastry"
       },
       {
         "q": "1 1/2",
         "u": "lbs",
-        "n": "cubed pork (filling)"
+        "n": "cubed pork",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "salt (filling)"
+        "n": "salt",
+        "s": "Filling"
       },
       {
         "q": "1/4",
         "u": "tsp",
-        "n": "sage (filling)"
+        "n": "sage",
+        "s": "Filling"
       },
       {
         "q": null,
         "u": null,
-        "n": "Salt and pepper (filling)"
+        "n": "Salt and pepper",
+        "s": "Filling"
       },
       {
         "q": null,
         "u": null,
-        "n": "Pinch of cayenne (filling)"
+        "n": "Pinch of cayenne",
+        "s": "Filling"
       },
       {
         "q": null,
         "u": null,
-        "n": "A-1 sauce, for serving"
+        "n": "A-1 sauce, for serving",
+        "s": "For serving"
       }
     ],
     "steps": [
@@ -10153,47 +10444,56 @@
       {
         "q": "1",
         "u": "lb",
-        "n": "very thin spaghetti"
+        "n": "very thin spaghetti",
+        "s": "Noodles"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Noodles"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "sesame oil"
+        "n": "sesame oil",
+        "s": "Noodles"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "sugar (dressing)"
+        "n": "sugar",
+        "s": "Dressing"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "stock (dressing)"
+        "n": "stock",
+        "s": "Dressing"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "soy sauce (dressing)"
+        "n": "soy sauce",
+        "s": "Dressing"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "vinegar (dressing)"
+        "n": "vinegar",
+        "s": "Dressing"
       },
       {
         "q": null,
         "u": null,
-        "n": "Vegetables (cucumber, lettuce, blanched bean sprouts)"
+        "n": "Vegetables (cucumber, lettuce, blanched bean sprouts)",
+        "s": "Toppings"
       },
       {
         "q": null,
         "u": null,
-        "n": "Meat, cut like matchsticks (cold cuts, baked or boiled chicken or pork, thinly fried eggs)"
+        "n": "Meat, cut like matchsticks (cold cuts, baked or boiled chicken or pork, thinly fried eggs)",
+        "s": "Toppings"
       }
     ],
     "steps": [
@@ -10449,32 +10749,38 @@
       {
         "q": "1",
         "u": "lb",
-        "n": "pork shoulder"
+        "n": "pork shoulder",
+        "s": "Pork"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "salt (marinade)"
+        "n": "salt",
+        "s": "Marinade"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "vinegar (marinade)"
+        "n": "vinegar",
+        "s": "Marinade"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "minced garlic (marinade)"
+        "n": "minced garlic",
+        "s": "Marinade"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "oregano (marinade)"
+        "n": "oregano",
+        "s": "Marinade"
       },
       {
         "q": null,
         "u": null,
-        "n": "Black pepper (marinade)"
+        "n": "Black pepper",
+        "s": "Marinade"
       }
     ],
     "steps": [
@@ -11282,92 +11588,110 @@
       {
         "q": "2",
         "u": "cups",
-        "n": "warm mashed potatoes (rolls)"
+        "n": "warm mashed potatoes",
+        "s": "Rolls"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "warm water (rolls)"
+        "n": "warm water",
+        "s": "Rolls"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "dry yeast (rolls)"
+        "n": "dry yeast",
+        "s": "Rolls"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "sugar (rolls)"
+        "n": "sugar",
+        "s": "Rolls"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "oil (rolls)"
+        "n": "oil",
+        "s": "Rolls"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "sugar (rolls)"
+        "n": "sugar",
+        "s": "Rolls"
       },
       {
         "q": "3",
         "u": null,
-        "n": "eggs (rolls)"
+        "n": "eggs",
+        "s": "Rolls"
       },
       {
         "q": "1 1/2",
         "u": "tsp",
-        "n": "salt (rolls)"
+        "n": "salt",
+        "s": "Rolls"
       },
       {
         "q": "7",
         "u": "cups",
-        "n": "flour (rolls)"
+        "n": "flour",
+        "s": "Rolls"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "butter (topping)"
+        "n": "butter",
+        "s": "Topping"
       },
       {
         "q": "2",
         "u": "tsp",
-        "n": "cinnamon (topping)"
+        "n": "cinnamon",
+        "s": "Topping"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "brown sugar (topping)"
+        "n": "brown sugar",
+        "s": "Topping"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "raisins (topping)"
+        "n": "raisins",
+        "s": "Topping"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "nuts (topping)"
+        "n": "nuts",
+        "s": "Topping"
       },
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "powdered sugar (icing)"
+        "n": "powdered sugar",
+        "s": "Icing"
       },
       {
         "q": "3",
         "u": "Tbsp",
-        "n": "milk (icing)"
+        "n": "milk",
+        "s": "Icing"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "vanilla (icing)"
+        "n": "vanilla",
+        "s": "Icing"
       },
       {
         "q": null,
         "u": null,
-        "n": "Dash of salt (icing)"
+        "n": "Dash of salt",
+        "s": "Icing"
       }
     ],
     "steps": [
@@ -12577,72 +12901,86 @@
       {
         "q": "2",
         "u": "sticks",
-        "n": "margarine (cake)"
+        "n": "margarine",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "water (cake)"
+        "n": "water",
+        "s": "Cake"
       },
       {
         "q": "4",
         "u": "tsp",
-        "n": "cocoa (cake)"
+        "n": "cocoa",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "sugar (cake)"
+        "n": "sugar",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": null,
-        "n": "eggs (cake)"
+        "n": "eggs",
+        "s": "Cake"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "flour (cake)"
+        "n": "flour",
+        "s": "Cake"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "baking soda (cake)"
+        "n": "baking soda",
+        "s": "Cake"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "sour cream or buttermilk (cake)"
+        "n": "sour cream or buttermilk",
+        "s": "Cake"
       },
       {
         "q": "1",
         "u": "stick",
-        "n": "margarine (icing)"
+        "n": "margarine",
+        "s": "Icing"
       },
       {
         "q": "4",
         "u": "Tbsp",
-        "n": "cocoa (icing)"
+        "n": "cocoa",
+        "s": "Icing"
       },
       {
         "q": "6",
         "u": "Tbsp",
-        "n": "milk (icing)"
+        "n": "milk",
+        "s": "Icing"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "chopped nuts (icing)"
+        "n": "chopped nuts",
+        "s": "Icing"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "powdered sugar, about 1 lb (icing)"
+        "n": "powdered sugar, about 1 lb",
+        "s": "Icing"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "vanilla (icing)"
+        "n": "vanilla",
+        "s": "Icing"
       }
     ],
     "steps": [
@@ -12682,54 +13020,64 @@
     "isBaked": true,
     "ingredients": [
       {
-        "q": "1",
-        "u": "jar",
-        "n": "macadamia nuts (any kind of nuts can be used)"
-      },
-      {
         "q": "2",
         "u": "cups",
-        "n": "Oreo cookie crumbs (crust)"
+        "n": "Oreo cookie crumbs",
+        "s": "Crust"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "sugar (crust)"
+        "n": "sugar",
+        "s": "Crust"
       },
       {
         "q": "1",
         "u": "stick",
-        "n": "unsalted butter, melted (crust)"
+        "n": "unsalted butter, melted",
+        "s": "Crust"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "unsalted butter (caramel)"
+        "n": "unsalted butter",
+        "s": "Caramel"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "heavy cream (divided)"
+        "n": "heavy cream, divided (some for the caramel, the rest for the chocolate cream)",
+        "s": "Caramel"
       },
       {
         "q": "3/4",
         "u": "cup",
-        "n": "sugar (caramel)"
+        "n": "sugar",
+        "s": "Caramel"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "water (caramel)"
+        "n": "water",
+        "s": "Caramel"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "lemon juice (caramel)"
+        "n": "lemon juice",
+        "s": "Caramel"
       },
       {
         "q": "8",
         "u": "oz",
-        "n": "semisweet chocolate"
+        "n": "semisweet chocolate",
+        "s": "Chocolate cream"
+      },
+      {
+        "q": "1",
+        "u": "jar",
+        "n": "macadamia nuts (any kind of nuts can be used)",
+        "s": "Topping"
       }
     ],
     "steps": [
@@ -12776,67 +13124,80 @@
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "ladyfinger crumbs (crust)"
+        "n": "ladyfinger crumbs",
+        "s": "Crust"
       },
       {
         "q": "4",
         "u": "oz",
-        "n": "white chocolate, coarsely chopped (crust)"
+        "n": "white chocolate, coarsely chopped",
+        "s": "Crust"
       },
       {
         "q": "5",
         "u": "Tbsp",
-        "n": "unsalted butter, melted (crust)"
+        "n": "unsalted butter, melted",
+        "s": "Crust"
       },
       {
         "q": "18",
         "u": "oz",
-        "n": "white chocolate (filling)"
+        "n": "white chocolate",
+        "s": "Filling"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "heavy cream (filling)"
+        "n": "heavy cream",
+        "s": "Filling"
       },
       {
         "q": "1 1/2",
         "u": "lbs",
-        "n": "cream cheese, softened (filling)"
+        "n": "cream cheese, softened",
+        "s": "Filling"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "granulated sugar (filling)"
+        "n": "granulated sugar",
+        "s": "Filling"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "sour cream (filling)"
+        "n": "sour cream",
+        "s": "Filling"
       },
       {
         "q": "4",
         "u": null,
-        "n": "large eggs (filling)"
+        "n": "large eggs",
+        "s": "Filling"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "vanilla extract (filling)"
+        "n": "vanilla extract",
+        "s": "Filling"
       },
       {
         "q": "8",
         "u": "oz",
-        "n": "white chocolate, finely chopped (ganache)"
+        "n": "white chocolate, finely chopped",
+        "s": "Ganache"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "heavy cream (ganache)"
+        "n": "heavy cream",
+        "s": "Ganache"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "unsalted butter (ganache)"
+        "n": "unsalted butter",
+        "s": "Ganache"
       }
     ],
     "steps": [

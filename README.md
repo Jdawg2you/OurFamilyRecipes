@@ -76,8 +76,11 @@ Rules that matter:
   - `q: null` means **do not scale this line** — salt to taste, cooking spray,
     garnish, anything without a real measurement.
 - **`isBaked: true`** triggers the warning that baking time and pan size don't scale.
-- A trailing `(label)` on an ingredient name — `"tahini (dressing)"` — renders as a
-  subheading, but only when 2+ lines in that recipe share the label.
+- **`s`** (optional) puts an ingredient under a subheading — `"s": "Frosting"`.
+  A new subheading starts wherever `s` changes, so keep each section's lines
+  together. If a recipe uses `s`, give every line one (use something like
+  `"For cooking"` or `"For serving"` for the extras). Don't put the section in
+  the name as `"(frosting)"` anymore — that shows up as plain text.
 
 The facet values are fixed lists near the top of the script in `index.html`
 (`COURSES`, `MAINS`, `SEASONS`, `METHODS`). A value used in `recipes.json` that
