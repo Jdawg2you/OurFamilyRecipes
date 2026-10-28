@@ -1,5 +1,180 @@
 [
   {
+    "id": "chipotle-rosemary-roasted-nuts",
+    "title": "Chipotle & Rosemary Roasted Nuts",
+    "collection": "collected",
+    "source": "Barefoot Contessa / Ina Garten — Chipotle and Rosemary Roasted Nuts",
+    "yield": "8–10 servings",
+    "yieldNum": 8,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "25 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [
+      "Fall",
+      "Thanksgiving",
+      "Christmas"
+    ],
+    "method": [
+      "Make-ahead",
+      "Gluten-free"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": null,
+        "u": null,
+        "n": "Vegetable oil, for brushing the sheet pan"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "whole roasted unsalted cashews (14 oz)"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "whole walnut halves (7 oz)"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "whole pecan halves (7 oz)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "whole almonds (3 oz)"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "vegetable oil"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "pure maple syrup"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "light brown sugar, lightly packed"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "freshly squeezed orange juice"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "ground chipotle powder"
+      },
+      {
+        "q": "4",
+        "u": "Tbsp",
+        "n": "minced fresh rosemary, divided"
+      },
+      {
+        "q": "4",
+        "u": "tsp",
+        "n": "kosher salt, divided"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Brush a sheet pan generously with vegetable oil.",
+      "On the sheet pan, combine the cashews, walnuts, pecans, almonds, 2 Tbsp vegetable oil, maple syrup, brown sugar, orange juice, and chipotle powder. Toss to coat the nuts evenly.",
+      "Add 2 Tbsp of the rosemary and 2 tsp of the salt and toss again. Spread the nuts in one layer.",
+      "Roast 25 minutes, stirring twice with a large metal spatula, until glazed and golden brown.",
+      "Remove from the oven and sprinkle with the remaining 2 tsp salt and 2 Tbsp rosemary. Toss well.",
+      "Let cool at room temperature, stirring occasionally so the nuts don't stick together. Taste for seasoning."
+    ],
+    "notes": [
+      "Make ahead: serve warm, or cool completely and store airtight at room temperature for up to a week.",
+      "Use fresh chipotle powder; old powder loses its smoky heat.",
+      "Half the rosemary goes on after roasting for a fresh rosemary hit alongside the roasted flavor."
+    ]
+  },
+  {
+    "id": "loaded-ranch-crackers",
+    "title": "Loaded Ranch Crackers",
+    "collection": "collected",
+    "source": "jrwider — Instagram",
+    "yield": "8 servings",
+    "yieldNum": 8,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "20 min",
+    "total": null,
+    "oven": "250°F",
+    "course": [
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Pork",
+      "Cheese"
+    ],
+    "season": [
+      "Game Day"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "10",
+        "u": "oz",
+        "n": "oyster crackers"
+      },
+      {
+        "q": "1",
+        "u": "stick",
+        "n": "butter (1/2 cup)"
+      },
+      {
+        "q": "1",
+        "u": "packet",
+        "n": "ranch seasoning mix"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "garlic powder"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "bacon, cooked crispy and chopped"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "grated Parmesan"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 250°F. Line a baking sheet with parchment paper.",
+      "Add the oyster crackers to a large mixing bowl.",
+      "Melt the butter in the microwave. Stir in the ranch packet, garlic powder, and black pepper, then pour over the crackers.",
+      "Add the bacon and Parmesan and gently toss until everything is coated.",
+      "Spread on the prepared baking sheet and bake 20 minutes, stirring halfway through.",
+      "Let cool completely before transferring to a serving bowl."
+    ],
+    "notes": []
+  },
+  {
     "id": "ham-cheddar-chive-protein-biscuits",
     "title": "Ham, Cheddar & Chive Protein Biscuits",
     "collection": "collected",
