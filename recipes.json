@@ -1,5 +1,174 @@
 [
   {
+    "id": "air-fryer-churro-chips",
+    "title": "Air-Fryer Churro Chips",
+    "collection": "collected",
+    "source": "@mirsdairyfree — Instagram",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "10 min",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Candy"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": null,
+        "n": "flour tortillas (8-inch)"
+      },
+      {
+        "q": "1–2",
+        "u": "Tbsp",
+        "n": "neutral oil or melted butter"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "ground cinnamon"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of salt"
+      }
+    ],
+    "steps": [
+      "Stack the tortillas, cut into strips, then cut the strips in half.",
+      "Toss the strips lightly in the oil or melted butter.",
+      "Mix the sugar, cinnamon, and salt. Toss the strips with about ¾ of it until fully coated.",
+      "Air fry in a single layer at 375°F for about 10 minutes, shaking halfway, until golden and crisp. Work in batches if needed.",
+      "Toss with the remaining cinnamon sugar and cool 1–2 minutes before serving."
+    ],
+    "notes": [
+      "Amounts are estimated: the creator gives only a 4-to-1 sugar-to-cinnamon ratio."
+    ]
+  },
+  {
+    "id": "thousand-layer-apple-cake",
+    "title": "Thousand Layer Apple Cake (Invisible Apple Cake)",
+    "collection": "collected",
+    "source": "@pinch_of_mint — Instagram",
+    "yield": "8 servings",
+    "yieldNum": 8,
+    "yieldUnit": "servings",
+    "prep": "40 min",
+    "cook": "60–75 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [
+      "Fall"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "6–8",
+        "u": null,
+        "n": "sweet, crisp, slightly tart apples (such as Pink Lady or Granny Smith)",
+        "s": "Apples"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "orange, zest and juice",
+        "s": "Apples"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "eggs",
+        "s": "Batter"
+      },
+      {
+        "q": "70",
+        "u": "g",
+        "n": "caster (superfine) sugar",
+        "s": "Batter"
+      },
+      {
+        "q": "30",
+        "u": "g",
+        "n": "butter, melted",
+        "s": "Batter"
+      },
+      {
+        "q": "120",
+        "u": "ml",
+        "n": "milk",
+        "s": "Batter"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla extract or vanilla bean paste",
+        "s": "Batter"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "ground cinnamon",
+        "s": "Batter"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "ground nutmeg",
+        "s": "Batter"
+      },
+      {
+        "q": "75",
+        "u": "g",
+        "n": "plain (all-purpose) flour",
+        "s": "Batter"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Apricot jam, warmed, for glazing",
+        "s": "Finish"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Powdered sugar, for dusting",
+        "s": "Finish"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Line a loaf pan with parchment.",
+      "Peel and core the apples, then slice them paper-thin (a mandoline helps). Toss with the orange zest and juice.",
+      "Whisk the eggs and sugar until pale and slightly thick. Whisk in the melted butter, milk, vanilla, cinnamon, and nutmeg, then the flour, until smooth.",
+      "Fold the apples into the batter so every slice is coated.",
+      "Layer the slices flat in the pan, pressing down as you go, and pour any leftover batter over the top.",
+      "Bake 60–75 minutes, until golden and a knife slides through the center with no wet batter. Cover loosely with foil if the top browns too fast.",
+      "Cool completely in the pan (chilling helps it slice cleanly). Brush with warm apricot jam and dust with powdered sugar."
+    ],
+    "notes": [
+      "The method and bake time are estimated; the creator's post lists ingredients only. Several people found 50–60 minutes left the center underdone, so bake until a knife meets no resistance."
+    ]
+  },
+  {
     "id": "thai-crunch-salad-cpk-copycat",
     "title": "Thai Crunch Salad (CPK Copycat)",
     "collection": "collected",
