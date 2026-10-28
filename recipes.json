@@ -27,102 +27,122 @@
       {
         "q": "2/3",
         "u": "head",
-        "n": "cabbage, finely shredded"
+        "n": "cabbage, finely shredded",
+        "s": "Salad"
       },
       {
         "q": "1",
         "u": "box",
-        "n": "romaine lettuce, chopped"
+        "n": "romaine lettuce, chopped",
+        "s": "Salad"
       },
       {
         "q": "2–3",
         "u": "large",
-        "n": "carrots, diced"
+        "n": "carrots, diced",
+        "s": "Salad"
       },
       {
         "q": "4",
         "u": null,
-        "n": "mini cucumbers, diced"
+        "n": "mini cucumbers, diced",
+        "s": "Salad"
       },
       {
         "q": "1/2",
         "u": "bunch",
-        "n": "cilantro, chopped"
+        "n": "cilantro, chopped",
+        "s": "Salad"
       },
       {
         "q": "4–5",
         "u": null,
-        "n": "green onions, chopped"
+        "n": "green onions, chopped",
+        "s": "Salad"
       },
       {
         "q": "1",
         "u": null,
-        "n": "red bell pepper, diced"
+        "n": "red bell pepper, diced",
+        "s": "Salad"
       },
       {
         "q": "1–2",
         "u": null,
-        "n": "avocados, diced"
+        "n": "avocados, diced",
+        "s": "Salad"
       },
       {
         "q": "8–10",
         "u": "oz",
-        "n": "peanuts"
+        "n": "peanuts",
+        "s": "Salad"
       },
       {
         "q": "1",
         "u": "bag",
-        "n": "shelled edamame"
+        "n": "shelled edamame",
+        "s": "Salad"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "peanut butter (dressing)"
+        "n": "peanut butter",
+        "s": "Dressing"
       },
       {
         "q": "1/3",
         "u": "cup",
-        "n": "water (dressing)"
+        "n": "water",
+        "s": "Dressing"
       },
       {
         "q": "2–3",
         "u": "Tbsp",
-        "n": "honey (dressing)"
+        "n": "honey",
+        "s": "Dressing"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "avocado oil (dressing)"
+        "n": "avocado oil",
+        "s": "Dressing"
       },
       {
         "q": "2–3",
         "u": "Tbsp",
-        "n": "rice vinegar (dressing)"
+        "n": "rice vinegar",
+        "s": "Dressing"
       },
       {
         "q": "2–3",
         "u": "Tbsp",
-        "n": "soy sauce (dressing)"
+        "n": "soy sauce",
+        "s": "Dressing"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "toasted sesame oil (dressing)"
+        "n": "toasted sesame oil",
+        "s": "Dressing"
       },
       {
         "q": "2",
         "u": "cloves",
-        "n": "garlic (dressing)"
+        "n": "garlic",
+        "s": "Dressing"
       },
       {
         "q": "1/2",
         "u": null,
-        "n": "lime, juiced, up to a whole lime (dressing)"
+        "n": "lime, juiced, up to a whole lime",
+        "s": "Dressing"
       },
       {
         "q": null,
         "u": null,
-        "n": "Crushed red pepper, to taste (dressing)"
+        "n": "Crushed red pepper, to taste",
+        "s": "Dressing"
       }
     ],
     "steps": [
@@ -641,82 +661,98 @@
       {
         "q": "3",
         "u": "cups",
-        "n": "green cabbage, shredded"
+        "n": "green cabbage, shredded",
+        "s": "Slaw"
       },
       {
         "q": "2",
         "u": "cups",
-        "n": "red cabbage, shredded"
+        "n": "red cabbage, shredded",
+        "s": "Slaw"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "carrots, julienned"
+        "n": "carrots, julienned",
+        "s": "Slaw"
       },
       {
         "q": "1",
         "u": null,
-        "n": "cucumber, diced"
+        "n": "cucumber, diced",
+        "s": "Slaw"
       },
       {
         "q": "3",
         "u": null,
-        "n": "green onions, sliced"
+        "n": "green onions, sliced",
+        "s": "Slaw"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "cilantro, chopped"
+        "n": "cilantro, chopped",
+        "s": "Slaw"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "roasted peanuts, chopped"
+        "n": "roasted peanuts, chopped",
+        "s": "Slaw"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "toasted sesame seeds"
+        "n": "toasted sesame seeds",
+        "s": "Slaw"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "crispy fried onions"
+        "n": "crispy fried onions",
+        "s": "Slaw"
       },
       {
         "q": "3",
         "u": "Tbsp",
-        "n": "rice vinegar (dressing)"
+        "n": "rice vinegar",
+        "s": "Dressing"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "soy sauce (dressing)"
+        "n": "soy sauce",
+        "s": "Dressing"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "sesame oil (dressing)"
+        "n": "sesame oil",
+        "s": "Dressing"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "honey (dressing)"
+        "n": "honey",
+        "s": "Dressing"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "ginger, grated (dressing)"
+        "n": "ginger, grated",
+        "s": "Dressing"
       },
       {
         "q": "1",
         "u": "clove",
-        "n": "garlic, minced (dressing)"
+        "n": "garlic, minced",
+        "s": "Dressing"
       },
       {
         "q": null,
         "u": null,
-        "n": "Pinch of chili flakes (dressing)"
+        "n": "Pinch of chili flakes",
+        "s": "Dressing"
       }
     ],
     "steps": [
@@ -1199,97 +1235,116 @@
       {
         "q": "8",
         "u": "oz",
-        "n": "cream cheese, softened"
+        "n": "cream cheese, softened",
+        "s": "Wontons"
       },
       {
         "q": "8",
         "u": "oz",
-        "n": "imitation crab, chopped"
+        "n": "imitation crab, chopped",
+        "s": "Wontons"
       },
       {
         "q": "3",
         "u": null,
-        "n": "green onions, thinly sliced"
+        "n": "green onions, thinly sliced",
+        "s": "Wontons"
       },
       {
         "q": "3–4",
         "u": "cloves",
-        "n": "garlic, minced"
+        "n": "garlic, minced",
+        "s": "Wontons"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "soy sauce"
+        "n": "soy sauce",
+        "s": "Wontons"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "Worcestershire sauce"
+        "n": "Worcestershire sauce",
+        "s": "Wontons"
       },
       {
         "q": "1",
         "u": "tsp",
-        "n": "sugar"
+        "n": "sugar",
+        "s": "Wontons"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Wontons"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "ground pepper"
+        "n": "ground pepper",
+        "s": "Wontons"
       },
       {
         "q": "1",
         "u": "package",
-        "n": "wonton wrappers"
+        "n": "wonton wrappers",
+        "s": "Wontons"
       },
       {
         "q": null,
         "u": null,
-        "n": "Water, for sealing"
+        "n": "Water, for sealing",
+        "s": "Wontons"
       },
       {
         "q": null,
         "u": null,
-        "n": "Neutral oil, for pan frying"
+        "n": "Neutral oil, for pan frying",
+        "s": "Wontons"
       },
       {
         "q": null,
         "u": null,
-        "n": "Topping: spicy mayo or gochujang crema"
+        "n": "Spicy mayo or gochujang crema",
+        "s": "Toppings"
       },
       {
         "q": null,
         "u": null,
-        "n": "Topping: sweet chili sauce"
+        "n": "Sweet chili sauce",
+        "s": "Toppings"
       },
       {
         "q": null,
         "u": null,
-        "n": "Topping: chili oil"
+        "n": "Chili oil",
+        "s": "Toppings"
       },
       {
         "q": null,
         "u": null,
-        "n": "Topping: Sriracha (optional)"
+        "n": "Sriracha (optional)",
+        "s": "Toppings"
       },
       {
         "q": null,
         "u": null,
-        "n": "Topping: chopped green onions"
+        "n": "Chopped green onions",
+        "s": "Toppings"
       },
       {
         "q": null,
         "u": null,
-        "n": "Topping: sliced serrano peppers"
+        "n": "Sliced serrano peppers",
+        "s": "Toppings"
       },
       {
         "q": null,
         "u": null,
-        "n": "Topping: furikake"
+        "n": "Furikake",
+        "s": "Toppings"
       }
     ],
     "steps": [
@@ -1429,57 +1484,68 @@
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "all-purpose flour"
+        "n": "all-purpose flour",
+        "s": "Biscuits"
       },
       {
         "q": "1/2",
         "u": "Tbsp",
-        "n": "baking powder"
+        "n": "baking powder",
+        "s": "Biscuits"
       },
       {
         "q": "1/4",
         "u": "tsp",
-        "n": "salt"
+        "n": "salt",
+        "s": "Biscuits"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "garlic powder"
+        "n": "garlic powder",
+        "s": "Biscuits"
       },
       {
         "q": "4",
         "u": "Tbsp",
-        "n": "unsalted butter, cold, cubed"
+        "n": "unsalted butter, cold, cubed",
+        "s": "Biscuits"
       },
       {
         "q": "3/4",
         "u": "cup",
-        "n": "sharp cheddar cheese, shredded"
+        "n": "sharp cheddar cheese, shredded",
+        "s": "Biscuits"
       },
       {
         "q": "3/4",
         "u": "cup",
-        "n": "milk"
+        "n": "milk",
+        "s": "Biscuits"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "lemon juice"
+        "n": "lemon juice",
+        "s": "Biscuits"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "unsalted butter, melted (topping)"
+        "n": "unsalted butter, melted",
+        "s": "Garlic butter"
       },
       {
         "q": "1",
         "u": "clove",
-        "n": "garlic, minced (topping)"
+        "n": "garlic, minced",
+        "s": "Garlic butter"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "dried parsley (topping)"
+        "n": "dried parsley",
+        "s": "Garlic butter"
       }
     ],
     "steps": [
@@ -1582,107 +1648,128 @@
       {
         "q": "2",
         "u": "cups",
-        "n": "all-purpose flour (crumb topping)"
+        "n": "all-purpose flour",
+        "s": "Crumb topping"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "brown sugar, packed (crumb topping)"
+        "n": "brown sugar, packed",
+        "s": "Crumb topping"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "granulated sugar (crumb topping)"
+        "n": "granulated sugar",
+        "s": "Crumb topping"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "ground cinnamon (crumb topping)"
+        "n": "ground cinnamon",
+        "s": "Crumb topping"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "kosher salt (crumb topping)"
+        "n": "kosher salt",
+        "s": "Crumb topping"
       },
       {
         "q": "16",
         "u": "Tbsp",
-        "n": "salted butter, melted (crumb topping)"
+        "n": "salted butter, melted",
+        "s": "Crumb topping"
       },
       {
         "q": "1/2",
         "u": "cup",
-        "n": "brown sugar, packed (cinnamon swirl)"
+        "n": "brown sugar, packed",
+        "s": "Cinnamon swirl"
       },
       {
         "q": "4",
         "u": "Tbsp",
-        "n": "butter, melted (cinnamon swirl)"
+        "n": "butter, melted",
+        "s": "Cinnamon swirl"
       },
       {
         "q": "2 1/2",
         "u": "tsp",
-        "n": "cinnamon (cinnamon swirl)"
+        "n": "cinnamon",
+        "s": "Cinnamon swirl"
       },
       {
         "q": "2",
         "u": "Tbsp",
-        "n": "heavy cream or milk (cinnamon swirl)"
+        "n": "heavy cream or milk",
+        "s": "Cinnamon swirl"
       },
       {
         "q": null,
         "u": null,
-        "n": "Pinch of salt (cinnamon swirl)"
+        "n": "Pinch of salt",
+        "s": "Cinnamon swirl"
       },
       {
         "q": "3",
         "u": "cups",
-        "n": "all-purpose flour (cake)"
+        "n": "all-purpose flour",
+        "s": "Cake batter"
       },
       {
         "q": "2 1/2",
         "u": "tsp",
-        "n": "baking powder (cake)"
+        "n": "baking powder",
+        "s": "Cake batter"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "baking soda (cake)"
+        "n": "baking soda",
+        "s": "Cake batter"
       },
       {
         "q": "1/2",
         "u": "tsp",
-        "n": "kosher salt (cake)"
+        "n": "kosher salt",
+        "s": "Cake batter"
       },
       {
         "q": "1",
         "u": "cup",
-        "n": "salted butter, very soft (cake)"
+        "n": "salted butter, very soft",
+        "s": "Cake batter"
       },
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "granulated sugar (cake)"
+        "n": "granulated sugar",
+        "s": "Cake batter"
       },
       {
         "q": "3",
         "u": "large",
-        "n": "eggs plus 1 egg yolk (cake)"
+        "n": "eggs plus 1 egg yolk",
+        "s": "Cake batter"
       },
       {
         "q": "1 1/2",
         "u": "cups",
-        "n": "full-fat sour cream, room temperature (cake)"
+        "n": "full-fat sour cream, room temperature",
+        "s": "Cake batter"
       },
       {
         "q": "1",
         "u": "Tbsp",
-        "n": "vanilla extract (cake)"
+        "n": "vanilla extract",
+        "s": "Cake batter"
       },
       {
         "q": "1/4",
         "u": "cup",
-        "n": "neutral oil (cake)"
+        "n": "neutral oil",
+        "s": "Cake batter"
       }
     ],
     "steps": [
