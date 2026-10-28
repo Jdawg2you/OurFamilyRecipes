@@ -1,5 +1,2052 @@
 [
   {
+    "id": "thai-crunch-salad-cpk-copycat",
+    "title": "Thai Crunch Salad (CPK Copycat)",
+    "collection": "collected",
+    "source": "@snackbenimble — Instagram",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "25 min",
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Salads"
+    ],
+    "main": [
+      "Vegetarian",
+      "Peanut Butter"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2/3",
+        "u": "head",
+        "n": "cabbage, finely shredded"
+      },
+      {
+        "q": "1",
+        "u": "box",
+        "n": "romaine lettuce, chopped"
+      },
+      {
+        "q": "2–3",
+        "u": "large",
+        "n": "carrots, diced"
+      },
+      {
+        "q": "4",
+        "u": null,
+        "n": "mini cucumbers, diced"
+      },
+      {
+        "q": "1/2",
+        "u": "bunch",
+        "n": "cilantro, chopped"
+      },
+      {
+        "q": "4–5",
+        "u": null,
+        "n": "green onions, chopped"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "red bell pepper, diced"
+      },
+      {
+        "q": "1–2",
+        "u": null,
+        "n": "avocados, diced"
+      },
+      {
+        "q": "8–10",
+        "u": "oz",
+        "n": "peanuts"
+      },
+      {
+        "q": "1",
+        "u": "bag",
+        "n": "shelled edamame"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "peanut butter (dressing)"
+      },
+      {
+        "q": "1/3",
+        "u": "cup",
+        "n": "water (dressing)"
+      },
+      {
+        "q": "2–3",
+        "u": "Tbsp",
+        "n": "honey (dressing)"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "avocado oil (dressing)"
+      },
+      {
+        "q": "2–3",
+        "u": "Tbsp",
+        "n": "rice vinegar (dressing)"
+      },
+      {
+        "q": "2–3",
+        "u": "Tbsp",
+        "n": "soy sauce (dressing)"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "toasted sesame oil (dressing)"
+      },
+      {
+        "q": "2",
+        "u": "cloves",
+        "n": "garlic (dressing)"
+      },
+      {
+        "q": "1/2",
+        "u": null,
+        "n": "lime, juiced, up to a whole lime (dressing)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Crushed red pepper, to taste (dressing)"
+      }
+    ],
+    "steps": [
+      "Combine the cabbage, romaine, carrots, cucumbers, cilantro, green onions, bell pepper, avocado, peanuts, and edamame in a large bowl.",
+      "Blend all dressing ingredients until smooth.",
+      "Pour the dressing over the salad and toss."
+    ],
+    "notes": [
+      "Add grilled chicken to make it a meal, or keep it vegetarian."
+    ]
+  },
+  {
+    "id": "pumpkin-cinnamon-pull-apart-bread",
+    "title": "Pumpkin Cinnamon Pull-Apart Bread",
+    "collection": "collected",
+    "source": "@salt.and.piper_ — Instagram",
+    "yield": "1 loaf",
+    "yieldNum": 1,
+    "yieldUnit": "loaf",
+    "prep": "15 min",
+    "cook": "35–40 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Breakfast"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [
+      "Fall",
+      "Thanksgiving"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "can",
+        "n": "refrigerated biscuits (8 count)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "sugar"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "cinnamon"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "pumpkin pie spice"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "pumpkin puree"
+      },
+      {
+        "q": "1",
+        "u": "stick",
+        "n": "butter, melted"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Split each biscuit in half to make 16 pieces.",
+      "Mix the sugar, cinnamon, and pumpkin pie spice in a shallow bowl. Melt the butter in a separate bowl.",
+      "Stir 1–2 Tbsp of the cinnamon sugar into the pumpkin puree.",
+      "Dip each biscuit piece in butter, then coat completely in cinnamon sugar.",
+      "Stack the pieces, spreading ½–1 tsp of the pumpkin mixture between each. Set the stack on its side in a loaf pan.",
+      "Bake 35–40 minutes, until golden and baked through."
+    ],
+    "notes": []
+  },
+  {
+    "id": "parmesan-ranch-snack-mix",
+    "title": "Parmesan Ranch Snack Mix",
+    "collection": "collected",
+    "source": "@ashleymarkleeats — Instagram",
+    "yield": "12 servings",
+    "yieldNum": 12,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "30 min",
+    "total": null,
+    "oven": "250°F",
+    "course": [
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Cheese"
+    ],
+    "season": [
+      "Game Day",
+      "Christmas"
+    ],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "Bugles"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "mini Club crackers"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "Cheez-It crackers"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "popcorn popping oil (such as Orville Redenbacher's)"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "grated Parmesan cheese"
+      },
+      {
+        "q": "1",
+        "u": "packet",
+        "n": "Hidden Valley ranch seasoning mix"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 250°F.",
+      "Put all the crackers in a large bowl. Pour the oil over them and toss gently until evenly coated.",
+      "Add the Parmesan and ranch seasoning and toss again.",
+      "Spread evenly on a baking sheet and bake 30 minutes, stirring gently halfway through.",
+      "Let cool completely before serving."
+    ],
+    "notes": [
+      "Cool completely so it crisps up; store airtight."
+    ]
+  },
+  {
+    "id": "fair-style-funnel-cake-bites",
+    "title": "Fair-Style Funnel Cake Bites",
+    "collection": "collected",
+    "source": "@practical.woman — Instagram",
+    "yield": "6 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "20 min",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Candy"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "sugar"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "baking powder"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": "large",
+        "n": "egg"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "milk"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Oil, for frying"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Powdered sugar, for dusting"
+      }
+    ],
+    "steps": [
+      "Whisk the flour, sugar, baking powder, and salt in a medium bowl.",
+      "In another bowl, whisk the egg, milk, and vanilla. Pour into the dry ingredients and whisk until smooth.",
+      "Heat 2–3 inches of oil in a deep, heavy pot to 350°F.",
+      "Drop the batter in by the tablespoon, in batches. Fry 1–2 minutes per side until puffed and golden.",
+      "Drain on paper towels, dust generously with powdered sugar while warm, and serve warm."
+    ],
+    "notes": [
+      "Keep the oil near 350°F so the bites cook through and stay crisp."
+    ]
+  },
+  {
+    "id": "hawaiian-roll-cinnamon-rolls",
+    "title": "Hawaiian Roll Cinnamon Rolls",
+    "collection": "collected",
+    "source": "Allrecipes — Instagram",
+    "yield": "12 rolls",
+    "yieldNum": 12,
+    "yieldUnit": "rolls",
+    "prep": "10 min",
+    "cook": "20 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Breakfast"
+    ],
+    "main": [
+      "Cream Cheese"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "2/3",
+        "u": "cup",
+        "n": "brown sugar"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "cinnamon"
+      },
+      {
+        "q": "10",
+        "u": "Tbsp",
+        "n": "butter, softened, divided"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "salt, divided"
+      },
+      {
+        "q": "1",
+        "u": "(12 count) package",
+        "n": "Hawaiian rolls"
+      },
+      {
+        "q": "4",
+        "u": "oz",
+        "n": "cream cheese, softened"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "powdered sugar"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Grease a 9x13 baking dish.",
+      "Slice the rolls in half horizontally as one slab, keeping the tops and bottoms in one piece each.",
+      "Stir together the brown sugar, cinnamon, 8 Tbsp of the butter, and ⅛ tsp salt.",
+      "Spread ¾ of the mixture on the bottom half, replace the top, set in the dish, and spread the rest on top.",
+      "Bake 20 minutes. Let stand 5 minutes.",
+      "Meanwhile, beat the remaining 2 Tbsp butter with the cream cheese, remaining salt, vanilla, and powdered sugar until smooth.",
+      "Spread the icing over the warm rolls."
+    ],
+    "notes": []
+  },
+  {
+    "id": "air-fryer-crispy-gnocchi",
+    "title": "Air Fryer Crispy Gnocchi",
+    "collection": "collected",
+    "source": "Allrecipes — Instagram",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "5 min",
+    "cook": "15–18 min",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Appetizers & Dips",
+      "Sides"
+    ],
+    "main": [
+      "Potato",
+      "Cheese"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "refrigerated gnocchi"
+      },
+      {
+        "q": "1 1/2",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "butter, melted"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "garlic powder"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "kosher salt"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "crushed red pepper"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "grated Parmesan cheese, plus more for serving"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Chopped parsley, for garnish (optional)"
+      }
+    ],
+    "steps": [
+      "Toss the gnocchi with the olive oil, butter, garlic powder, salt, red pepper, and Parmesan.",
+      "Air fry at 390°F for 15–18 minutes, shaking the basket every 5–6 minutes, until crisp and golden.",
+      "Sprinkle with more Parmesan and parsley if you like. Cool slightly before serving."
+    ],
+    "notes": []
+  },
+  {
+    "id": "summer-corn-zucchini-soup",
+    "title": "Summer Corn and Zucchini Soup",
+    "collection": "collected",
+    "source": "@cookwithchay — Instagram",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "20 min",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Soups & Stews"
+    ],
+    "main": [
+      "Vegetarian",
+      "Potato"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "3–4",
+        "u": "Tbsp",
+        "n": "butter"
+      },
+      {
+        "q": "1/2",
+        "u": null,
+        "n": "onion, diced"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "celery stalks, diced"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "carrots, diced"
+      },
+      {
+        "q": "5",
+        "u": "cloves",
+        "n": "garlic, minced"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "potato, diced"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "zucchini, diced"
+      },
+      {
+        "q": "3–4",
+        "u": "cups",
+        "n": "corn, fresh or frozen"
+      },
+      {
+        "q": "1/2",
+        "u": null,
+        "n": "red bell pepper, diced"
+      },
+      {
+        "q": "1/2",
+        "u": null,
+        "n": "green bell pepper, diced"
+      },
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "vegetable broth"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of turmeric (optional)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "heavy whipping cream"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "shredded cheddar cheese"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Toppings: sliced jalapeños, extra cheese, bacon bits (optional)"
+      }
+    ],
+    "steps": [
+      "In a large pot over medium heat, sauté the onion, celery, carrots, and garlic in the butter until soft.",
+      "Add the potato, zucchini, corn, and peppers and cook 1–2 minutes.",
+      "Add the broth, salt, and turmeric. Simmer on low 15–20 minutes, until the potatoes are fork-tender.",
+      "Keeping it at a simmer, stir in the cream and cheese until melted.",
+      "Serve with your choice of toppings."
+    ],
+    "notes": [
+      "Great with cornbread."
+    ]
+  },
+  {
+    "id": "crunchy-asian-sesame-slaw",
+    "title": "Crunchy Asian Sesame Slaw",
+    "collection": "collected",
+    "source": "@grandmasmediterraneanrecipes — Instagram",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "15 min",
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Salads",
+      "Sides"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "green cabbage, shredded"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "red cabbage, shredded"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "carrots, julienned"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "cucumber, diced"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "green onions, sliced"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "cilantro, chopped"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "roasted peanuts, chopped"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "toasted sesame seeds"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "crispy fried onions"
+      },
+      {
+        "q": "3",
+        "u": "Tbsp",
+        "n": "rice vinegar (dressing)"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "soy sauce (dressing)"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "sesame oil (dressing)"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "honey (dressing)"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "ginger, grated (dressing)"
+      },
+      {
+        "q": "1",
+        "u": "clove",
+        "n": "garlic, minced (dressing)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of chili flakes (dressing)"
+      }
+    ],
+    "steps": [
+      "Combine the cabbages, carrots, cucumber, green onions, cilantro, and peanuts in a large bowl.",
+      "Whisk the dressing ingredients, pour over the slaw, and toss. Let rest 10 minutes.",
+      "Top with the sesame seeds and crispy onions just before serving."
+    ],
+    "notes": []
+  },
+  {
+    "id": "cheesy-green-chile-sweet-corn",
+    "title": "Cheesy Green Chile Sweet Corn",
+    "collection": "collected",
+    "source": "@heartbeetkitchen — Instagram",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "7 min",
+    "cook": "10 min",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Sides",
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Cheese",
+      "Vegetarian"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [
+      "Gluten-free"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1–2",
+        "u": "Tbsp",
+        "n": "butter"
+      },
+      {
+        "q": "1",
+        "u": "small",
+        "n": "onion, diced"
+      },
+      {
+        "q": "4–5",
+        "u": null,
+        "n": "ears fresh sweet corn, kernels cut off (about 3–4 cups)"
+      },
+      {
+        "q": "1",
+        "u": "(4 oz) can",
+        "n": "diced green chiles, undrained"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "garlic powder"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "salt, or to taste"
+      },
+      {
+        "q": "1/4–1/2",
+        "u": "cup",
+        "n": "sour cream"
+      },
+      {
+        "q": "1/4–1/2",
+        "u": "cup",
+        "n": "fresh cilantro, chopped"
+      },
+      {
+        "q": "1/2–1",
+        "u": null,
+        "n": "lime, juiced"
+      },
+      {
+        "q": "1–1 1/2",
+        "u": "cups",
+        "n": "shredded Pepper Jack cheese"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Tortilla chips, for serving"
+      }
+    ],
+    "steps": [
+      "Cut the kernels off the cobs.",
+      "Melt the butter in a large skillet over medium heat. Sauté the onion until soft, 3–5 minutes.",
+      "Add the corn and cook a few minutes, stirring occasionally.",
+      "Stir in the green chiles with their liquid, garlic powder, and salt. Cook until heated through.",
+      "Off the heat, stir in the sour cream, cilantro, and lime juice.",
+      "Cover with the Pepper Jack, put a lid on, and let sit a few minutes until melted and bubbly.",
+      "Serve hot from the pan with tortilla chips."
+    ],
+    "notes": [
+      "Hearty enough to serve as a light dinner, not just a dip."
+    ]
+  },
+  {
+    "id": "jalapeno-hot-honey-corn-dip",
+    "title": "Jalapeño Hot Honey Corn Dip",
+    "collection": "collected",
+    "source": "@cookwithchay — Instagram",
+    "yield": "6 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "25 min",
+    "total": null,
+    "oven": "375°F",
+    "course": [
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Cream Cheese",
+      "Cheese"
+    ],
+    "season": [
+      "Game Day"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": "cups",
+        "n": "corn, fresh, canned, or frozen"
+      },
+      {
+        "q": "8",
+        "u": "oz",
+        "n": "cream cheese, softened"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "mayonnaise"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "sour cream"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "shredded cheddar cheese"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "chili powder"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "paprika"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "garlic powder"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "black pepper"
+      },
+      {
+        "q": "2",
+        "u": null,
+        "n": "jalapeños, diced"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "cilantro, chopped"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "green onion, sliced"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "cotija cheese (optional garnish)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Tajín and lime (optional garnish)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Hot honey, for drizzling"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Tortilla chips, for serving"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 375°F.",
+      "Mix the cream cheese, mayonnaise, sour cream, cheddar, and seasonings.",
+      "Stir in the corn, green onion, cilantro, and jalapeños.",
+      "Spread in a baking dish and bake 25 minutes.",
+      "Drizzle with hot honey, add cotija, Tajín, and lime if you like, and serve with tortilla chips."
+    ],
+    "notes": [
+      "The creator lists the salt, chili powder, paprika, and garlic powder together as \"1 teaspoon\"; this reads it as 1 tsp each."
+    ]
+  },
+  {
+    "id": "best-4-ingredient-queso",
+    "title": "Best 4-Ingredient Queso",
+    "collection": "collected",
+    "source": "@brittbrim — Instagram",
+    "yield": "6 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "5 min",
+    "cook": "10 min",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Cheese"
+    ],
+    "season": [
+      "Game Day"
+    ],
+    "method": [
+      "Gluten-free"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1/2",
+        "u": "lb",
+        "n": "white American cheese, sliced fresh at the deli"
+      },
+      {
+        "q": "1/2",
+        "u": "lb",
+        "n": "pepper jack cheese, sliced fresh at the deli"
+      },
+      {
+        "q": "1",
+        "u": "(12 oz) can",
+        "n": "evaporated milk"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "cumin"
+      }
+    ],
+    "steps": [
+      "Melt everything together low and slow in a saucepan, stirring.",
+      "Serve right away, or keep warm in a small slow cooker."
+    ],
+    "notes": [
+      "Use cheese sliced fresh at the deli; pre-shredded cheese won't melt as smoothly."
+    ]
+  },
+  {
+    "id": "crispy-pork-tenderloin",
+    "title": "Crispy Pork Tenderloin",
+    "collection": "collected",
+    "source": "@osamashealthyrecipes — Instagram",
+    "yield": "3 servings",
+    "yieldNum": 3,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "20–25 min",
+    "total": null,
+    "oven": "400°F",
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Pork"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "pork tenderloin"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "Dijon mustard"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "panko breadcrumbs"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "garlic powder"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "paprika"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt, to taste"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Black pepper, to taste"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 400°F.",
+      "Pat the pork dry and season all over with salt and pepper. Spread the Dijon over the whole surface.",
+      "Mix the panko, garlic powder, and paprika in a shallow dish. Roll the pork in it, pressing to coat.",
+      "Heat the oil in an oven-safe skillet over medium-high heat. Sear the pork 2–3 minutes per side until golden.",
+      "Move the skillet to the oven and roast 15–20 minutes, to 145°F inside.",
+      "Rest 5–10 minutes, loosely covered with foil, then slice."
+    ],
+    "notes": []
+  },
+  {
+    "id": "chimichurri-sauce",
+    "title": "Chimichurri Sauce",
+    "collection": "collected",
+    "source": "@chef_sanojsathya — Instagram",
+    "yield": "6 servings",
+    "yieldNum": 6,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Sauces & Marinades"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [
+      "Summer"
+    ],
+    "method": [
+      "Make-ahead",
+      "Gluten-free"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "150",
+        "u": "g",
+        "n": "fresh parsley, finely chopped"
+      },
+      {
+        "q": "40",
+        "u": "g",
+        "n": "fresh cilantro, finely chopped (optional)"
+      },
+      {
+        "q": "10",
+        "u": "g",
+        "n": "fresh oregano, finely chopped"
+      },
+      {
+        "q": "3",
+        "u": "g",
+        "n": "dried oregano"
+      },
+      {
+        "q": "25",
+        "u": "g",
+        "n": "garlic, finely minced"
+      },
+      {
+        "q": "5",
+        "u": "g",
+        "n": "red chili flakes"
+      },
+      {
+        "q": "3",
+        "u": "g",
+        "n": "smoked paprika"
+      },
+      {
+        "q": "200",
+        "u": "ml",
+        "n": "olive oil"
+      },
+      {
+        "q": "50",
+        "u": "ml",
+        "n": "red wine vinegar"
+      },
+      {
+        "q": "10",
+        "u": "ml",
+        "n": "lemon juice"
+      },
+      {
+        "q": "8",
+        "u": "g",
+        "n": "salt"
+      },
+      {
+        "q": "3",
+        "u": "g",
+        "n": "black pepper"
+      }
+    ],
+    "steps": [
+      "Whisk the olive oil, vinegar, and lemon juice in a medium bowl.",
+      "Whisk in the garlic, chili flakes, smoked paprika, dried oregano, salt, and pepper.",
+      "Stir in the parsley, cilantro, and fresh oregano until evenly green.",
+      "Taste and adjust the seasoning. Let sit about 30 minutes before serving so the flavors blend."
+    ],
+    "notes": [
+      "Apple cider vinegar works in place of red wine vinegar."
+    ]
+  },
+  {
+    "id": "crab-rangoon-wonton-nachos",
+    "title": "Crab Rangoon Wonton Nachos",
+    "collection": "collected",
+    "source": "@littlebbanghouse — Instagram",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "25 min",
+    "cook": "20 min",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Seafood",
+      "Cream Cheese"
+    ],
+    "season": [
+      "Game Day"
+    ],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "8",
+        "u": "oz",
+        "n": "cream cheese, softened"
+      },
+      {
+        "q": "8",
+        "u": "oz",
+        "n": "imitation crab, chopped"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "green onions, thinly sliced"
+      },
+      {
+        "q": "3–4",
+        "u": "cloves",
+        "n": "garlic, minced"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "soy sauce"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "Worcestershire sauce"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "sugar"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "ground pepper"
+      },
+      {
+        "q": "1",
+        "u": "package",
+        "n": "wonton wrappers"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Water, for sealing"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Neutral oil, for pan frying"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Topping: spicy mayo or gochujang crema"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Topping: sweet chili sauce"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Topping: chili oil"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Topping: Sriracha (optional)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Topping: chopped green onions"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Topping: sliced serrano peppers"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Topping: furikake"
+      }
+    ],
+    "steps": [
+      "Mix the cream cheese, crab, sliced green onions, garlic, soy sauce, Worcestershire, sugar, salt, and pepper until well combined.",
+      "Moisten the edges of a wonton wrapper with water. Spoon 1–2 Tbsp filling in the center, top with a second wrapper, and press the edges to seal with no air inside.",
+      "Repeat with the remaining wrappers and filling.",
+      "Heat enough oil to shallow-fry in a large pan over medium heat. Fry the wontons in a single layer a few minutes per side until golden and crisp. Drain on paper towels.",
+      "Arrange on a platter. Drizzle with spicy mayo, sweet chili sauce, chili oil, and Sriracha, then sprinkle with green onions, serranos, and furikake. Serve right away."
+    ],
+    "notes": [
+      "Toppings are to taste."
+    ]
+  },
+  {
+    "id": "shrimp-linguine-fra-diavolo",
+    "title": "Shrimp Linguine Fra Diavolo (Ina Garten's Way)",
+    "collection": "collected",
+    "source": "Food Network — Instagram",
+    "yield": "4 servings",
+    "yieldNum": 4,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "20 min",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Seafood",
+      "Pasta"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "lb",
+        "n": "linguine"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "unsalted butter, divided"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "1",
+        "u": "large",
+        "n": "red onion, thinly sliced"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "garlic, minced"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "red pepper flakes, or more to taste"
+      },
+      {
+        "q": "1 1/4",
+        "u": "lb",
+        "n": "large shrimp (16–20 count), peeled and deveined"
+      },
+      {
+        "q": "2/3",
+        "u": "cup",
+        "n": "dry white wine"
+      },
+      {
+        "q": "1",
+        "u": "jar",
+        "n": "arrabbiata sauce"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "panko breadcrumbs"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "fresh Italian parsley, chopped, divided"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Kosher salt, to taste"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Freshly ground black pepper, to taste"
+      }
+    ],
+    "steps": [
+      "Cook the linguine in heavily salted boiling water until al dente. Save about 1 cup of pasta water before draining.",
+      "Meanwhile, melt 1 Tbsp butter with the olive oil in a large, deep skillet over medium heat. Cook the onion until very tender and lightly caramelized, 8–10 minutes.",
+      "Add the garlic and red pepper flakes and cook 1 minute. Season the shrimp with salt and pepper and sear in one layer, 1–2 minutes per side.",
+      "Add the wine and simmer 2–3 minutes, scraping up the browned bits. Stir in the arrabbiata sauce and bring to a gentle simmer.",
+      "In a small skillet, melt the remaining butter over low heat and toast the panko until golden. Off the heat, stir in half the parsley and a pinch of salt and pepper.",
+      "Tong the linguine into the shrimp sauce with the remaining parsley and toss, adding pasta water as needed.",
+      "Serve topped with the crispy panko."
+    ],
+    "notes": []
+  },
+  {
+    "id": "red-lobster-cheddar-biscuits-copycat",
+    "title": "Cheddar Bay Biscuits (Red Lobster Copycat)",
+    "collection": "collected",
+    "source": "@thechefsavvy — Instagram",
+    "yield": "6 biscuits",
+    "yieldNum": 6,
+    "yieldUnit": "biscuits",
+    "prep": "5 min",
+    "cook": "12–15 min",
+    "total": null,
+    "oven": "400°F",
+    "course": [
+      "Breads & Rolls"
+    ],
+    "main": [
+      "Cheese",
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "all-purpose flour"
+      },
+      {
+        "q": "1/2",
+        "u": "Tbsp",
+        "n": "baking powder"
+      },
+      {
+        "q": "1/4",
+        "u": "tsp",
+        "n": "salt"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "garlic powder"
+      },
+      {
+        "q": "4",
+        "u": "Tbsp",
+        "n": "unsalted butter, cold, cubed"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "sharp cheddar cheese, shredded"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "milk"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "lemon juice"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "unsalted butter, melted (topping)"
+      },
+      {
+        "q": "1",
+        "u": "clove",
+        "n": "garlic, minced (topping)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "dried parsley (topping)"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 400°F. Line a baking sheet with parchment.",
+      "Pulse the flour, baking powder, salt, and garlic powder in a food processor. Add the cold butter and pulse to coarse crumbs.",
+      "Add the cheese and pulse briefly.",
+      "Stir the lemon juice into the milk, add to the processor, and pulse just until a shaggy dough forms.",
+      "Scoop 6 mounds onto the baking sheet. Bake 12–15 minutes until golden.",
+      "Stir the melted butter, garlic, and parsley together and brush over the hot biscuits."
+    ],
+    "notes": []
+  },
+  {
+    "id": "neiman-marcus-cake",
+    "title": "Neiman Marcus Cake",
+    "collection": "collected",
+    "source": "Allrecipes — Instagram",
+    "yield": "12 servings",
+    "yieldNum": 12,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "35 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Cakes & Pies",
+      "Cookies & Bars"
+    ],
+    "main": [
+      "Cream Cheese"
+    ],
+    "season": [
+      "Christmas"
+    ],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": "package",
+        "n": "yellow cake mix"
+      },
+      {
+        "q": "4",
+        "u": null,
+        "n": "eggs, divided"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "butter, melted"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "8",
+        "u": "oz",
+        "n": "cream cheese, softened"
+      },
+      {
+        "q": "3 1/2",
+        "u": "cups",
+        "n": "confectioners' sugar"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Grease a 9x13 pan.",
+      "Mix the cake mix, 2 eggs, butter, and vanilla. The batter will be stiff. Press it into the pan.",
+      "Beat the cream cheese, confectioners' sugar, and remaining 2 eggs until smooth. Pour over the batter.",
+      "Bake about 35 minutes, until a toothpick in the center comes out clean."
+    ],
+    "notes": []
+  },
+  {
+    "id": "cinnamon-crumb-coffee-cake",
+    "title": "Cinnamon Crumb Coffee Cake",
+    "collection": "collected",
+    "source": "@ameliaisnotachef — Instagram",
+    "yield": "12 servings",
+    "yieldNum": 12,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "40–60 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Cakes & Pies",
+      "Breakfast"
+    ],
+    "main": [
+      "Flour & Yeast"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "all-purpose flour (crumb topping)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "brown sugar, packed (crumb topping)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "granulated sugar (crumb topping)"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "ground cinnamon (crumb topping)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "kosher salt (crumb topping)"
+      },
+      {
+        "q": "16",
+        "u": "Tbsp",
+        "n": "salted butter, melted (crumb topping)"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "brown sugar, packed (cinnamon swirl)"
+      },
+      {
+        "q": "4",
+        "u": "Tbsp",
+        "n": "butter, melted (cinnamon swirl)"
+      },
+      {
+        "q": "2 1/2",
+        "u": "tsp",
+        "n": "cinnamon (cinnamon swirl)"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "heavy cream or milk (cinnamon swirl)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of salt (cinnamon swirl)"
+      },
+      {
+        "q": "3",
+        "u": "cups",
+        "n": "all-purpose flour (cake)"
+      },
+      {
+        "q": "2 1/2",
+        "u": "tsp",
+        "n": "baking powder (cake)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "baking soda (cake)"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "kosher salt (cake)"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "salted butter, very soft (cake)"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "granulated sugar (cake)"
+      },
+      {
+        "q": "3",
+        "u": "large",
+        "n": "eggs plus 1 egg yolk (cake)"
+      },
+      {
+        "q": "1 1/2",
+        "u": "cups",
+        "n": "full-fat sour cream, room temperature (cake)"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "vanilla extract (cake)"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "neutral oil (cake)"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Grease a 9x13 pan and line with parchment if you like.",
+      "Crumb topping: mix the flour, sugars, cinnamon, and salt. Stir in the melted butter until large crumbs form. Set aside.",
+      "Cinnamon swirl: stir the brown sugar, melted butter, cinnamon, cream, and salt until smooth. Set aside.",
+      "Cake: whisk the flour, baking powder, baking soda, and salt. In a large bowl, beat the butter and sugar until fluffy, 2–3 minutes.",
+      "Beat in the eggs one at a time, then the yolk. Mix in the sour cream, oil, and vanilla. Add the dry ingredients and mix just until combined.",
+      "Spread half the batter in the pan, spread the cinnamon swirl over it, then top with the rest of the batter.",
+      "Scatter the crumb topping over the top and press lightly.",
+      "Bake 40–60 minutes, until golden and a toothpick comes out with moist crumbs (the creator's was done at 49 minutes).",
+      "Cool in the pan 45–60 minutes before slicing."
+    ],
+    "notes": []
+  },
+  {
+    "id": "carbones-spicy-rigatoni",
+    "title": "Spicy Rigatoni (Carbone Copycat)",
+    "collection": "collected",
+    "source": "@cookwithchay — Instagram",
+    "yield": "2 servings",
+    "yieldNum": 2,
+    "yieldUnit": "servings",
+    "prep": "10 min",
+    "cook": "15 min",
+    "total": null,
+    "oven": null,
+    "course": [
+      "Main Dishes"
+    ],
+    "main": [
+      "Pasta"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "10",
+        "u": "oz",
+        "n": "rigatoni"
+      },
+      {
+        "q": "1",
+        "u": "tsp",
+        "n": "salt, for the pasta water"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pasta water, reserved, as needed"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "olive oil"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "butter"
+      },
+      {
+        "q": "1/2",
+        "u": null,
+        "n": "onion, chopped"
+      },
+      {
+        "q": "1",
+        "u": null,
+        "n": "shallot, chopped"
+      },
+      {
+        "q": "2–4",
+        "u": "cloves",
+        "n": "garlic, chopped"
+      },
+      {
+        "q": "1",
+        "u": "heaping Tbsp",
+        "n": "Calabrian chili paste"
+      },
+      {
+        "q": "6",
+        "u": "oz",
+        "n": "tomato paste"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "vodka"
+      },
+      {
+        "q": "1",
+        "u": "cup",
+        "n": "heavy whipping cream"
+      },
+      {
+        "q": "3–4",
+        "u": "Tbsp",
+        "n": "fresh basil, sliced"
+      },
+      {
+        "q": "1/4",
+        "u": "cup",
+        "n": "Parmesan cheese, shredded"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of sugar (optional)"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt, to taste"
+      }
+    ],
+    "steps": [
+      "Cook the rigatoni in salted water until al dente; reserve some pasta water.",
+      "Melt the butter with the olive oil over medium-low heat. Cook the onion 2 minutes, then add the shallot and garlic for 1 minute.",
+      "Add the Calabrian chili and cook 30 seconds.",
+      "Add the tomato paste and cook on low about 5 minutes, stirring, until it darkens and caramelizes. Don't let it burn.",
+      "Add the vodka and cook about 1 minute to burn off the alcohol.",
+      "Whisk in the cream and simmer a few minutes until the sauce turns deep orange-red and thickens.",
+      "Add the basil, Parmesan, and pasta, plus a splash of pasta water if needed for a silky sauce.",
+      "Season with a pinch of sugar and salt. Adjust the chili to taste."
+    ],
+    "notes": []
+  },
+  {
+    "id": "peanut-sauce-for-spring-rolls",
+    "title": "Peanut Sauce for Spring Rolls",
+    "collection": "collected",
+    "source": "Saved via Clove (original creator not listed)",
+    "yield": "about 1 cup",
+    "yieldNum": 1,
+    "yieldUnit": "cup",
+    "prep": "5 min",
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Sauces & Marinades"
+    ],
+    "main": [
+      "Peanut Butter"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "smooth peanut butter"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "soy sauce"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "rice vinegar"
+      },
+      {
+        "q": "2",
+        "u": "Tbsp",
+        "n": "brown sugar, packed"
+      },
+      {
+        "q": "1",
+        "u": "clove",
+        "n": "garlic, finely minced"
+      },
+      {
+        "q": "1/2–1",
+        "u": "tsp",
+        "n": "sriracha, to taste"
+      },
+      {
+        "q": "3–6",
+        "u": "Tbsp",
+        "n": "warm water"
+      }
+    ],
+    "steps": [
+      "Whisk everything except the water in a medium bowl until smooth.",
+      "Whisk in warm water 1 Tbsp at a time until it reaches the consistency you like.",
+      "Serve with fresh spring rolls."
+    ],
+    "notes": []
+  },
+  {
+    "id": "italian-almond-ricotta-cake",
+    "title": "Italian Almond and Ricotta Cake",
+    "collection": "collected",
+    "source": "Cooking with Manuela (@cookwithmanuela)",
+    "yield": "8 servings",
+    "yieldNum": 8,
+    "yieldUnit": "servings",
+    "prep": "20 min",
+    "cook": "55–60 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Cheese"
+    ],
+    "season": [],
+    "method": [
+      "Gluten-free"
+    ],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "4",
+        "u": "oz",
+        "n": "unsalted butter, softened"
+      },
+      {
+        "q": "3/4",
+        "u": "cup",
+        "n": "granulated sugar"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "1/2",
+        "u": "tsp",
+        "n": "almond extract"
+      },
+      {
+        "q": "4",
+        "u": "large",
+        "n": "eggs, separated"
+      },
+      {
+        "q": "15",
+        "u": "oz",
+        "n": "whole-milk ricotta, drained"
+      },
+      {
+        "q": "1–2",
+        "u": "large",
+        "n": "lemons, finely grated zest only"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "almond flour"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Pinch of salt"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "sliced almonds"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "powdered sugar, for serving"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Grease or line an 8- or 9-inch springform pan.",
+      "Beat the butter and sugar until very smooth. Beat in the egg yolks.",
+      "Beat in the ricotta, lemon zest (no juice), and both extracts, then the almond flour and salt.",
+      "Whip the egg whites to stiff peaks and gently fold them into the batter.",
+      "Pour into the pan and sprinkle generously with the sliced almonds.",
+      "Bake 55–60 minutes, until set and golden on top. Don't overbake.",
+      "Cool to room temperature, remove from the pan, and dust with powdered sugar."
+    ],
+    "notes": [
+      "Use room-temperature ingredients, and drain the ricotta well."
+    ]
+  },
+  {
+    "id": "easy-orange-loaf-cake",
+    "title": "Easy Orange Loaf Cake",
+    "collection": "collected",
+    "source": "@succulentbite — Instagram",
+    "yield": "8 servings",
+    "yieldNum": 8,
+    "yieldUnit": "servings",
+    "prep": "15 min",
+    "cook": "50 min",
+    "total": null,
+    "oven": "350°F",
+    "course": [
+      "Cakes & Pies"
+    ],
+    "main": [
+      "Fruit"
+    ],
+    "season": [],
+    "method": [],
+    "isBaked": true,
+    "ingredients": [
+      {
+        "q": "1",
+        "u": null,
+        "n": "whole orange (peel and all), cut into pieces, seeds removed"
+      },
+      {
+        "q": "3",
+        "u": null,
+        "n": "eggs"
+      },
+      {
+        "q": "1 1/4",
+        "u": "cups",
+        "n": "sugar"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "olive oil"
+      },
+      {
+        "q": "1/2",
+        "u": "cup",
+        "n": "full-fat plain yogurt"
+      },
+      {
+        "q": "1",
+        "u": "Tbsp",
+        "n": "vanilla extract"
+      },
+      {
+        "q": "2",
+        "u": "cups",
+        "n": "flour"
+      },
+      {
+        "q": "2",
+        "u": "tsp",
+        "n": "baking powder"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350°F. Grease a loaf pan.",
+      "Blend all the ingredients until smooth and pour into the pan.",
+      "Bake about 50 minutes, until a toothpick comes out clean.",
+      "Cool, slice, and serve."
+    ],
+    "notes": [
+      "The whole orange goes into the blender, peel included."
+    ]
+  },
+  {
     "id": "chipotle-rosemary-roasted-nuts",
     "title": "Chipotle & Rosemary Roasted Nuts",
     "collection": "collected",
