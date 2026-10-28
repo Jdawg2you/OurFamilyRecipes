@@ -1,5 +1,100 @@
 [
   {
+    "id": "jesses-hearty-salsa",
+    "title": "Jesse's Hearty Salsa",
+    "collection": "family",
+    "source": null,
+    "yield": null,
+    "yieldNum": null,
+    "yieldUnit": null,
+    "prep": null,
+    "cook": null,
+    "total": null,
+    "oven": null,
+    "course": [
+      "Appetizers & Dips"
+    ],
+    "main": [
+      "Vegetarian"
+    ],
+    "season": [],
+    "method": [
+      "Make-ahead",
+      "Gluten-free"
+    ],
+    "isBaked": false,
+    "ingredients": [
+      {
+        "q": "2",
+        "u": "cans",
+        "n": "black beans, rinsed"
+      },
+      {
+        "q": "2",
+        "u": "bags",
+        "n": "frozen sweet white corn"
+      },
+      {
+        "q": "6",
+        "u": null,
+        "n": "red, orange, or yellow bell peppers"
+      },
+      {
+        "q": "2",
+        "u": "large",
+        "n": "red onions"
+      },
+      {
+        "q": "5",
+        "u": null,
+        "n": "limes, squeezed"
+      },
+      {
+        "q": "10",
+        "u": "cloves",
+        "n": "garlic, minced"
+      },
+      {
+        "q": "7",
+        "u": null,
+        "n": "flavorful tomatoes"
+      },
+      {
+        "q": "2",
+        "u": "bunches",
+        "n": "cilantro, cleaned well and finely chopped"
+      },
+      {
+        "q": "1–3",
+        "u": null,
+        "n": "jalapeños, minced"
+      },
+      {
+        "q": null,
+        "u": null,
+        "n": "Salt and pepper, to taste"
+      }
+    ],
+    "steps": [
+      "Dice the peppers, onions, and tomatoes.",
+      "Combine everything in a large bowl with the lime juice, then season with salt and pepper.",
+      "Cover and refrigerate so the flavors can marinate before serving."
+    ],
+    "notes": [
+      "This is the full batch I make. The recipe can easily be cut in half.",
+      "Let the flavors marinate. It gets better and better each day."
+    ],
+    "people": [
+      "Jesse"
+    ],
+    "from": {
+      "kind": "kitchen",
+      "called": "Jesse",
+      "lastName": "Stamm",
+      "side": "Stamm"
+    }
+  },
+  {
     "id": "air-fryer-churro-chips",
     "title": "Air-Fryer Churro Chips",
     "collection": "collected",
